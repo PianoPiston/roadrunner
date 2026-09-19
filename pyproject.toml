@@ -1,0 +1,31 @@
+[project]
+name = "acme-agent"
+version = "0.1.0"
+description = "Two-stage citation-grounded QA over the Acme archive (RELEX challenge, AaltoAI Hackathon 2026)"
+readme = "README.md"
+requires-python = ">=3.11,<4.0"
+dependencies = [
+    "openai (>=1.109.0,<4.0.0)",
+    "openai-agents (>=0.2.0,<1.0.0)",
+    "fastapi (>=0.115.0,<1.0.0)",
+    "uvicorn[standard] (>=0.32.0,<1.0.0)",
+    "pydantic (>=2.9.0,<3.0.0)",
+    "python-dotenv (>=1.0.1,<2.0.0)",
+]
+
+[project.scripts]
+acme-agent = "acme_agent.app:main"
+
+[tool.poetry]
+packages = [{ include = "acme_agent", from = "src" }]
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.0"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+data/index.json
+data/cache/
+data/deletion_ledger.json
+answers/
+.venv/
+dist/
+node_modules/
+.DS_Store
+__MACOSX/
+.env.bak
