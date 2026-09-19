@@ -1,0 +1,95 @@
+.message-paragraph {
+  margin: 0 0 10px;
+}
+
+.message-paragraph:last-child {
+  margin-bottom: 0;
+}
+
+.clickable-word {
+  display: inline;
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  font: inherit;
+  color: var(--accent);
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 3px;
+  cursor: pointer;
+}
+
+.clickable-word:hover {
+  color: var(--accent-hover);
+}
+
+.message-row.user .clickable-word {
+  color: #fff;
+  text-decoration-color: rgba(255, 255, 255, 0.6);
+}
+
+.bullet-list {
+  margin: 0 0 10px;
+  padding-left: 0;
+  list-style: none;
+}
+
+.bullet-list:last-child {
+  margin-bottom: 0;
+}
+
+.bullet-item {
+  margin: 4px 0;
+}
+
+.bullet-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 6px;
+}
+
+.bullet-row::before {
+  content: '•';
+  flex-shrink: 0;
+  color: var(--text-dim);
+}
+
+.bullet-text {
+  flex: 1;
+}
+
+.bullet-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  margin-top: 1px;
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  color: var(--text-dim);
+  cursor: pointer;
+  transition: transform 0.15s ease;
+}
+
+.bullet-toggle:hover {
+  color: var(--text);
+  background: var(--bg-hover);
+}
+
+.bullet-toggle.expanded {
+  transform: rotate(90deg);
+}
+
+.bullet-detail {
+  margin: 4px 0 0 18px;
+  padding: 8px 10px;
+  background: rgba(255, 255, 255, 0.04);
+  border-left: 2px solid var(--border);
+  border-radius: 4px;
+  font-size: 14px;
+  color: var(--text-dim);
+}

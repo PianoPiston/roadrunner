@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "acme-chat",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "acme-chat", "run", "start"],
+      "port": 5173
+    }
+  ]
+}
