@@ -2,14 +2,13 @@
  * Developer view: exact lookups against the index.
  *
  * Grep, the unit inspector and the quote checker are all deterministic and
- * free -- they are the things a language model is bad at. The ask box defaults
- * to the fast path (no 45-document sweep) because most developer questions are
- * lookups, not questions about absence.
+ * free -- they are the things a language model is bad at. The chatbox below
+ * them defaults to the fast path (no 45-document sweep) because most developer
+ * questions are lookups, not questions about absence.
  */
 import { useState } from 'react';
-import { ask, getUnit, grep, verifyQuote } from '../lib/api.js';
+import { getUnit, grep, verifyQuote } from '../lib/api.js';
 import { useArchive } from '../lib/ArchiveContext.jsx';
-import AnswerView from '../components/AnswerView.jsx';
 import ViewShell, { Panel } from '../components/ViewShell.jsx';
 
 const VIEW = 'dev';
@@ -23,6 +22,7 @@ export default function DevView() {
       accent="#7aa2f7"
       title="Developer"
       subtitle="Exact, deterministic lookups — no model unless you ask for one"
+      defaultSweep={false}
     >
       {stats && (
         <div className="view-grid">
@@ -30,7 +30,6 @@ export default function DevView() {
           <UnitPanel />
           <VerifyPanel />
           <HealthPanel stats={stats} />
-          <AskPanel />
         </div>
       )}
     </ViewShell>
@@ -233,55 +232,6 @@ function HealthPanel({ stats }) {
         <div><span>built</span>{stats.built_at}</div>
         <div><span>by kind</span>{Object.entries(stats.units_by_kind).map(([k, v]) => `${k} ${v}`).join(' · ')}</div>
       </div>
-    </Panel>
-  );
-}
-
-function AskPanel() {
-  const [q, setQ] = useState('');
-  const [sweep, setSweep] = useState(false);
-  const [bundle, setBundle] = useState(null);
-  const [busy, setBusy] = useState(false);
-
-  const run = async () => {
-    if (!q.trim()) return;
-    setBusy(true);
-    setBundle(null);
-    try {
-      setBundle(await ask(q, { view: VIEW, runSweep: sweep }));
-    } catch (err) {
-      setBundle({ error: err.message });
-    } finally {
-      setBusy(false);
-    }
-  };
-
-  return (
-    <Panel title="Ask the agent" note="the only panel that spends tokens" wide>
-      <textarea className="field dev-textarea" rows={2} value={q}
-                onChange={(e) => setQ(e.target.value)}
-                placeholder="Ask anything about the archive…" />
-      <div className="dev-row dev-row-top">
-        <label className="dev-check">
-          <input type="checkbox" checked={sweep} onChange={(e) => setSweep(e.target.checked)} />
-          full sweep (reads all 45 documents)
-        </label>
-        <button className="btn btn-primary" onClick={run} disabled={busy || !q.trim()}>
-          {busy ? 'Running…' : 'Ask'}
-        </button>
-      </div>
-      <div className="cost-hint">
-        {sweep
-          ? 'Full sweep: ~115k cheap-model tokens plus the analyst. Needed for questions about absence — what was agreed and never done.'
-          : 'Fast path: tools only, roughly 45× cheaper and a few seconds. Right for lookups, wrong for questions about absence.'}
-      </div>
-
-      {bundle?.error && <div className="view-state error">{bundle.error}</div>}
-      {bundle && !bundle.error && (
-        <div className="dev-answer">
-          <AnswerView bundle={bundle} showTrace />
-        </div>
-      )}
     </Panel>
   );
 }

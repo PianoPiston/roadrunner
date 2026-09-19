@@ -67,8 +67,36 @@
   flex: 1;
   min-height: 0;
   overflow-y: auto;
-  padding: 20px 22px 40px;
+  padding: 24px 26px 28px;
 }
+
+/* --- the chatbox, pinned below the scrolling body ----------------------- */
+.view-chat {
+  flex: none;
+  border-top: 1px solid var(--border);
+  background: var(--bg-sidebar);
+  padding-top: 12px;
+}
+
+.view-chat-opts {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 0 26px;
+}
+
+.view-chat-cost {
+  font-size: 11.5px;
+  color: var(--text-dim);
+}
+
+/* The send button follows the view's accent instead of the global green. */
+.view-chat .send-button { background: var(--view-accent); color: #0b0b0b; }
+.view-chat .send-button:hover:not(:disabled) { filter: brightness(1.1); }
+.view-chat .send-button:disabled { background: var(--bg-active); color: var(--text-dim); }
+.view-chat .chat-input-bar { padding: 10px 26px 16px; }
 
 .view-state {
   padding: 40px 0;
@@ -90,7 +118,7 @@
 .view-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
-  gap: 16px;
+  gap: 18px;
   align-items: start;
 }
 
@@ -110,7 +138,7 @@
   align-items: baseline;
   justify-content: space-between;
   gap: 12px;
-  padding: 12px 15px;
+  padding: 13px 17px;
   border-bottom: 1px solid var(--border);
 }
 
@@ -129,7 +157,7 @@
 }
 
 .panel-body {
-  padding: 13px 15px;
+  padding: 15px 17px;
 }
 
 /* --- small shared primitives ------------------------------------------- */

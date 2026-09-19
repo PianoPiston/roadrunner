@@ -6,9 +6,9 @@
  * endpoints, so this page loads instantly and spends nothing.
  */
 import { useMemo, useState } from 'react';
-import { ask, erasePerson } from '../lib/api.js';
+import { erasePerson } from '../lib/api.js';
 import { useArchive } from '../lib/ArchiveContext.jsx';
-import AnswerView from '../components/AnswerView.jsx';
+import { useReports } from '../lib/ReportsContext.jsx';
 import ViewShell, { Panel } from '../components/ViewShell.jsx';
 
 const VIEW = 'manager';
@@ -46,8 +46,6 @@ function cleanName(p) {
 
 export default function ManagerView() {
   const { stats, documents, byDateDesc, internal, people } = useArchive();
-  const [answers, setAnswers] = useState({});
-  const [busy, setBusy] = useState(null);
 
   const gaps = useMemo(() => {
     const dated = [...byDateDesc].reverse();
@@ -85,18 +83,6 @@ export default function ManagerView() {
       })
       .sort((a, b) => (a.from || '').localeCompare(b.from || ''));
   }, [documents]);
-
-  const run = async (item) => {
-    setBusy(item.id);
-    try {
-      const bundle = await ask(item.question, { view: VIEW, runSweep: item.sweep });
-      setAnswers((a) => ({ ...a, [item.id]: bundle }));
-    } catch (err) {
-      setAnswers((a) => ({ ...a, [item.id]: { error: err.message } }));
-    } finally {
-      setBusy(null);
-    }
-  };
 
   return (
     <ViewShell
@@ -195,38 +181,30 @@ export default function ManagerView() {
 
         <ErasurePanel />
 
-        <Panel
-          title="Commitments and drift"
-          note="the only panel here that spends tokens"
-          wide
-        >
-          <div className="canned-row">
-            {CANNED.map((c) => (
-              <button
-                key={c.id}
-                className="btn btn-primary"
-                disabled={busy !== null}
-                onClick={() => run(c)}
-              >
-                {busy === c.id ? 'Running…' : c.label}
-              </button>
-            ))}
-          </div>
-          <div className="cost-hint">
-            {CANNED.map((c) => <div key={c.id}>{c.label} — {c.note}</div>)}
-          </div>
-
-          {CANNED.filter((c) => answers[c.id]).map((c) => (
-            <div key={c.id} className="canned-answer">
-              <h3 className="canned-answer-title">{c.label}</h3>
-              {answers[c.id].error
-                ? <div className="view-state error">{answers[c.id].error}</div>
-                : <AnswerView bundle={answers[c.id]} />}
-            </div>
-          ))}
-        </Panel>
+        <CannedPanel />
       </div>}
     </ViewShell>
+  );
+}
+
+/** Shortcuts into the same ask loop the chatbox uses, so they produce the
+ *  same report card rather than a second, different-looking output. */
+function CannedPanel() {
+  const { runAsk, busy } = useReports();
+  return (
+    <Panel title="Commitments and drift" note="these spend tokens" wide>
+      <div className="canned-row">
+        {CANNED.map((c) => (
+          <button key={c.id} className="btn btn-primary" disabled={busy}
+                  onClick={() => runAsk(c.question, { sweep: c.sweep, label: c.label })}>
+            {c.label}
+          </button>
+        ))}
+      </div>
+      <div className="cost-hint">
+        {CANNED.map((c) => <div key={c.id}>{c.label} — {c.note}</div>)}
+      </div>
+    </Panel>
   );
 }
 
