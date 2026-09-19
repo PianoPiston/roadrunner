@@ -322,6 +322,23 @@ async def people() -> list[dict]:
     return [p.to_dict() for p in store().people.values()]
 
 
+@app.get("/grep")
+async def grep_units(pattern: str, regex: bool = False, limit: int = 100) -> dict:
+    """Exact or regex search. No model calls, so the UI can call it per keystroke."""
+    hits = grep(store(), pattern, regex=regex, limit=limit)
+    return {"pattern": pattern, "count": len(hits), "hits": [
+        {"unit_id": h.unit.unit_id, "doc_id": h.unit.doc_id, "date": h.unit.date,
+         "speaker": h.unit.speaker_display, "locator": h.unit.locator,
+         "truncated": h.unit.truncated, "context": h.why} for h in hits]}
+
+
+@app.get("/figures")
+async def figures(topic: str = "", limit: int = 200) -> dict:
+    """Every dated numeric claim on a topic, oldest first. No model calls."""
+    figs = find_figures(store(), topic or None, limit=limit)
+    return {"topic": topic, "count": len(figs), "figures": figs}
+
+
 @app.post("/verify")
 async def verify(req: VerifyRequest) -> dict:
     return verify_citation(store(), Citation(unit_id=req.unit_id, quote=req.quote)).to_dict()

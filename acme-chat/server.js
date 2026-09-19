@@ -5,7 +5,7 @@ import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ACME_AGENT_DIR = path.resolve(__dirname, '..');
-const TIMEOUT_MS = 2 * 60 * 1000;
+const TIMEOUT_MS = 5 * 60 * 1000;
 
 const app = express();
 app.use(express.json());
@@ -49,7 +49,7 @@ app.post('/api/ask', (req, res) => {
     if (settled) return;
     settled = true;
     clearTimeout(timer);
-    if (code === 0) {
+    if (code === 0 || code === 2) {
       res.json({ output: stdout.trim() });
     } else {
       res.status(500).json({ error: (stderr || stdout || `acme-agent exited with code ${code}`).trim() });

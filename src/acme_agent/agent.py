@@ -635,10 +635,10 @@ class AnswerBundle:
 
         v = self.verification.summary()
         out += ["---",
-                f"_Confidence {a.confidence}. {v['citations_verified']}/{v['citations_total']} "
+                f" Confidence level: {a.confidence}. {v['citations_verified']}/{v['citations_total']} "
                 f"citations verified against the index"
                 + (f"; FAILED: {', '.join(v['citations_failed'])}" if v["citations_failed"] else "")
-                + f". {a.method_note}_"]
+                + f". {a.method_note}"]
         return "\n".join(out)
 
 

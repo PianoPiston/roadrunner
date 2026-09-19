@@ -1,0 +1,139 @@
+.answer {
+  font-size: 13px;
+}
+
+.answer-prose {
+  margin: 0 0 16px;
+  line-height: 1.6;
+  color: var(--text);
+  white-space: pre-wrap;
+}
+
+.answer-section {
+  margin-top: 16px;
+}
+
+.answer-section h3 {
+  margin: 0 0 9px;
+  font-size: 11.5px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-dim);
+}
+
+.answer-claims {
+  margin: 0;
+  padding-left: 18px;
+}
+
+.answer-claims > li {
+  margin-bottom: 13px;
+}
+
+.claim-statement {
+  color: var(--text-h);
+  line-height: 1.5;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 7px;
+}
+
+.citation {
+  margin-top: 6px;
+  padding: 7px 10px;
+  border-left: 2px solid var(--view-accent, var(--accent));
+  border-radius: 0 8px 8px 0;
+  background: var(--bg);
+}
+
+.citation-bad {
+  border-left-color: #ef6b6b;
+}
+
+.citation-quote {
+  color: var(--text);
+  line-height: 1.5;
+}
+
+.citation-ref {
+  margin-top: 4px;
+  font-size: 11.5px;
+  color: var(--text-dim);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 7px;
+}
+
+.claim-superseded {
+  margin-top: 5px;
+  font-size: 11.5px;
+  color: #e4b55e;
+}
+
+.answer-gap {
+  margin-bottom: 8px;
+  padding: 9px 11px;
+  border: 1px solid var(--border);
+  border-radius: 9px;
+  background: var(--bg);
+  line-height: 1.5;
+  color: var(--text-dim);
+}
+
+.answer-gap strong {
+  color: var(--text-h);
+}
+
+.answer-foot {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 7px;
+  margin-top: 16px;
+  padding-top: 12px;
+  border-top: 1px solid var(--border);
+}
+
+.answer-failed {
+  font-size: 11.5px;
+  color: #ef6b6b;
+}
+
+.answer-warnings {
+  margin: 10px 0 0;
+  padding-left: 18px;
+  font-size: 11.5px;
+  color: #e4b55e;
+  line-height: 1.5;
+}
+
+.answer-method {
+  margin: 10px 0 0;
+  font-size: 11.5px;
+  font-style: italic;
+  color: var(--text-dim);
+  line-height: 1.5;
+}
+
+.answer-trace {
+  padding: 9px 11px;
+  border: 1px solid var(--border);
+  border-radius: 9px;
+  background: var(--bg);
+  color: var(--text-dim);
+  line-height: 1.7;
+}
+
+.trace-args {
+  opacity: 0.6;
+}
+
+code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 0.92em;
+  padding: 1px 4px;
+  border-radius: 4px;
+  background: var(--bg-input);
+}
