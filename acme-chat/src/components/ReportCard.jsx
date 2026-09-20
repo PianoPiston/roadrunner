@@ -11,7 +11,7 @@ import { fmt } from '../lib/usage.js';
 import './ReportCard.css';
 
 export default function ReportCard({ report, onDismiss }) {
-  const { question, label, sweep, bundle, error } = report;
+  const { question, label, bundle, error } = report;
   const usage = bundle?.usage;
   const spent = usage ? (usage.triage_input_tokens + usage.triage_output_tokens
     + usage.synth_input_tokens + usage.synth_output_tokens) : 0;
@@ -34,7 +34,7 @@ export default function ReportCard({ report, onDismiss }) {
 
       {!error && (
         <footer className="report-foot">
-          <span className="tag">{sweep ? 'full sweep · all 45 documents' : 'fast path · tools only'}</span>
+          <span className="tag">all 45 documents read</span>
           <span className="tag">{fmt(spent)} tokens</span>
           {usage?.synth_model && <span className="tag">{usage.synth_model}</span>}
         </footer>
@@ -57,9 +57,7 @@ export function PendingReport({ pending }) {
         <div className="report-progress">
           <span className="dot" /><span className="dot" /><span className="dot" />
           <span className="report-progress-text">
-            {pending.sweep
-              ? 'Reading all 45 documents, then verifying every citation — this takes about a minute.'
-              : 'Searching the index and verifying citations — a few seconds.'}
+            Reading all 45 documents, then verifying every citation — about a minute.
           </span>
         </div>
       </div>

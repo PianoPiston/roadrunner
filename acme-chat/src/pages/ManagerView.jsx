@@ -19,24 +19,21 @@ const CANNED = [
     label: 'What was agreed and then never done?',
     question:
       'Find one thing in the archive that was agreed and then never done. Show the trail from the agreement to the present, and say who would have needed to notice.',
-    note: 'Full sweep — needs whole-timeline coverage',
-    sweep: true,
+    note: 'Establishes absence by covering the whole timeline',
   },
   {
     id: 'reports-true',
     label: 'Are the weekly status reports telling the truth?',
     question:
       'The weekly status reports say the nightly article extract completed with no errors. Is that true? Answer the question the reports are actually evidence for, and say what they are not evidence for.',
-    note: 'Full sweep — cross-checks reports against incidents',
-    sweep: true,
+    note: 'Cross-checks the reports against the incident record',
   },
   {
     id: 'uat',
     label: 'Was UAT actually signed off, and for what scope?',
     question:
       'Did Acme sign off UAT for the programme? Quote the scope of what was actually signed, and name who signed it.',
-    note: 'Fast path — targeted lookup',
-    sweep: false,
+    note: 'Pins the signed scope to who actually signed it',
   },
 ];
 
@@ -192,11 +189,11 @@ export default function ManagerView() {
 function CannedPanel() {
   const { runAsk, busy } = useReports();
   return (
-    <Panel title="Commitments and drift" note="these spend tokens" wide>
+    <Panel title="Commitments and drift" note="each reads all 45 documents" wide>
       <div className="canned-row">
         {CANNED.map((c) => (
           <button key={c.id} className="btn btn-primary" disabled={busy}
-                  onClick={() => runAsk(c.question, { sweep: c.sweep, label: c.label })}>
+                  onClick={() => runAsk(c.question, { label: c.label })}>
             {c.label}
           </button>
         ))}

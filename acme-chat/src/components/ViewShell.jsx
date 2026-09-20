@@ -4,8 +4,8 @@
  * Layout is the same everywhere: a header with the usage badge, a scrolling
  * body holding the view's own panels with any reports accumulating beneath
  * them, and the chatbox pinned to the bottom. The chatbox is identical in all three
- * views -- same component, same behaviour -- only the default sweep setting
- * and the accent colour change.
+ * three views -- same component, same behaviour, same coverage -- only the
+ * accent colour changes.
  */
 import { useEffect, useRef, useState } from 'react';
 import { Link } from 'react-router-dom';
@@ -16,21 +16,20 @@ import ReportCard, { PendingReport } from './ReportCard.jsx';
 import UsageBadge from './UsageBadge.jsx';
 import './ViewShell.css';
 
-export default function ViewShell({ view, title, subtitle, accent, defaultSweep = true, children }) {
+export default function ViewShell({ view, title, subtitle, accent, children }) {
   return (
-    <ReportsProvider view={view} defaultSweep={defaultSweep}>
-      <Shell view={view} title={title} subtitle={subtitle} accent={accent} defaultSweep={defaultSweep}>
+    <ReportsProvider view={view}>
+      <Shell view={view} title={title} subtitle={subtitle} accent={accent}>
         {children}
       </Shell>
     </ReportsProvider>
   );
 }
 
-function Shell({ view, title, subtitle, accent, defaultSweep, children }) {
+function Shell({ view, title, subtitle, accent, children }) {
   const { loading, error } = useArchive();
   const { reports, pending, runAsk, dismiss, busy } = useReports();
   const [input, setInput] = useState('');
-  const [sweep, setSweep] = useState(defaultSweep);
   const reportsRef = useRef(null);
 
   // Reports sit below the panels, so scroll down to the newest one rather than
@@ -44,7 +43,7 @@ function Shell({ view, title, subtitle, accent, defaultSweep, children }) {
   const send = () => {
     const q = input;
     setInput('');
-    runAsk(q, { sweep });
+    runAsk(q);
   };
 
   return (
@@ -92,14 +91,8 @@ function Shell({ view, title, subtitle, accent, defaultSweep, children }) {
 
       <div className="view-chat">
         <div className="view-chat-opts">
-          <label className="dev-check">
-            <input type="checkbox" checked={sweep} disabled={busy}
-                   onChange={(e) => setSweep(e.target.checked)} />
-            full sweep — read all 45 documents
-          </label>
           <span className="view-chat-cost">
-            {sweep ? 'thorough, ~1 min, needed for questions about absence'
-                   : 'fast path, a few seconds, ~45× cheaper'}
+            Every question reads all 45 documents before answering.
           </span>
         </div>
         <ChatInput

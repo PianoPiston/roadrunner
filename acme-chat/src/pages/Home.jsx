@@ -14,7 +14,7 @@ const VIEWS = [
     name: 'Developer',
     tagline: 'Exact lookups against the index',
     blurb:
-      'Literal and regex search over every unit, a raw inspector for any unit id, and a standalone citation checker that tells you whether a quote is real. Questions here default to the fast path, which skips the 45-document sweep.',
+      'Literal and regex search over every unit, a raw inspector for any unit id, and a standalone citation checker that tells you whether a quote is real — all deterministic, all instant, none of it involving a model.',
     can: ['Grep and regex', 'Raw unit JSON', 'Verify a quote', 'Tool-call trace'],
     cannot: 'Cannot erase people.',
   },

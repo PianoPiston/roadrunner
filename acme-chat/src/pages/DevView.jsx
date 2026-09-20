@@ -2,9 +2,9 @@
  * Developer view: exact lookups against the index.
  *
  * Grep, the unit inspector and the quote checker are all deterministic and
- * free -- they are the things a language model is bad at. The chatbox below
- * them defaults to the fast path (no 45-document sweep) because most developer
- * questions are lookups, not questions about absence.
+ * free -- they are the things a language model is bad at, and they answer
+ * instantly without a model call. The chatbox below them goes to the agent,
+ * which reads the whole archive before answering.
  */
 import { useState } from 'react';
 import { getUnit, grep, verifyQuote } from '../lib/api.js';
@@ -22,7 +22,6 @@ export default function DevView() {
       accent="#7aa2f7"
       title="Developer"
       subtitle="Exact, deterministic lookups — no model unless you ask for one"
-      defaultSweep={false}
     >
       {stats && (
         <div className="view-grid">

@@ -48,15 +48,18 @@ export async function verifyQuote(unitId, quote, view) {
 // --- expensive: model calls ----------------------------------------------
 
 /**
- * Ask the agent. `runSweep: false` skips the 45-document triage pass, which is
- * roughly 45x cheaper and a few seconds instead of a minute -- right for
- * lookups, wrong for questions about absence.
+ * Ask the agent.
+ *
+ * `run_sweep` is hardcoded true and deliberately not a parameter: the backend
+ * can skip the 45-document pass (the CLI's `--no-sweep`, for debugging), but
+ * the UI must never be able to. An answer drawn from part of the archive
+ * cannot support a claim about what the archive does not contain.
  */
-export async function ask(question, { view, runSweep = true } = {}) {
+export async function ask(question, { view } = {}) {
   const res = await fetch('/api/ask', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ question, run_sweep: runSweep }),
+    body: JSON.stringify({ question, run_sweep: true }),
   });
   if (!res.ok) throw new Error((await res.text()).slice(0, 300) || `HTTP ${res.status}`);
   const bundle = await res.json();
