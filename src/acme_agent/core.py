@@ -47,8 +47,8 @@ class Config:
 
     # The cheap model runs once per document (45 calls per question); the
     # expensive one runs once, over the evidence the cheap pass kept.
-    triage_model: str = os.getenv("ACME_TRIAGE_MODEL", "gpt-5-mini")
-    synth_model: str = os.getenv("ACME_SYNTH_MODEL", "gpt-5")
+    triage_model: str = os.getenv("ACME_TRIAGE_MODEL", "gpt-5.4-mini")
+    synth_model: str = os.getenv("ACME_SYNTH_MODEL", "gpt-5.6-terra")
 
     triage_concurrency: int = int(os.getenv("ACME_TRIAGE_CONCURRENCY", "12"))
     # Documents scoring at or above this are passed to the synthesis stage.

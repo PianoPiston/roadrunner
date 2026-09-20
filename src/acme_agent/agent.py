@@ -2,10 +2,10 @@
 
     question
        │
-       ├─ 1. SWEEP     gpt-5-mini reads all 45 documents concurrently
+       ├─ 1. SWEEP     gpt-5.4-mini reads all 45 documents concurrently
        │                → relevance, kept unit ids, verbatim quotes, flags
        │
-       ├─ 2. ANALYST   gpt-5 via the Agents SDK, given the digest plus the
+       ├─ 2. ANALYST   gpt-5.6-terra via the Agents SDK, given the digest plus the
        │                verbatim evidence, with 11 function tools
        │                → structured Answer: claims, citations, gaps, abstentions
        │

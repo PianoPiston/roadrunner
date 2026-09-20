@@ -10,19 +10,44 @@ real.
 ```
 question
    │
-   ├─ 1. SWEEP      gpt-5-mini reads all 45 documents concurrently
+   ├─ 1. SWEEP      gpt-5.4-mini reads all 45 documents concurrently
    │                 (~70k tokens, document-first so the prefix stays cached)
    │                 → relevance, kept unit ids, verbatim quotes, flags
    │
-   ├─ 2. ANALYST    gpt-5 via the OpenAI Agents SDK, given the digest plus the
-   │                 verbatim evidence, with 10 function tools for exact search,
-   │                 figures, timelines, document windows and quote checking
+   ├─ 2. ANALYST    gpt-5.6-terra via the OpenAI Agents SDK, given the digest plus
+   │                 verbatim evidence, with 11 function tools for exact search,
+   │                 figures, timelines, document windows, quote checking, erasure
    │                 → structured Answer: claims, citations, gaps, abstentions
    │
    └─ 3. VERIFY     deterministic. Every quote must be a real substring of the
                     cited unit; every citation's document, date, speaker and
                     position is rendered from the index, never from the model
 ```
+
+## Quickstart
+
+Needs Python 3.11+, [Poetry](https://python-poetry.org/docs/#installation),
+Node 18+, and an OpenAI API key.
+
+```bash
+git clone <this repo> && cd acme-agent
+./setup.sh                       # deps, .env, and builds the index
+```
+
+Put your key in `.env` (`OPENAI_API_KEY=sk-...`), then:
+
+```bash
+npm --prefix acme-chat run start
+```
+
+That starts both halves — FastAPI on **:8000** and the web app on **:5173** —
+and prints a link. Open <http://localhost:5173> and pick a view.
+
+The archive itself must sit at `corpus/acme/` (containing `transcripts/`,
+`emails/` and `reports/`). `setup.sh` tells you if it is missing.
+
+**No API key?** Everything except asking a question still works: all three views
+load, search, figures, the citation checker and erasure make no model calls.
 
 ## Why read everything instead of embedding search
 
@@ -71,7 +96,9 @@ cp .env.example .env     # then put your OPENAI_API_KEY in it
 Without pyenv, `poetry install` alone works against any Python matching
 `requires-python` (>=3.11).
 
-Set `ACME_CORPUS_DIR` in `.env` to wherever the archive lives.
+Put the archive at `corpus/acme/` inside the repo (it should contain
+`transcripts/`, `emails/` and `reports/`), or point `ACME_CORPUS_DIR` in `.env`
+somewhere else. Relative paths resolve against the repo root.
 
 ## Use
 
@@ -101,9 +128,10 @@ poetry run acme-agent figures "shelf life"
 | `POST /ask/stream` | Same, as SSE: `sweep_start`, `sweep_doc` ×45, `sweep_done`, `tool_call`, `verified`, `answer` |
 | `POST /erase` | `{"name": "Kwame Boateng"}` → receipt **and** an independent verification scan |
 | `GET /erase/verify?name=` | Re-scan the live index for surviving traces |
-| `GET /erase/ledger` | The audit trail |
-| `POST /rebuild` | Rebuild from corpus, then replay every erasure |
+| `POST /rebuild` | Rebuild from the corpus. **Resurrects** anyone erased |
 | `POST /verify` | `{"unit_id","quote"}` → is this citation real? |
+| `GET /grep?pattern=&regex=` | Exact/regex search. No model calls |
+| `GET /figures?topic=` | Every dated numeric claim. No model calls |
 | `GET /documents`, `/documents/{id}`, `/units/{id}`, `/people`, `/stats` | Index access |
 
 `GET /units/{id}` on an erased unit returns **410 Gone**, not 404 — "withheld"
@@ -133,17 +161,20 @@ rather than printed.
    erased, longest-first, diacritic-folded. Two-letter initials are used to
    match a *speaker* but never redacted from prose, because `KB` also means
    kilobytes.
-2. **Silent resurrection.** A rebuild from the corpus brings the person back, so
-   erasures are recorded in a ledger *outside* the index and replayed after
-   every rebuild. Tested.
+2. **No record of the erasure.** Nothing identifying the subject is written
+   anywhere — no name, no aliases, no audit ledger. Keeping "we deleted Kwame
+   Boateng" is still keeping Kwame Boateng. The consequence is deliberate and
+   tested: `acme-agent build` resurrects them from the corpus, so a rebuild must
+   be followed by a fresh erasure request.
 3. **Dishonest reporting.** Deleting a person deletes their **attribution**, not
    necessarily the facts they reported. The receipt computes this: a figure
    restated elsewhere by someone else survives; a figure only ever given by the
    erased subject does not. Both lists are in the receipt, with reasons.
 
 Erased units become tombstones rather than holes, so a dangling citation
-resolves to *withheld* rather than *not found*. `record_name_in_ledger=False`
-stores only a hash, for when the audit trail itself must not name the subject.
+resolves to *withheld* rather than *not found*. `who_is` on an erased person is
+deliberately indistinguishable from one who never existed — confirming that a
+particular name *was* erased would leak the name.
 
 There are **no embeddings to purge**, by design — which is a stronger answer to
 "erase it from your embeddings" than purging some and hoping.
@@ -166,8 +197,16 @@ src/acme_agent/
                  Abstention) and the deterministic citation verifier
   agent.py       the pipeline: stage 1 sweep over all 45 documents, the 10
                  function tools, stage 2 analyst, orchestration
-  deletion.py    erasure, ledger, replay, impact analysis
+  deletion.py    erasure, impact analysis, independent verification scan
   app.py         transports: CLI and FastAPI server
+
+acme-chat/                     React frontend (Vite), three role views
+  src/pages/Home.jsx           landing page: pick Developer / Manager / Marketing
+  src/pages/DevView.jsx        grep, unit inspector, citation checker, index health
+  src/pages/ManagerView.jsx    timeline, silences, participation, erasure
+  src/pages/MarketingView.jsx  story arc, dated figures, publish clearance
+  src/components/ViewShell.jsx shared chrome + the chatbox every view uses
+  src/lib/usage.js             the per-view token counter
 ```
 
 ~1,970 lines of code plus ~430 of docstrings and model prompts.
@@ -184,15 +223,14 @@ alias resolution, citation verification, and that an erasure survives a rebuild.
 
 They need the archive, so they read `ACME_CORPUS_DIR` from `.env` and **skip**
 with a message if it does not resolve. Each test builds its own index in a temp
-directory, and the deletion ledger lives beside the index file, so a test run
-never touches `data/`.
+directory, so a test run never touches `data/`.
 
 ## Configuration
 
 | Variable | Default | Notes |
 |---|---|---|
-| `ACME_TRIAGE_MODEL` | `gpt-5-mini` | Called 45× per question |
-| `ACME_SYNTH_MODEL` | `gpt-5` | Called once, with tools |
+| `ACME_TRIAGE_MODEL` | `gpt-5.4-mini` | Called 45× per question |
+| `ACME_SYNTH_MODEL` | `gpt-5.6-terra` | Called once, with tools |
 | `ACME_TRIAGE_CONCURRENCY` | `12` | Fan-out width |
 | `ACME_TRIAGE_KEEP_THRESHOLD` | `2` | Minimum relevance passed to stage 2 |
 | `ACME_MAX_EVIDENCE_UNITS` | `160` | Cap on evidence handed to stage 2 |
