@@ -2,8 +2,8 @@
  * Common chrome for the three role views.
  *
  * Layout is the same everywhere: a header with the usage badge, a scrolling
- * body holding any reports produced so far followed by the view's own panels,
- * and the chatbox pinned to the bottom. The chatbox is identical in all three
+ * body holding the view's own panels with any reports accumulating beneath
+ * them, and the chatbox pinned to the bottom. The chatbox is identical in all three
  * views -- same component, same behaviour -- only the default sweep setting
  * and the accent colour change.
  */
@@ -31,11 +31,14 @@ function Shell({ view, title, subtitle, accent, defaultSweep, children }) {
   const { reports, pending, runAsk, dismiss, busy } = useReports();
   const [input, setInput] = useState('');
   const [sweep, setSweep] = useState(defaultSweep);
-  const bodyRef = useRef(null);
+  const reportsRef = useRef(null);
 
-  // A new report lands at the top of the stack, so bring it into view.
+  // Reports sit below the panels, so scroll down to the newest one rather than
+  // jumping to the top of the page.
   useEffect(() => {
-    if (pending || reports.length) bodyRef.current?.scrollTo({ top: 0, behavior: 'smooth' });
+    if (pending || reports.length) {
+      reportsRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
   }, [pending, reports.length]);
 
   const send = () => {
@@ -55,7 +58,7 @@ function Shell({ view, title, subtitle, accent, defaultSweep, children }) {
         <UsageBadge view={view} />
       </header>
 
-      <div className="view-body" ref={bodyRef}>
+      <div className="view-body">
         {loading && <div className="view-state">Loading the archive index…</div>}
         {error && (
           <div className="view-state error">
@@ -66,8 +69,11 @@ function Shell({ view, title, subtitle, accent, defaultSweep, children }) {
 
         {!loading && !error && (
           <>
+            {/* The panels are what the view is for, so they stay at the top.
+                Reports accumulate underneath them. */}
+            {children}
             {(pending || reports.length > 0) && (
-              <div className="reports">
+              <div className="reports" ref={reportsRef}>
                 <div className="reports-head">
                   <h3>{reports.length + (pending ? 1 : 0)} report{reports.length + (pending ? 1 : 0) === 1 ? '' : 's'}</h3>
                   {reports.length > 1 && (
@@ -80,7 +86,6 @@ function Shell({ view, title, subtitle, accent, defaultSweep, children }) {
                 {reports.map((r) => <ReportCard key={r.id} report={r} onDismiss={dismiss} />)}
               </div>
             )}
-            {children}
           </>
         )}
       </div>
