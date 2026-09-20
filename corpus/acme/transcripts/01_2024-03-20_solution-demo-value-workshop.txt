@@ -1,0 +1,805 @@
+*** SYNTHETIC DATA. This transcript is entirely fictional. Acme Org, Northwind
+*** Retail Group, Meridian Consulting and every person named are invented. Any
+*** resemblance to a real organisation or individual is coincidental. Generated
+*** for the RELEX challenge track, AaltoAI Hackathon 2026.
+
+Meeting: Solution demo & value workshop
+Customer: Acme Org (Grocery Retail, EMEA)
+Date: 2024-03-20
+Phase: Pre-Sales
+Attendees: Lena Fischer (Acme), Sofia Almeida (Acme), Marco Rossi (RELEX), Robert Kahn (Acme CFO, joins late)
+
+Marco Rossi
+1:041:04
+MR
+Marco Rossi 1 minute 4 seconds
+Thanks for the time today. Can everyone hear me?
+Lena Fischer
+1:111:11
+LF
+Lena Fischer 1 minute 11 seconds
+Yes.
+Marco Rossi
+1:201:20
+MR
+Marco Rossi 1 minute 20 seconds
+Good. So we will walk through forecasting first,
+Marco Rossi 1 minute 27 seconds
+then replenished,
+Lena Fischer
+1:341:34
+LF
+Lena Fischer 1 minute 34 seconds
+Yeah, yeah.
+Marco Rossi
+1:351:35
+MR
+Marco Rossi 1 minute 35 seconds
+then then the fresh-food capability Lena flagged in the call last
+Lena Fischer
+1:441:44
+LF
+Lena Fischer 1 minute 44 seconds
+Mm-hm.
+Marco Rossi
+1:461:46
+MR
+Marco Rossi 1 minute 46 seconds
+month.
+Lena Fischer
+1:531:53
+LF
+Lena Fischer 1 minute 53 seconds
+Mm, okay.
+Lena Fischer
+1:561:56
+LF
+Lena Fischer 1 minute 56 seconds
+That That order is fine but I want to say something before before you
+Sofia Almeida
+2:052:05
+SA
+Sofia Almeida 2 minutes 5 seconds
+Yeah.
+Lena Fischer
+2:082:08
+LF
+Lena Fischer 2 minutes 8 seconds
+start.
+Marco Rossi
+2:152:15
+MR
+Marco Rossi 2 minutes 15 seconds
+Please.
+Sofia Almeida
+2:182:18
+SA
+Sofia Almeida 2 minutes 18 seconds
+Right.
+Lena Fischer
+2:222:22
+LF
+Lena Fischer 2 minutes 22 seconds
+The fresh waste is our...
+Lena Fischer 2 minutes 28 seconds
+biggest pain. That is why you are here. We throw away too much produce and dairy and
+Lena Fischer 2 minutes 37 seconds
+it is not a rounding error,
+Lena Fischer
+2:432:43
+LF
+Lena Fischer 2 minutes 43 seconds
+it is the thing my board asks me about. If you can move that fifteen
+Lena Fischer
+2:532:53
+LF
+Lena Fischer 2 minutes 53 seconds
+to twenty percent, like this pays for itself and I do not need to argue about anything else.
+Marco Rossi
+3:043:04
+MR
+Marco Rossi 3 minutes 4 seconds
+Understood.
+Sofia Almeida
+3:093:09
+SA
+Sofia Almeida 3 minutes 9 seconds
+Okay.
+Lena Fischer
+3:133:13
+LF
+Lena Fischer 3 minutes 13 seconds
+I mean I say that now because in my experience the demo goes through
+Lena Fischer 3 minutes 20 seconds
+everything else first and then we run out
+Lena Fischer
+3:283:28
+LF
+Lena Fischer 3 minutes 28 seconds
+of time.
+Marco Rossi
+3:313:31
+MR
+Marco Rossi 3 minutes 31 seconds
+Yeah, yeah.
+Marco Rossi
+3:323:32
+MR
+Marco Rossi 3 minutes 32 seconds
+right That is a fair warning.
+Sofia Almeida
+3:353:35
+SA
+Sofia Almeida 3 minutes 35 seconds
+Should I introduce myself?
+Marco Rossi
+3:393:39
+MR
+Marco Rossi 3 minutes 39 seconds
+Sorry, what?
+Marco Rossi 3 minutes 44 seconds
+Yeah so, please.
+Sofia Almeida
+3:483:48
+SA
+Sofia Almeida 3 minutes 48 seconds
+Sofia Almeida, I manage the fresh categories. All of them, currently, yeah which is a longer story.
+Lena Fischer
+3:563:56
+LF
+Lena Fischer 3 minutes 56 seconds
+And, we lost someone in January and have not replaced them.
+Sofia Almeida
+4:054:05
+SA
+Sofia Almeida 4 minutes 5 seconds
+sort of Tobias Ekström. He did chilled and I did produce, and now I do,
+Marco Rossi
+4:124:12
+MR
+Marco Rossi 4 minutes 12 seconds
+Yeah.
+Sofia Almeida
+4:144:14
+SA
+Sofia Almeida 4 minutes 14 seconds
+both.
+Lena Fischer
+4:204:20
+LF
+Lena Fischer 4 minutes 20 seconds
+He went to a competitor, which we are not supposed to
+Lena Fischer 4 minutes 29 seconds
+say out loud.
+Sofia Almeida
+4:334:33
+SA
+Sofia Almeida 4 minutes 33 seconds
+He went to Hemtorget. Everyone knows.
+Sofia Almeida 4 minutes 38 seconds
+So today it is all manual and gut feel. That is...
+Sofia Almeida 4 minutes 47 seconds
+not me being I mean...
+Sofia Almeida 4 minutes 51 seconds
+and my judgement. Shelf life is not in any system properly.
+Marco Rossi
+4:574:57
+MR
+Marco Rossi 4 minutes 57 seconds
+Can I get your email so I send you the follow-up directly?
+Sofia Almeida
+5:065:06
+SA
+Sofia Almeida 5 minutes 6 seconds
+sofia.almeida@acme-org.example. Two Ls in Almeida, no, you know one L. Sorry. A-L-M-E-I-D-A.
+Lena Fischer
+5:145:14
+LF
+Lena Fischer 5 minutes 14 seconds
+Yeah.
+Marco Rossi
+5:155:15
+MR
+Marco Rossi 5 minutes 15 seconds
+sort of a direct line?
+Sofia Almeida
+5:185:18
+SA
+Sofia Almeida 5 minutes 18 seconds
+My mobile is easier. Zero
+Sofia Almeida 5 minutes 23 seconds
+seven, six two, four four one, actually nine oh three.
+Marco Rossi
+5:315:31
+MR
+Marco Rossi 5 minutes 31 seconds
+Okay so, actually Thank you.
+Marco Rossi
+5:385:38
+MR
+Marco Rossi 5 minutes 38 seconds
+Say more about that.
+Sofia Almeida
+5:455:45
+SA
+Sofia Almeida 5 minutes 45 seconds
+We have a shelf life field in the product master. It is
+Sofia Almeida 5 minutes 54 seconds
+populated for maybe half the range...
+Sofia Almeida
+6:036:03
+SA
+Sofia Almeida 6 minutes 3 seconds
+and it is but...
+Sofia Almeida 6 minutes 9 seconds
+nobody has owned it since it was set up. So
+Sofia Almeida 6 minutes 14 seconds
+when the
+Sofia Almeida 6 minutes 21 seconds
+store orders, nothing in the process knows whether the thing has three days
+Sofia Almeida 6 minutes 27 seconds
+left or three
+Sofia Almeida 6 minutes 30 seconds
+weeks.
+Lena Fischer
+6:346:34
+LF
+Lena Fischer 6 minutes 34 seconds
+Right.
+Marco Rossi
+6:386:38
+MR
+Marco Rossi 6 minutes 38 seconds
+And you compensate manually.
+Sofia Almeida
+6:446:44
+SA
+Sofia Almeida 6 minutes 44 seconds
+I compensate manually. On the categories where it matters most,
+Sofia Almeida 6 minutes 53 seconds
+I go in and adjust. On the rest, we accept
+Marco Rossi
+7:007:00
+MR
+Marco Rossi 7 minutes
+Mm.
+Sofia Almeida
+7:037:03
+SA
+Sofia Almeida 7 minutes 3 seconds
+the waste.
+Marco Rossi
+7:077:07
+MR
+Marco Rossi 7 minutes 7 seconds
+Which categories are the worst?
+Sofia Almeida
+7:117:11
+SA
+Sofia Almeida 7 minutes 11 seconds
+There are about four where it
+Sofia Almeida 7 minutes 16 seconds
+is bad. The obvious ones are —
+Lena Fischer
+7:217:21
+LF
+Lena Fischer 7 minutes 21 seconds
+Sorry, Marco, is that your screen or ours?
+Marco Rossi
+7:287:28
+MR
+Marco Rossi 7 minutes 28 seconds
+like That
+Marco Rossi 7 minutes 34 seconds
+is mine, one moment. Let me share properly.
+Lena Fischer
+7:417:41
+LF
+Lena Fischer 7 minutes 41 seconds
+actually Now it is coming through.
+Marco Rossi
+7:487:48
+MR
+Marco Rossi 7 minutes 48 seconds
+Right. So this is the forecasting engine. What you are looking at here is a store-level forecast
+Sofia Almeida
+7:597:59
+SA
+Sofia Almeida 7 minutes 59 seconds
+Yeah.
+Marco Rossi
+8:008:00
+MR
+Marco Rossi 8 minutes
+for a single product, and this line is what our model produced
+Lena Fischer
+8:078:07
+LF
+Lena Fischer 8 minutes 7 seconds
+Mm-hm.
+Marco Rossi
+8:108:10
+MR
+Marco Rossi 8 minutes 10 seconds
+versus this line which is actual. And you can see the uplift here.
+Lena Fischer
+8:188:18
+LF
+Lena Fischer 8 minutes 18 seconds
+Right.
+Lena Fischer
+8:198:19
+LF
+Lena Fischer 8 minutes 19 seconds
+Against what baseline?
+Sofia Almeida
+8:268:26
+SA
+Sofia Almeida 8 minutes 26 seconds
+Yeah, yeah.
+Marco Rossi
+8:278:27
+MR
+Marco Rossi 8 minutes 27 seconds
+you know Against their previous system. It is on the chart,
+Marco Rossi 8 minutes 35 seconds
+this figure here.
+Lena Fischer
+8:468:46
+LF
+Lena Fischer 8 minutes 46 seconds
+basically Right.
+Marco Rossi
+8:498:49
+MR
+Marco Rossi 8 minutes 49 seconds
+And then if I scroll down, this is the same view aggregated, and you can see the pattern holds. This column is the one that matters.
+Lena Fischer
+9:019:01
+LF
+Lena Fischer 9 minutes 1 second
+Okay, yeah.
+Sofia Almeida
+9:039:03
+SA
+Sofia Almeida 9 minutes 3 seconds
+Is that a fresh product or ambient?
+Marco Rossi
+9:109:10
+MR
+Marco Rossi 9 minutes 10 seconds
+Yeah.
+Marco Rossi
+9:139:13
+MR
+Marco Rossi 9 minutes 13 seconds
+This particular one is embient. But the mechanism is the same.
+Sofia Almeida
+9:199:19
+SA
+Sofia Almeida 9 minutes 19 seconds
+kind of like It is not the same though.
+Lena Fischer
+9:259:25
+LF
+Lena Fischer 9 minutes 25 seconds
+Sure.
+Marco Rossi
+9:299:29
+MR
+Marco Rossi 9 minutes 29 seconds
+like No, you are right, the fresh case is harder and I will come to it.
+Lena Fischer
+9:439:43
+LF
+Lena Fischer 9 minutes 43 seconds
+Please do come to it.
+Sofia Almeida
+9:469:46
+SA
+Sofia Almeida 9 minutes 46 seconds
+Okay.
+Marco Rossi
+9:489:48
+MR
+Marco Rossi 9 minutes 48 seconds
+So. Shelf-life optimisation. This sits in the allocation module. What it does is take remaining...
+Marco Rossi 9 minutes 57 seconds
+life as an input to the order calculation, so a product with
+Marco Rossi 10 minutes 3 seconds
+three days left is treated differently from one with three weeks, which
+Marco Rossi 10 minutes 11 seconds
+addresses exactly what Sofia described.
+Sofia Almeida
+10:1710:17
+SA
+Sofia Almeida 10 minutes 17 seconds
+Where was I.
+Sofia Almeida 10 minutes 23 seconds
+That is the thing I have been asking for since I started.
+Marco Rossi
+10:3010:30
+MR
+Marco Rossi 10 minutes 30 seconds
+sort of Good. Now, you know the way we would normally sequence this is core replenished first, then fresh as a second,
+Marco Rossi 10 minutes 42 seconds
+phase. The reason is de-risking. Core replenished lands value quickly and
+Marco Rossi 10 minutes 51 seconds
+it establishes
+Marco Rossi 10 minutes 55 seconds
+the data flows that fresh depends on.
+Lena Fischer
+11:0111:01
+LF
+Lena Fischer 11 minutes 1 second
+How long
+Marco Rossi
+11:0611:06
+MR
+Marco Rossi 11 minutes 6 seconds
+Yeah.
+Lena Fischer
+11:0911:09
+LF
+Lena Fischer 11 minutes 9 seconds
+is a second phase.
+Marco Rossi
+11:1511:15
+MR
+Marco Rossi 11 minutes 15 seconds
+Realistically a few months after the first golive.
+Lena Fischer
+11:2411:24
+LF
+Lena Fischer 11 minutes 24 seconds
+Understood. But fresh is the reason we are here. Do not let
+Marco Rossi
+11:3211:32
+MR
+Marco Rossi 11 minutes 32 seconds
+Yeah.
+Lena Fischer
+11:3311:33
+LF
+Lena Fischer 11 minutes 33 seconds
+it become a someday item.
+Marco Rossi
+11:3611:36
+MR
+Marco Rossi 11 minutes 36 seconds
+Noted, and I will commit it as Phase 2 in the statement of work with...
+Marco Rossi 11 minutes 43 seconds
+a target window rather than leaving it open.
+Lena Fischer
+11:4711:47
+LF
+Lena Fischer 11 minutes 47 seconds
+In writing.
+Marco Rossi
+11:5411:54
+MR
+Marco Rossi 11 minutes 54 seconds
+Yes.
+Marco Rossi
+11:5811:58
+MR
+Marco Rossi 11 minutes 58 seconds
+In writing.
+Sofia Almeida
+12:0412:04
+SA
+Sofia Almeida 12 minutes 4 seconds
+Can I raise something awkward.
+Lena Fischer
+12:1112:11
+LF
+Lena Fischer 12 minutes 11 seconds
+Go ahead.
+Sofia Almeida
+12:1512:15
+SA
+Sofia Almeida 12 minutes 15 seconds
+Okay, yeah.
+Sofia Almeida
+12:1912:19
+SA
+Sofia Almeida 12 minutes 19 seconds
+If fresh is a second phase and that lands late in the year, I have surgery scheduled. but...
+Sofia Almeida 12 minutes 31 seconds
+It is me. If the fresh work happens while I am,
+Sofia Almeida 12 minutes 37 seconds
+gone, it will happen without anyone who understands what we actually need.
+Lena Fischer
+12:4612:46
+LF
+Lena Fischer 12 minutes 46 seconds
+Mm.
+Lena Fischer
+12:4712:47
+LF
+Lena Fischer 12 minutes 47 seconds
+We will manage it.
+Sofia Almeida
+12:5012:50
+SA
+Sofia Almeida 12 minutes 50 seconds
+I am not asking you to manage it, I am telling,
+Sofia Almeida
+13:0013:00
+SA
+Sofia Almeida 13 minutes
+him so it is on the record.
+Lena Fischer
+13:0613:06
+LF
+Lena Fischer 13 minutes 6 seconds
+Mm-hm.
+Marco Rossi
+13:0913:09
+MR
+Marco Rossi 13 minutes 9 seconds
+It is a real risk and I am glad you said it. Single point of knowledge on,
+Marco Rossi 13 minutes 18 seconds
+the most important part of
+Marco Rossi 13 minutes 22 seconds
+the scope.
+Sofia Almeida
+13:2613:26
+SA
+Sofia Almeida 13 minutes 26 seconds
+Yes.
+Sofia Almeida
+13:3013:30
+SA
+Sofia Almeida 13 minutes 30 seconds
+sort of Yes.
+Robert Kahn
+13:3413:34
+RK
+Robert Kahn 13 minutes 34 seconds
+Mm.
+Marco Rossi
+13:3713:37
+MR
+Marco Rossi 13 minutes 37 seconds
+I will note it.
+Lena Fischer
+13:4013:40
+LF
+Lena Fischer 13 minutes 40 seconds
+Sure.
+Robert Kahn
+13:4413:44
+RK
+Robert Kahn 13 minutes 44 seconds
+Sorry I am late, I and...
+Marco Rossi
+13:4713:47
+MR
+Marco Rossi 13 minutes 47 seconds
+Okay, yeah.
+Robert Kahn
+13:5013:50
+RK
+Robert Kahn 13 minutes 50 seconds
+thing that overran.
+Marco Rossi
+13:5513:55
+MR
+Marco Rossi 13 minutes 55 seconds
+Yeah, yeah.
+Lena Fischer
+13:5713:57
+LF
+Lena Fischer 13 minutes 57 seconds
+Sorry, go ahead.
+Lena Fischer 14 minutes
+Robert, right this is Marco from relics. Robert is our CFO.
+Marco Rossi
+14:0714:07
+MR
+Marco Rossi 14 minutes 7 seconds
+Mm-hm.
+Robert Kahn
+14:0814:08
+RK
+Robert Kahn 14 minutes 8 seconds
+I have about twelve minutes and one question, which is what does this cost and
+Robert Kahn 14 minutes 17 seconds
+when do I see it back.
+Marco Rossi
+14:2214:22
+MR
+Marco Rossi 14 minutes 22 seconds
+We have,
+Marco Rossi 14 minutes 29 seconds
+not talked commercials yet today.
+Robert Kahn
+14:3214:32
+RK
+Robert Kahn 14 minutes 32 seconds
+Yes.
+Robert Kahn
+14:3314:33
+RK
+Robert Kahn 14 minutes 33 seconds
+Then let me be clear about the frame. Whatever we,
+Sofia Almeida
+14:4114:41
+SA
+Sofia Almeida 14 minutes 41 seconds
+Yeah.
+Robert Kahn
+14:4514:45
+RK
+Robert Kahn 14 minutes 45 seconds
+sign, I need return on investment inside twelve months. Ambient efficiency is nice. I understand it is real. But the board cares,
+Robert Kahn 14 minutes 57 seconds
+about waste, because waste is what
+Sofia Almeida
+15:0315:03
+SA
+Sofia Almeida 15 minutes 3 seconds
+True.
+Robert Kahn
+15:0615:06
+RK
+Robert Kahn 15 minutes 6 seconds
+was in the newspaper, so that is what the case has to be built on.
+Marco Rossi
+15:1415:14
+MR
+Marco Rossi 15 minutes 14 seconds
+Sure.
+Marco Rossi
+15:1815:18
+MR
+Marco Rossi 15 minutes 18 seconds
+Then we will structure the value case around fresh waste plus inventory reduction, measured
+Robert Kahn
+15:2915:29
+RK
+Robert Kahn 15 minutes 29 seconds
+Sure.
+Marco Rossi
+15:3315:33
+MR
+Marco Rossi 15 minutes 33 seconds
+against your current and then the...
+Robert Kahn
+15:3815:38
+RK
+Robert Kahn 15 minutes 38 seconds
+Measured how.
+Marco Rossi
+15:4515:45
+MR
+Marco Rossi 15 minutes 45 seconds
+We agree the baseline with you before go-live and report against it.
+Robert Kahn
+15:5215:52
+RK
+Robert Kahn 15 minutes 52 seconds
+Fine. Twelve
+Lena Fischer
+15:5615:56
+LF
+Lena Fischer 15 minutes 56 seconds
+Mm, okay.
+Robert Kahn
+15:5815:58
+RK
+Robert Kahn 15 minutes 58 seconds
+months.
+Lena Fischer
+16:0116:01
+LF
+Lena Fischer 16 minutes 1 second
+Robert, the fresh module is phase two.
+Robert Kahn
+16:0616:06
+RK
+Robert Kahn 16 minutes 6 seconds
+But, then phase,
+Lena Fischer
+16:1216:12
+LF
+Lena Fischer 16 minutes 12 seconds
+Okay.
+Robert Kahn
+16:1416:14
+RK
+Robert Kahn 16 minutes 14 seconds
+two needs to be inside the twelve months, kind of like does
+Robert Kahn 16 minutes 22 seconds
+it not.
+Marco Rossi
+16:2716:27
+MR
+Marco Rossi 16 minutes 27 seconds
+That is a tighter constraint,
+Sofia Almeida
+16:3416:34
+SA
+Sofia Almeida 16 minutes 34 seconds
+Yep.
+Marco Rossi
+16:3816:38
+MR
+Marco Rossi 16 minutes 38 seconds
+than I had understood.
+Robert Kahn
+16:4116:41
+RK
+Robert Kahn 16 minutes 41 seconds
+It is the only constraint I
+Robert Kahn 16 minutes 46 seconds
+have.
+Lena Fischer
+16:5316:53
+LF
+Lena Fischer 16 minutes 53 seconds
+We should let Robert go.
+Robert Kahn
+16:5816:58
+RK
+Robert Kahn 16 minutes 58 seconds
+Thank you. Send me one page, not forty.
+Marco Rossi
+17:0617:06
+MR
+Marco Rossi 17 minutes 6 seconds
+Understood.
+Sofia Almeida
+17:1217:12
+SA
+Sofia Almeida 17 minutes 12 seconds
+He does that.
+Lena Fischer
+17:1817:18
+LF
+Lena Fischer 17 minutes 18 seconds
+He is not wrong though.
+Marco Rossi
+17:2517:25
+MR
+Marco Rossi 17 minutes 25 seconds
+Let me...
+Sofia Almeida
+17:2817:28
+SA
+Sofia Almeida 17 minutes 28 seconds
+Mm, okay.
+Marco Rossi
+17:3217:32
+MR
+Marco Rossi 17 minutes 32 seconds
+give you
+Marco Rossi 17 minutes 38 seconds
+my mobile so you are not going through the mailbox. It is plus three five one,
+Marco Rossi 17 minutes 48 seconds
+Ohh, that's not the one I wanted to share.
+Marco Rossi 17 minutes 51 seconds
+so nine one two, four four seven, oh two
+Marco Rossi 17 minutes 56 seconds
+six.
+Lena Fischer
+18:0018:00
+LF
+Lena Fischer 18 minutes
+you know Got it.
+Marco Rossi
+18:0718:07
+MR
+Marco Rossi 18 minutes 7 seconds
+right I will send a written summary and the value case structure this week.
+Robert Kahn
+18:1418:14
+RK
+Robert Kahn 18 minutes 14 seconds
+Right.
+Lena Fischer
+18:1718:17
+LF
+Lena Fischer 18 minutes 17 seconds
+Thank you.

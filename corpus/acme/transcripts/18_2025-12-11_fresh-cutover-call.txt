@@ -1,0 +1,456 @@
+*** SYNTHETIC DATA. This transcript is entirely fictional. Acme Org, Meridian
+*** Consulting and every person named are invented. Any resemblance to a real
+*** organisation or individual is coincidental. Generated for the RELEX challenge
+*** track, AaltoAI Hackathon 2026.
+
+Meeting: Fresh cutover call
+Customer: Acme Org (Grocery Retail, EMEA)
+Date: 2025-12-11
+Phase: Implementation
+Attendees: Ana Duarte (RELEX), Nadia Haddad (RELEX), Kwame Boateng (RELEX), Priya Nair (Acme), Sofia Almeida (Acme), Lena Fischer (Acme)
+
+Ana Duarte
+0:100:10
+AD
+Ana Duarte 10 seconds
+Monday is fresh golive. Same format as February, yes or no against...
+Ana Duarte 19 seconds
+each item.
+Lena Fischer
+0:230:23
+LF
+Lena Fischer 23 seconds
+Go.
+Nadia Haddad
+0:270:27
+NH
+Nadia Haddad 27 seconds
+Yeah, yeah.
+Ana Duarte
+0:310:31
+AD
+Ana Duarte 31 seconds
+Configuration. Nadia.
+Nadia Haddad
+0:380:38
+NH
+Nadia Haddad 38 seconds
+Okay, yeah.
+Unknown Speaker
+0:410:41
+US
+Unknown Speaker 41 seconds
+Yes for produce, so dairy and chilled ready meals. Bakery Bakery is out of scope.
+Ana Duarte
+0:500:50
+AD
+Ana Duarte 50 seconds
+Shelf life logic.
+Nadia Haddad
+0:570:57
+NH
+Nadia Haddad 57 seconds
+Yes, with the caveat everyone in this room knows. It runs on the approximation. Total shell life minus average days
+Nadia Haddad 1 minute 6 seconds
+Can you hear me?
+Nadia Haddad 1 minute 9 seconds
+in warehouse by article group. It
+Nadia Haddad 1 minute 13 seconds
+is not remaining life. On fast movers it will be close. On slow,
+Kwame Boateng
+1:201:20
+KB
+Kwame Boateng 1 minute 20 seconds
+Right.
+Nadia Haddad
+1:221:22
+NH
+Nadia Haddad 1 minute 22 seconds
+movers it will assume the stock is fresher than
+Unknown Speaker
+1:281:28
+US
+Unknown Speaker 1 minute 28 seconds
+it is.
+Sofia Almeida
+1:331:33
+SA
+Sofia Almeida 1 minute 33 seconds
+How much fresher?
+Lena Fischer
+1:381:38
+LF
+Lena Fischer 1 minute 38 seconds
+Yeah.
+Nadia Haddad
+1:401:40
+NH
+Nadia Haddad 1 minute 40 seconds
+On the slowest tenth,
+Nadia Haddad 1 minute 44 seconds
+possibly two days optimistic.
+Priya Nair
+1:471:47
+PN
+Priya Nair 1 minute 47 seconds
+Yeah.
+Sofia Almeida
+1:481:48
+SA
+Sofia Almeida 1 minute 48 seconds
+Yeah so, two days on a five day product is.
+Nadia Haddad
+1:561:56
+NH
+Nadia Haddad 1 minute 56 seconds
+No, it is not.
+Sofia Almeida
+2:002:00
+SA
+Sofia Almeida 2 minutes
+And there is nothing better available.
+Nadia Haddad
+2:072:07
+NH
+Nadia Haddad 2 minutes 7 seconds
+Not without the warehouse data, which was first asked for in
+Sofia Almeida
+2:142:14
+SA
+Sofia Almeida 2 minutes 14 seconds
+Yeah, yeah.
+Nadia Haddad
+2:162:16
+NH
+Nadia Haddad 2 minutes 16 seconds
+April 2024.
+Sofia Almeida
+2:212:21
+SA
+Sofia Almeida 2 minutes 21 seconds
+Then I will watch the slow lines I mean...
+Lena Fischer
+2:292:29
+LF
+Lena Fischer 2 minutes 29 seconds
+Okay, yeah.
+Sofia Almeida
+2:302:30
+SA
+Sofia Almeida 2 minutes 30 seconds
+is what I do now, so it...
+Sofia Almeida 2 minutes 35 seconds
+is not not worse.
+Priya Nair
+2:392:39
+PN
+Priya Nair 2 minutes 39 seconds
+Mm.
+Ana Duarte
+2:422:42
+AD
+Ana Duarte 2 minutes 42 seconds
+Sofia, can I ask you to log the,
+Ana Duarte 2 minutes 47 seconds
+overrides rather than just making them? If we have
+Ana Duarte 2 minutes 54 seconds
+your overrides we can improve the model. If you fix it silently we learn
+Ana Duarte 3 minutes 1 second
+nothing.
+Sofia Almeida
+3:073:07
+SA
+Sofia Almeida 3 minutes 7 seconds
+yeah I can log them.
+Sofia Almeida 3 minutes 13 seconds
+Sorry, go ahead.
+Sofia Almeida 3 minutes 15 seconds
+It is more work.
+Ana Duarte
+3:213:21
+AD
+Ana Duarte 3 minutes 21 seconds
+I know.
+Priya Nair
+3:283:28
+PN
+Priya Nair 3 minutes 28 seconds
+Understood.
+Sofia Almeida
+3:323:32
+SA
+Sofia Almeida 3 minutes 32 seconds
+I will do it for six
+Sofia Almeida 3 minutes 39 seconds
+weeks weeks and
+Ana Duarte
+3:443:44
+AD
+Ana Duarte 3 minutes 44 seconds
+Fair enough.
+Sofia Almeida
+3:453:45
+SA
+Sofia Almeida 3 minutes 45 seconds
+then tell you whether I am still doing it.
+Ana Duarte
+3:523:52
+AD
+Ana Duarte 3 minutes 52 seconds
+Okay, yeah.
+Ana Duarte
+3:563:56
+AD
+Ana Duarte 3 minutes 56 seconds
+That is fair. Data, Kwame.
+Kwame Boateng
+4:014:01
+KB
+Kwame Boateng 4 minutes 1 second
+Fresh master data is loaded. The
+Nadia Haddad
+4:064:06
+NH
+Nadia Haddad 4 minutes 6 seconds
+Mm, okay.
+Kwame Boateng
+4:084:08
+KB
+Kwame Boateng 4 minutes 8 seconds
+Let me scroll down.
+Kwame Boateng 4 minutes 19 seconds
+shelf life field is populated on sixty-one
+Lena Fischer
+4:244:24
+LF
+Lena Fischer 4 minutes 24 seconds
+Exactly.
+Kwame Boateng
+4:284:28
+KB
+Kwame Boateng 4 minutes 28 seconds
+percent for the three categories in scope, up from forty-eight, because Priya's team did pass in October.
+Priya Nair
+4:374:37
+PN
+Priya Nair 4 minutes 37 seconds
+We did what if you...
+Kwame Boateng
+4:444:44
+KB
+Kwame Boateng 4 minutes 44 seconds
+It helped.
+Ana Duarte
+4:514:51
+AD
+Ana Duarte 4 minutes 51 seconds
+Feeds.
+Kwame Boateng
+4:544:54
+KB
+Kwame Boateng 4 minutes 54 seconds
+I mean, kind of like DC-1
+Kwame Boateng 4 minutes 57 seconds
+Can you hear me?
+Kwame Boateng 5 minutes 2 seconds
+yes. DC-2 yes with the,
+Sofia Almeida
+5:095:09
+SA
+Sofia Almeida 5 minutes 9 seconds
+Mm, okay.
+Kwame Boateng
+5:125:12
+KB
+Kwame Boateng 5 minutes 12 seconds
+standing caveat. Since we added the file size,
+Unknown Speaker
+5:185:18
+US
+Unknown Speaker 5 minutes 18 seconds
+Okay, yeah.
+Kwame Boateng
+5:205:20
+KB
+Kwame Boateng 5 minutes 20 seconds
+check in March there have been no silent,
+Ana Duarte
+5:245:24
+AD
+Ana Duarte 5 minutes 24 seconds
+Okay.
+Kwame Boateng
+5:285:28
+KB
+Kwame Boateng 5 minutes 28 seconds
+failures, only loud ones. Four loud ones since March.
+Lena Fischer
+5:355:35
+LF
+Lena Fischer 5 minutes 35 seconds
+Four loud is better than one silent.
+Kwame Boateng
+5:425:42
+KB
+Kwame Boateng 5 minutes 42 seconds
+Much better.
+Ana Duarte
+5:485:48
+AD
+Ana Duarte 5 minutes 48 seconds
+The operator identifier field.
+Kwame Boateng
+5:515:51
+KB
+Kwame Boateng 5 minutes 51 seconds
+Excluded at the extract from the twenty-first of November. Confirmed in writing to Priya.
+Priya Nair
+6:016:01
+PN
+Priya Nair 6 minutes 1 second
+right Received filed.
+Ana Duarte
+6:046:04
+AD
+Ana Duarte 6 minutes 4 seconds
+Rollback.
+Nadia Haddad
+6:076:07
+NH
+Nadia Haddad 6 minutes 7 seconds
+We revert fresh ordering to manual within four hours.
+Nadia Haddad 6 minutes 16 seconds
+Sofia would be doing
+Priya Nair
+6:226:22
+PN
+Priya Nair 6 minutes 22 seconds
+Sure.
+Nadia Haddad
+6:246:24
+NH
+Nadia Haddad 6 minutes 24 seconds
+One second.
+Unknown Speaker
+6:306:30
+US
+Unknown Speaker 6 minutes 30 seconds
+it by hand, which is is the current state anyway.
+Sofia Almeida
+6:376:37
+SA
+Sofia Almeida 6 minutes 37 seconds
+So the rollback plan is me.
+Ana Duarte
+6:446:44
+AD
+Ana Duarte 6 minutes 44 seconds
+Sure.
+Nadia Haddad
+6:466:46
+NH
+Nadia Haddad 6 minutes 46 seconds
+The rollback
+Nadia Haddad 6 minutes 52 seconds
+plan is you.
+Sofia Almeida
+6:596:59
+SA
+Sofia Almeida 6 minutes 59 seconds
+Okay so, i have been the rollback plan for two years.
+Kwame Boateng
+7:047:04
+KB
+Kwame Boateng 7 minutes 4 seconds
+Sure.
+Ana Duarte
+7:077:07
+AD
+Ana Duarte 7 minutes 7 seconds
+Store communications.
+Lena Fischer
+7:117:11
+LF
+Lena Fischer 7 minutes 11 seconds
+Went out Monday. And this time there is a person on the phone from,
+Lena Fischer 7 minutes 21 seconds
+Tuesday, not just monitoring.
+Priya Nair
+7:267:26
+PN
+Priya Nair 7 minutes 26 seconds
+Sure.
+Ana Duarte
+7:307:30
+AD
+Ana Duarte 7 minutes 30 seconds
+Who?
+Sofia Almeida
+7:367:36
+SA
+Sofia Almeida 7 minutes 36 seconds
+Okay.
+Lena Fischer
+7:387:38
+LF
+Lena Fischer 7 minutes 38 seconds
+Someone from my team. Not technical. Answers the phone
+Priya Nair
+7:467:46
+PN
+Priya Nair 7 minutes 46 seconds
+Okay.
+Lena Fischer
+7:477:47
+LF
+Lena Fischer 7 minutes 47 seconds
+Okay so.
+Lena Fischer 7 minutes 53 seconds
+and writes down what they said.
+Ana Duarte
+7:577:57
+AD
+Ana Duarte 7 minutes 57 seconds
+Yes.
+Ana Duarte
+8:018:01
+AD
+Ana Duarte 8 minutes 1 second
+That worked well in March.
+Lena Fischer
+8:088:08
+LF
+Lena Fischer 8 minutes 8 seconds
+I mean, it is the only thing that worked well in March.
+Ana Duarte
+8:178:17
+AD
+Ana Duarte 8 minutes 17 seconds
+On call,
+Ana Duarte 8 minutes 22 seconds
+numbers as before. Kwame, are you here in January?
+Kwame Boateng
+8:318:31
+KB
+Kwame Boateng 8 minutes 31 seconds
+you know I am here in in January.
+Lena Fischer
+8:388:38
+LF
+Lena Fischer 8 minutes 38 seconds
+Sure.
+Ana Duarte
+8:398:39
+AD
+Ana Duarte 8 minutes 39 seconds
+Then we are going Monday.
+Lena Fischer
+8:438:43
+LF
+Lena Fischer 8 minutes 43 seconds
+We are going Monday.
+Sofia Almeida
+8:508:50
+SA
+Sofia Almeida 8 minutes 50 seconds
+Yeah.

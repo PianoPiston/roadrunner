@@ -1,0 +1,462 @@
+*** SYNTHETIC DATA. This transcript is entirely fictional. Acme Org, Meridian
+*** Consulting and every person named are invented. Any resemblance to a real
+*** organisation or individual is coincidental. Generated for the RELEX challenge
+*** track, AaltoAI Hackathon 2026.
+
+Meeting: Ordering logic design workshop
+Customer: Acme Org (Grocery Retail, EMEA)
+Date: 2024-11-12
+Phase: Implementation
+Attendees: Ana Duarte (RELEX), Tomas Lindholm (RELEX), Kwame Boateng (RELEX), Priya Nair (Acme), Lena Fischer (Acme), Sofia Almeida (Acme)
+
+Ana Duarte
+0:190:19
+AD
+Ana Duarte 19 seconds
+Sofia, welcome. You have not been in one of these before.
+Sofia Almeida
+0:260:26
+SA
+Sofia Almeida 26 seconds
+No. I was told I did not need to be, since this phase
+Ana Duarte
+0:330:33
+AD
+Ana Duarte 33 seconds
+Mm-hm.
+Sofia Almeida
+0:370:37
+SA
+Sofia Almeida 37 seconds
+is embient.
+Ana Duarte
+0:400:40
+AD
+Ana Duarte 40 seconds
+Mm-hm.
+Lena Fischer
+0:420:42
+LF
+Lena Fischer 42 seconds
+I asked her to come because phase two is hers and I want her to hear how the
+Lena Fischer 52 seconds
+machine works before she has to but the...
+Kwame Boateng
+0:570:57
+KB
+Kwame Boateng 57 seconds
+Yeah.
+Tomas Lindholm
+0:580:58
+TL
+Tomas Lindholm 58 seconds
+That is a good instinct.
+Priya Nair
+1:011:01
+PN
+Priya Nair 1 minute 1 second
+Mm-hm.
+Ana Duarte
+1:041:04
+AD
+Ana Duarte 1 minute 4 seconds
+One second.
+Ana Duarte 1 minute 9 seconds
+So today is ordering parameters for
+Ana Duarte 1 minute 13 seconds
+the pilot cohort. Service so...
+Ana Duarte 1 minute 19 seconds
+cycles, so safety stock, rounding.
+Tomas Lindholm
+1:241:24
+TL
+Tomas Lindholm 1 minute 24 seconds
+And, i will go through the mechanism and then we set numbers.
+Sofia Almeida
+1:341:34
+SA
+Sofia Almeida 1 minute 34 seconds
+Can I ask a question that
+Sofia Almeida 1 minute 40 seconds
+might be stupid.
+Tomas Lindholm
+1:441:44
+TL
+Tomas Lindholm 1 minute 44 seconds
+Please.
+Priya Nair
+1:501:50
+PN
+Priya Nair 1 minute 50 seconds
+Yeah.
+Sofia Almeida
+1:531:53
+SA
+Sofia Almeida 1 minute 53 seconds
+You're on mute.
+Sofia Almeida 1 minute 56 seconds
+When the system decides...
+Tomas Lindholm
+1:591:59
+TL
+Tomas Lindholm 1 minute 59 seconds
+Mm.
+Sofia Almeida
+2:022:02
+SA
+Sofia Almeida 2 minutes 2 seconds
+how much much to order, does it know into the...
+Lena Fischer
+2:102:10
+LF
+Lena Fischer 2 minutes 10 seconds
+Okay, yeah.
+Sofia Almeida
+2:132:13
+SA
+Sofia Almeida 2 minutes 13 seconds
+already in
+Sofia Almeida 2 minutes 19 seconds
+the store is?
+Tomas Lindholm
+2:222:22
+TL
+Tomas Lindholm 2 minutes 22 seconds
+For this phase, no. It knows how much there is, not how old.
+Sofia Almeida
+2:282:28
+SA
+Sofia Almeida 2 minutes 28 seconds
+Then for ambient that is fine. For my categories it...
+Sofia Almeida 2 minutes 36 seconds
+is the entire problem.
+Kwame Boateng
+2:432:43
+KB
+Kwame Boateng 2 minutes 43 seconds
+Yeah, yeah.
+Tomas Lindholm
+2:442:44
+TL
+Tomas Lindholm 2 minutes 44 seconds
+I know. It is the thing Priya and I discussed in April and it has not been resolved.
+Priya Nair
+2:532:53
+PN
+Priya Nair 2 minutes 53 seconds
+I asked the warehouse team. I did not get an answer. I...
+Priya Nair 3 minutes 1 second
+will ask again.
+Sofia Almeida
+3:073:07
+SA
+Sofia Almeida 3 minutes 7 seconds
+Can I explain why it matters, because I do not think it...
+Tomas Lindholm
+3:143:14
+TL
+Tomas Lindholm 3 minutes 14 seconds
+Right.
+Sofia Almeida
+3:183:18
+SA
+Sofia Almeida 3 minutes 18 seconds
+has been explained by someone but...
+Ana Duarte
+3:243:24
+AD
+Ana Duarte 3 minutes 24 seconds
+Please do.
+Sofia Almeida
+3:293:29
+SA
+Sofia Almeida 3 minutes 29 seconds
+If I have a product with three days of life left and the system
+Sofia Almeida 3 minutes 39 seconds
+tells me to order the same quantity it would order for something...
+Kwame Boateng
+3:463:46
+KB
+Kwame Boateng 3 minutes 46 seconds
+Mm.
+Sofia Almeida
+3:503:50
+SA
+Sofia Almeida 3 minutes 50 seconds
+with three weeks, I will throw away most of what arrives. So I override Every day,
+Sofia Almeida 4 minutes 1 second
+by hand,
+Tomas Lindholm
+4:064:06
+TL
+Tomas Lindholm 4 minutes 6 seconds
+Yeah, yeah.
+Sofia Almeida
+4:104:10
+SA
+Sofia Almeida 4 minutes 10 seconds
+on the categories where it matters. And,
+Sofia Almeida 4 minutes 14 seconds
+on the categories about the...
+Ana Duarte
+4:174:17
+AD
+Ana Duarte 4 minutes 17 seconds
+Yeah.
+Sofia Almeida
+4:204:20
+SA
+Sofia Almeida 4 minutes 20 seconds
+not have time, we accept the waste.
+Sofia Almeida 4 minutes 25 seconds
+That is
+Sofia Almeida 4 minutes 29 seconds
+our four point one percent.
+Kwame Boateng
+4:334:33
+KB
+Kwame Boateng 4 minutes 33 seconds
+Yeah.
+Tomas Lindholm
+4:354:35
+TL
+Tomas Lindholm 4 minutes 35 seconds
+Understood. And the threshold where it starts to matter?
+Kwame Boateng
+4:444:44
+KB
+Kwame Boateng 4 minutes 44 seconds
+Yes.
+Sofia Almeida
+4:484:48
+SA
+Sofia Almeida 4 minutes 48 seconds
+It is not a single number, it depends on the category. Under five days remaining I mean...
+Tomas Lindholm
+4:584:58
+TL
+Tomas Lindholm 4 minutes 58 seconds
+Yeah.
+Tomas Lindholm
+5:005:00
+TL
+Tomas Lindholm 5 minutes
+That is specific enough to design against.
+Sofia Almeida
+5:085:08
+SA
+Sofia Almeida 5 minutes 8 seconds
+Let me just...
+Sofia Almeida 5 minutes 14 seconds
+Then write it down, because I have said twice now and I do not know where it goes.
+Ana Duarte
+5:265:26
+AD
+Ana Duarte 5 minutes 26 seconds
+Mm, okay.
+Ana Duarte
+5:295:29
+AD
+Ana Duarte 5 minutes 29 seconds
+It goes the workshop output...
+Ana Duarte 5 minutes 35 seconds
+and into the phase two requirements. I will make sure
+Ana Duarte 5 minutes 41 seconds
+it is in both.
+Tomas Lindholm
+5:445:44
+TL
+Tomas Lindholm 5 minutes 44 seconds
+Yeah.
+Sofia Almeida
+5:485:48
+SA
+Sofia Almeida 5 minutes 48 seconds
+Thank you.
+Lena Fischer
+5:525:52
+LF
+Lena Fischer 5 minutes 52 seconds
+Can we
+Priya Nair
+5:595:59
+PN
+Priya Nair 5 minutes 59 seconds
+Mm-hm.
+Lena Fischer
+6:036:03
+LF
+Lena Fischer 6 minutes 3 seconds
+get to the parameters.
+Tomas Lindholm
+6:096:09
+TL
+Tomas Lindholm 6 minutes 9 seconds
+Yes. Service level and...
+Tomas Lindholm 6 minutes 13 seconds
+below.
++358 40 5512 097
+6:176:17
++4
++358 40 5512 097 6 minutes 17 seconds
+Yeah.
+Priya Nair
+6:206:20
+PN
+Priya Nair 6 minutes 20 seconds
+Let me just...
+Priya Nair 6 minutes 26 seconds
+What do we do today?
+Kwame Boateng
+6:326:32
+KB
+Kwame Boateng 6 minutes 32 seconds
+Yeah.
+Lena Fischer
+6:346:34
+LF
+Lena Fischer 6 minutes 34 seconds
+Ninety-nine on everything, in theory, which is
++358 40 5512 097
+6:406:40
++4
++358 40 5512 097 6 minutes 40 seconds
+Mm-hm.
+Lena Fischer
+6:446:44
+LF
+Lena Fischer 6 minutes 44 seconds
+why we carry so much stock.
+Ana Duarte
+6:486:48
+AD
+Ana Duarte 6 minutes 48 seconds
+Okay, yeah.
+Tomas Lindholm
+6:496:49
+TL
+Tomas Lindholm 6 minutes 49 seconds
+Then ninety-eight and ninety-five is a
+Tomas Lindholm 6 minutes 55 seconds
+reduction and,
+Tomas Lindholm 6 minutes 59 seconds
+you should expect the inventory number to fall and and the...
+Lena Fischer
+7:087:08
+LF
+Lena Fischer 7 minutes 8 seconds
+Roughly flat is doing a lot of work in that
+Lena Fischer 7 minutes 14 seconds
+sentence.
+Tomas Lindholm
+7:177:17
+TL
+Tomas Lindholm 7 minutes 17 seconds
+It is. That is what the pilot is for.
+Lena Fischer
+7:257:25
+LF
+Lena Fischer 7 minutes 25 seconds
+Fine. Agreed.
+Ana Duarte
+7:327:32
+AD
+Ana Duarte 7 minutes 32 seconds
+Review cycle?
++358 40 5512 097
+7:387:38
++4
++358 40 5512 097 7 minutes 38 seconds
+Okay.
+Priya Nair
+7:427:42
+PN
+Priya Nair 7 minutes 42 seconds
+Daily order, sort of daily delivery on the fast lines, twice weekly below.
+Lena Fischer
+7:507:50
+LF
+Lena Fischer 7 minutes 50 seconds
+Okay.
+Tomas Lindholm
+7:547:54
+TL
+Tomas Lindholm 7 minutes 54 seconds
+Can you hear me?
+Tomas Lindholm 8 minutes
+Yeah so, that matches the batch, so nothing to solve there.
+Priya Nair
+8:068:06
+PN
+Priya Nair 8 minutes 6 seconds
+Mm.
+Ana Duarte
+8:098:09
+AD
+Ana Duarte 8 minutes 9 seconds
+Rounding to case pack, where we have it.
+Kwame Boateng
+8:158:15
+KB
+Kwame Boateng 8 minutes 15 seconds
+Where we have it. Remediation is at about sixty
+Tomas Lindholm
+8:208:20
+TL
+Tomas Lindholm 8 minutes 20 seconds
+Yeah.
+Kwame Boateng
+8:238:23
+KB
+Kwame Boateng 8 minutes 23 seconds
+percent.
+Priya Nair
+8:298:29
+PN
+Priya Nair 8 minutes 29 seconds
+It will be done for the cohort
+Tomas Lindholm
+8:338:33
+TL
+Tomas Lindholm 8 minutes 33 seconds
+True.
+Priya Nair
+8:378:37
+PN
+Priya Nair 8 minutes 37 seconds
+before Christmas.
+Ana Duarte
+8:428:42
+AD
+Ana Duarte 8 minutes 42 seconds
+Before Christmas is tight against I mean...
+Tomas Lindholm
+8:498:49
+TL
+Tomas Lindholm 8 minutes 49 seconds
+Mm-hm.
+Priya Nair
+8:518:51
+PN
+Priya Nair 8 minutes 51 seconds
+It is
+Ana Duarte
+8:548:54
+AD
+Ana Duarte 8 minutes 54 seconds
+Yeah.
+Priya Nair
+8:578:57
+PN
+Priya Nair 8 minutes 57 seconds
+tight. It is also what I have.
+Ana Duarte
+9:029:02
+AD
+Ana Duarte 9 minutes 2 seconds
+Yeah.
+Ana Duarte
+9:049:04
+AD
+Ana Duarte 9 minutes 4 seconds
+Then that is the plan and the dependency is on the record.

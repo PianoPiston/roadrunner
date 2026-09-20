@@ -1,0 +1,256 @@
+*** SYNTHETIC DATA. Entirely fictional. Acme Org, Meridian Consulting and every
+*** person named are invented. Generated for the RELEX challenge track,
+*** AaltoAI Hackathon 2026.
+
+Subject: Acme monthly steering report
+From: Marco Rossi <marco.rossi@relexsolutions.example>
+Date: Friday, April 10, 2026 17:40
+To: Robert Kahn <robert.kahn@acme-org.example>; Lena Fischer <lena.fischer@acme-org.example>
+Cc: Ana Duarte <ana.duarte@relexsolutions.example>; Henrik Sørensen <henrik.sorensen@relexsolutions.example>
+Messages in thread: 7
+
+Hi Robert, Lena,
+
+Monthly steering report, March 2026.
+
+Status: 🟢 On Track
+
+First full quarter of fresh live. Waste down from 4.1% to 3.4%.
+
+- Approximately 118 tonnes of fresh waste avoided across the 25 store cohort.
+- Approximately 296 tonnes CO2e avoided, on Acme's own published conversion factors.
+- Two caveats apply and are in the detail note. The figure should not be scaled to the full estate without discussion.
+- On the twelve month question: as Robert set out at the SOW review, this was always framed as an anticipation on our side rather than a commitment, and we have reported against it on that basis throughout.
+- Bakery build progressing.
+
+[Image removed by sender]
+
+What we need from you: None.
+
+Marco Rossi
+Account Executive Image
++351 912 447 026 | CET/CEST
+marco.rossi@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+Image
+Image
+Plan better. Sell more. Waste less
+relexsolutions.example Image
+LinkedInYouTube
+Image
+
+
+From: Marco Rossi <marco.rossi@relexsolutions.example>
+Sent: Friday, January 30, 2026 16:30
+To: Robert Kahn <robert.kahn@acme-org.example>; Lena Fischer <lena.fischer@acme-org.example>
+Cc: Ana Duarte <ana.duarte@relexsolutions.example>; Henrik Sørensen <henrik.sorensen@relexsolutions.example>
+Subject: Re: Acme monthly steering report
+
+Hi Robert, Lena,
+
+Monthly steering report, January 2026.
+
+Status: 🟢 On Track
+
+Six weeks live. Stable.
+
+- No incidents over the holiday period.
+- Bakery workstream scoping with Meridian has begun.
+- Q1 measurement will be reported in April against the agreed baseline.
+
+[Image removed by sender]
+
+What we need from you: None.
+
+Marco Rossi
+Account Executive Image
++351 912 447 026 | CET/CEST
+marco.rossi@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+Image
+Image
+Plan better. Sell more. Waste less
+relexsolutions.example Image
+LinkedInYouTube
+Image
+
+
+From: Marco Rossi <marco.rossi@relexsolutions.example>
+Sent: Friday, November 28, 2025 17:00
+To: Robert Kahn <robert.kahn@acme-org.example>; Lena Fischer <lena.fischer@acme-org.example>
+Cc: Ana Duarte <ana.duarte@relexsolutions.example>; Henrik Sørensen <henrik.sorensen@relexsolutions.example>
+Subject: Re: Acme monthly steering report
+
+Hi Robert, Lena,
+
+Monthly steering report, November 2025.
+
+Status: 🟢 On Track
+
+Replanned. Fresh go-live 15 December for three categories.
+
+- Go/no-go held 17 November. Produce, dairy and chilled approved.
+- Bakery descoped to a separate workstream starting March 2026.
+- This is two deliveries rather than three. Any plan document showing three waves is superseded.
+
+[Image removed by sender]
+
+What we need from you: None.
+
+Marco Rossi
+Account Executive Image
++351 912 447 026 | CET/CEST
+marco.rossi@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+Image
+Image
+Plan better. Sell more. Waste less
+relexsolutions.example Image
+LinkedInYouTube
+Image
+
+
+From: Marco Rossi <marco.rossi@relexsolutions.example>
+Sent: Friday, October 31, 2025 16:20
+To: Robert Kahn <robert.kahn@acme-org.example>; Lena Fischer <lena.fischer@acme-org.example>
+Cc: Ana Duarte <ana.duarte@relexsolutions.example>; Henrik Sørensen <henrik.sorensen@relexsolutions.example>
+Subject: Re: Acme monthly steering report
+
+Hi Robert, Lena,
+
+Monthly steering report, October 2025.
+
+Status: 🟡Slight Delay
+
+Two of the six weeks recovered. Go/no-go on track for 15 November.
+
+- UAT running on produce, dairy and chilled ready meals.
+- Bakery accuracy is poor and we expect to recommend descoping it.
+- Acme's fresh category manager is unavailable until mid November, which limits how fast UAT findings can be resolved.
+
+[Image removed by sender]
+
+What we need from you: Confirmation that a bakery descope is acceptable in principle.
+
+Marco Rossi
+Account Executive Image
++351 912 447 026 | CET/CEST
+marco.rossi@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+Image
+Image
+Plan better. Sell more. Waste less
+relexsolutions.example Image
+LinkedInYouTube
+Image
+
+
+From: Marco Rossi <marco.rossi@relexsolutions.example>
+Sent: Tuesday, September 30, 2025 17:10
+To: Robert Kahn <robert.kahn@acme-org.example>; Lena Fischer <lena.fischer@acme-org.example>
+Cc: Ana Duarte <ana.duarte@relexsolutions.example>; Henrik Sørensen <henrik.sorensen@relexsolutions.example>
+Subject: Re: Acme monthly steering report
+
+Hi Robert, Lena,
+
+Monthly steering report, September 2025.
+
+Status: 🔴 Risk
+
+Fresh Phase 2 is six weeks behind. Recovery plan in place.
+
+- Two causes: UAT resourcing on the Acme side, and a defect on ours. The defect is fixed.
+- RELEX has added a solution consultant for two weeks at our own cost.
+- A go or no-go decision is set for 15 November.
+
+[Image removed by sender]
+
+What we need from you: UAT capacity from the Acme side through October.
+
+Marco Rossi
+Account Executive Image
++351 912 447 026 | CET/CEST
+marco.rossi@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+Image
+Image
+Plan better. Sell more. Waste less
+relexsolutions.example Image
+LinkedInYouTube
+Image
+
+
+From: Marco Rossi <marco.rossi@relexsolutions.example>
+Sent: Friday, August 29, 2025 16:45
+To: Robert Kahn <robert.kahn@acme-org.example>; Lena Fischer <lena.fischer@acme-org.example>
+Cc: Ana Duarte <ana.duarte@relexsolutions.example>; Henrik Sørensen <henrik.sorensen@relexsolutions.example>
+Subject: Re: Acme monthly steering report
+
+Hi Robert, Lena,
+
+Monthly steering report, August 2025.
+
+Status: 🟡Slight Delay
+
+A data dependency with Acme IT has been open for five weeks.
+
+- The field we need for shelf life aware ordering does not exist in the form required.
+- We are preparing a workaround so the build is not blocked.
+- No change to the December target at this stage.
+
+[Image removed by sender]
+
+What we need from you: Acme IT capacity to confirm the workaround is acceptable.
+
+Marco Rossi
+Account Executive Image
++351 912 447 026 | CET/CEST
+marco.rossi@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+Image
+Image
+Plan better. Sell more. Waste less
+relexsolutions.example Image
+LinkedInYouTube
+Image
+
+
+From: Marco Rossi <marco.rossi@relexsolutions.example>
+Sent: Thursday, July 31, 2025 17:20
+To: Robert Kahn <robert.kahn@acme-org.example>; Lena Fischer <lena.fischer@acme-org.example>
+Cc: Ana Duarte <ana.duarte@relexsolutions.example>; Henrik Sørensen <henrik.sorensen@relexsolutions.example>
+Subject: Acme monthly steering report
+
+Hi Robert, Lena,
+
+Monthly steering report, July 2025.
+
+Status: 🟢 On Track
+
+Fresh Phase 2 configuration underway. No change to the December target.
+
+- Produce and dairy configuration progressing.
+- One open dependency with Acme IT on a data field. Not yet material.
+
+[Image removed by sender]
+
+What we need from you: None.
+
+Marco Rossi
+Account Executive Image
++351 912 447 026 | CET/CEST
+marco.rossi@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+Image
+Image
+Plan better. Sell more. Waste less
+relexsolutions.example Image
+LinkedInYouTube
+Image

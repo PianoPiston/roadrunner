@@ -1,0 +1,125 @@
+*** SYNTHETIC DATA. Entirely fictional. Acme Org, Meridian Consulting and every
+*** person named are invented. Generated for the RELEX challenge track,
+*** AaltoAI Hackathon 2026.
+
+Subject: DC-2 feed failures - 6 and 14 March
+From: Priya Nair <priya.nair@acme-org.example>
+Date: Friday, March 21, 2025 17:50
+To: Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Cc: Ana Duarte <ana.duarte@relexsolutions.example>; Lena Fischer <lena.fischer@acme-org.example>; Marco Rossi <marco.rossi@relexsolutions.example>
+Messages in thread: 5
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+File size check in place. Any file under 1KB now fails the job loudly.
+
+Priya Nair
+IT Integration Lead
++49 151 3307 9126
+Acme Org GmbH | Hansaring 82, 50670 Köln
+acme-org.example
+Image
+
+
+Från: Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Skickat: den 17 mars 2025 14:15
+Till: Priya Nair <priya.nair@acme-org.example>
+Kopia: Ana Duarte <ana.duarte@relexsolutions.example>; Lena Fischer <lena.fischer@acme-org.example>; Marco Rossi <marco.rossi@relexsolutions.example>
+Ämne: Re: DC-2 feed failures - 6 and 14 March
+
+Agreed and noted separately. Please do add the file size check.
+
+For the record, we should have had it from the start. An empty file passing as success is
+the kind of thing a design review is supposed to catch.
+
+Med vänliga hälsningar,
+Tomas Lindholm
+Solution Architect Bild borttagen av avsändaren.
++46 70 118 44 92
+tomas.lindholm@relexsolutions.example
+Vasagatan 7, 111 20 Stockholm
+Bild borttagen av avsändaren.
+relexsolutions.example
+
+
+From: Priya Nair <priya.nair@acme-org.example>
+Sent: Monday, March 17, 2025 9:40 AM
+To: Ana Duarte <ana.duarte@relexsolutions.example>
+Cc: Lena Fischer <lena.fischer@acme-org.example>; Marco Rossi <marco.rossi@relexsolutions.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Subject: Re: DC-2 feed failures - 6 and 14 March
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+Technical note so this is on the record properly.
+
+6 March: middleware failure on DC-2. This is the known issue from the April 2024
+assessment.
+
+14 March: not the middleware. The job ran and moved three files, one of which was empty
+because an upstream export had not completed. Job reported success.
+
+These are two different failure modes. Please do not let them be merged into one line in
+the incident log, because the fixes are different. The second one is a file size check
+and I can do it this week.
+
+Priya Nair
+IT Integration Lead
++49 151 3307 9126
+Acme Org GmbH | Hansaring 82, 50670 Köln
+acme-org.example
+Image
+
+
+From: Ana Duarte <ana.duarte@relexsolutions.example>
+Sent: Friday, March 14, 2025 12:20 PM
+To: Lena Fischer <lena.fischer@acme-org.example>
+Cc: Priya Nair <priya.nair@acme-org.example>; Marco Rossi <marco.rossi@relexsolutions.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Subject: Re: DC-2 feed failures - 6 and 14 March
+
+Lena,
+
+You did raise it and I did not close it. That is on me.
+
+Tomas is covering from now until Kwame returns on the 24th. His number is in the runbook
+and I will send it separately.
+
+I will have a named second person on the runbook permanently by the end of next week.
+
+Best regards,
+Ana Duarte
+Project Manager Image
++351 913 882 145 | UTC +01:00
+ana.duarte@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+Image
+Image
+Plan better. Sell more. Waste less
+relexsolutions.example Image
+LinkedInYouTube
+
+
+Von: Lena Fischer <lena.fischer@acme-org.example>
+Gesendet: Freitag, 14. März 2025 11:05
+An: Ana Duarte <ana.duarte@relexsolutions.example>
+Cc: Priya Nair <priya.nair@acme-org.example>; Marco Rossi <marco.rossi@relexsolutions.example>
+Betreff: DC-2 feed failures - 6 and 14 March
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+Ana,
+
+Second failure this week. My planners worked all morning on Thursday's stock figures
+without knowing it. We over-ordered on about forty lines.
+
+The monitoring alerted Kwame, who is on holiday. Nobody else was watching.
+
+I raised the cover question with you in January and I was told it would be handled.
+
+Mit freundlichen Grüßen
+Lena Fischer
+Head of Supply Chain
++49 151 2244 8830
+Acme Org GmbH | Hansaring 82, 50670 Köln
+acme-org.example
+[cid:image001.png]

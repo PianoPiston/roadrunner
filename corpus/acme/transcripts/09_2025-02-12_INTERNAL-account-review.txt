@@ -1,0 +1,63 @@
+*** SYNTHETIC DATA. This transcript is entirely fictional. Acme Org, Northwind
+*** Retail Group, Meridian Consulting and every person named are invented. Any
+*** resemblance to a real organisation or individual is coincidental. Generated
+*** for the RELEX challenge track, AaltoAI Hackathon 2026.
+
+Meeting: Account review before go-live
+Customer: Acme Org (Grocery Retail, EMEA)
+Date: 2025-02-12
+Phase: Internal (RELEX only)
+Attendees: Marco Rossi (RELEX), Ana Duarte (RELEX), Henrik Sørensen (RELEX Account Director)
+
+Me: so Right, so where are we with Acme.
+Them: Go-live is in about three weeks for core. Dry goods, DC-1, the pilot group.
+Me: Go-live is in. DC-1, the pilot group.
+Them: Go-live is. DC-1, the pilot group.
+Me: And the number.
+Them: Signed at nine hundred and eighty eighty thousand annual. We held above the floor, we went to fourteen percent off list and the floor is eighteen, so there is headroom if Phase 2 needs sweetening.
+Me: But, do not sweeten it yet.
+Them: I was not going to.
+Me: you know Talk me through the room.
+Them: Lena Fischer is the champion, unambiguously. Head of supply chain, she brought us in, she defends us internally. If we lose Lena we lose the account.
+Me: Is she safe?
+Them: She is safe. Kahn is the gate. CFO. He does not care about ambient, he does not care about automation rates, you know he cares about fresh waste because that is what the board asks him about, and he has said twelve months for ROI more than once.
+Me: She is. care about ambient. that is what. about, and he has said.
+Them: Three times in my hearing.
+Them: kind of like So the twelve-month clock is the real deadline, not not the plan dates.
+Them: kind of like So the. not not the plan dates.
+Me: And Phase 2 sits where relative to that.
+Them: like That is the problem. Twelve months from signature puts us at roughly the end of of this year. Phase 2 is not scoped yet.
+Me: So it is tight.
+Them: It is tight.
+Me: Who else.
+Them: Priya Nair in IT. She is not against us but she is not for us either. She She will do what is agreed and she will tell you exactly why will not work, which is actually useful, but she will not push anything uphill on our behalf.
+Me: she is not. what is. you exactly why will. is actually useful.
+Them: us but she. what is. she will.
+Them: She has been straight with us every time.
+Them: She has. I would not call her a blocker. I would call her weather.
+Me: And the fresh person.
+Them: Sofia Almeida. She She is one who actually understands the problem were hired to solve. She has no political weight whatsoever, I mean she is a category manager covering two roles, and she is the single point of knowledge on fresh. She flagged that herself in the demo.
+Me: Is that in the risk register.
+Them: It is in mine.
+Me: So, put it in the account plan too.
+Them: One more thing on Kahn. Do not schedule him on a Friday. He He has his kids Fridays since the separation and he will either decline or join and be somewhere else.
+Me: Noted. Just put availability constraint in the notes, not the reason.
+Them: Noted. Just. reason.
+Them: But, fine.
+Me: Competition?
+Them: Nobody on core, basically we won cleanly. But there is somebody circling the fresh module specifically. Lena mentioned they had been contacted, she did not say by whom and I did not push.
+Me: That is worth knowing. Fresh is the emotional centre of the account and it it is the piece we have not delivered.
+Them: Correct.
+Me: yeah Renewal date?
+Them: Three years from signature, so mid twenty-seven.
+Me: Then the risk is not renewal, kind of like the risk is Phase 2 slipping past Kahn's window and the fresh scope going out to tender.
+Them: That is exactly the risk.
+Me: actually How does this compare to the Braggeholm situation, are we we discounting similarly there?
+Them: actually How does this. we discounting similarly there?.
+Them: brag a home went out at much steeper discount.
+Me: Do not put that in any shared document.
+Them: No.
+Me: So, right. Actions. Marco, get Phase 2 scoped before the ninety-day review so we have something to show Kahn. Ana, DC-2 on the risk register with a named owner. And someone write down that Sofia is a single point of failure.
+Them: So, right. Actions. Marco. review so we have something. DC-2 on the risk register. point of failure.
+Them: you know I will do that today.
+Me: Good.

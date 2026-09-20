@@ -1,0 +1,129 @@
+*** SYNTHETIC DATA. Entirely fictional. Acme Org, Meridian Consulting and every
+*** person named are invented. Generated for the RELEX challenge track,
+*** AaltoAI Hackathon 2026.
+
+Subject: Chain wide rollout - indicative numbers
+From: Robert Kahn <robert.kahn@acme-org.example>
+Date: Monday, June 29, 2026 10:22 AM
+To: Lena Fischer <lena.fischer@acme-org.example>
+Cc: Marco Rossi <marco.rossi@relexsolutions.example>
+Messages in thread: 5
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+Then I will ask him.
+
+Robert Kahn
+Chief Financial Officer
+Acme Org GmbH
++49 151 6620 1174
+[cid:image001.png]
+
+
+Von: Lena Fischer <lena.fischer@acme-org.example>
+Gesendet: Montag, 29. Juni 2026 10:15
+An: Robert Kahn <robert.kahn@acme-org.example>
+Cc: Marco Rossi <marco.rossi@relexsolutions.example>; Henrik Sørensen <henrik.sorensen@relexsolutions.example>
+Betreff: Re: Chain wide rollout - indicative numbers
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+It sits under logistics IT. The owner is Nils Ackermann. Priya has asked him twice, in
+2024 and again in 2025.
+
+Mit freundlichen Grüßen
+Lena Fischer
+Head of Supply Chain
++49 151 2244 8830
+Acme Org GmbH | Hansaring 82, 50670 Köln
+acme-org.example
+[cid:image001.png]
+
+
+Von: Robert Kahn <robert.kahn@acme-org.example>
+Gesendet: Montag, 29. Juni 2026 09:40
+An: Marco Rossi <marco.rossi@relexsolutions.example>
+Cc: Lena Fischer <lena.fischer@acme-org.example>; Henrik Sørensen <henrik.sorensen@relexsolutions.example>
+Betreff: Re: Chain wide rollout - indicative numbers
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+That is the most useful email I have had from a supplier this year.
+
+Lena, who owns the warehouse system?
+
+Robert Kahn
+Chief Financial Officer
+Acme Org GmbH
++49 151 6620 1174
+[cid:image001.png]
+
+
+From: Marco Rossi <marco.rossi@relexsolutions.example>
+Sent: Friday, June 26, 2026 17:15
+To: Robert Kahn <robert.kahn@acme-org.example>
+Cc: Lena Fischer <lena.fischer@acme-org.example>; Henrik Sørensen <henrik.sorensen@relexsolutions.example>; Ana Duarte <ana.duarte@relexsolutions.example>
+Subject: Re: Chain wide rollout - indicative numbers
+
+Robert,
+
+Indicative numbers attached. Summary here so you have it in the mail.
+
+Chain wide for the three fresh categories, 340 stores: additional annual licence of
+approximately 420 thousand, plus implementation of approximately 260 thousand one off.
+
+On your second point, and this is the honest version.
+
+The twelve month expectation was missed for one reason above all others. The value case
+depended on fresh, and fresh depended on a data field that we identified as a dependency
+in April 2024 and never obtained. Everything else largely went to plan. We built a
+workaround in September 2025 which works acceptably on fast moving articles and poorly on
+slow moving ones, and your category manager has been compensating for the difference by
+hand ever since.
+
+For the next number to be different, that field has to be available. It is not a RELEX
+deliverable and I cannot commit to it on your behalf, which is why I am putting it in
+writing rather than in a slide.
+
+If it is not resolved, chain wide will reduce waste by less than the pilot suggests,
+because the slow moving articles are a larger share of the tail across 340 stores than
+across 25.
+
+Marco Rossi
+Account Executive Image
++351 912 447 026 | CET/CEST
+marco.rossi@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+Image
+Image
+Plan better. Sell more. Waste less
+relexsolutions.example Image
+LinkedInYouTube
+Image
+
+
+Von: Robert Kahn <robert.kahn@acme-org.example>
+Gesendet: Mittwoch, 17. Juni 2026 08:20
+An: Marco Rossi <marco.rossi@relexsolutions.example>
+Cc: Lena Fischer <lena.fischer@acme-org.example>
+Betreff: Chain wide rollout - indicative numbers
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+Marco,
+
+You said you would come back with a number for chain wide rather than guess in the room.
+I would like it before the end of the month, because our budget cycle starts in August and
+if this is not in it, it does not happen until 2028.
+
+Also, and I want to be direct: I asked yesterday whether we got return on investment
+inside twelve months and you said no. I appreciated that. But the proposal you send me
+needs to explain why the next number will be different, because the board will ask me and
+"it will be better this time" is not an answer.
+
+Robert Kahn
+Chief Financial Officer
+Acme Org GmbH
++49 151 6620 1174
+[cid:image001.png]

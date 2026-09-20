@@ -1,0 +1,142 @@
+*** SYNTHETIC DATA. Entirely fictional. Acme Org, Meridian Consulting and every
+*** person named are invented. Generated for the RELEX challenge track,
+*** AaltoAI Hackathon 2026.
+
+Subject: Master data remediation - progress
+From: Priya Nair <priya.nair@acme-org.example>
+Date: Friday, December 20, 2024 9:02 AM
+To: Ana Duarte <ana.duarte@relexsolutions.example>
+Cc: Kwame Boateng <k.boateng@relexsolutions.example>; Lena Fischer <lena.fischer@acme-org.example>; Marco Rossi <marco.rossi@relexsolutions.example>
+Messages in thread: 6
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+It will become someone else's critical path for phase two.
+
+Priya Nair
+IT Integration Lead
++49 151 3307 9126
+Acme Org GmbH | Hansaring 82, 50670 Köln
+acme-org.example
+Image
+
+
+From: Ana Duarte <ana.duarte@relexsolutions.example>
+Sent: Friday, December 20, 2024 8:40 AM
+To: Priya Nair <priya.nair@acme-org.example>
+Cc: Kwame Boateng <k.boateng@relexsolutions.example>; Lena Fischer <lena.fischer@acme-org.example>; Marco Rossi <marco.rossi@relexsolutions.example>
+Subject: Re: Master data remediation - progress
+
+Recorded, and thank you. I have put it in the steering report.
+
+One thing for the record so it is not a surprise in six months: shelf life remains at 48%
+and untouched. That is correct for this phase and it will become the critical path for
+phase two.
+
+Best regards,
+Ana Duarte
+Project Manager Image
++351 913 882 145 | UTC +01:00
+ana.duarte@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+Image
+Image
+Plan better. Sell more. Waste less
+relexsolutions.example Image
+LinkedInYouTube
+
+
+From: Priya Nair <priya.nair@acme-org.example>
+Sent: Thursday, December 19, 2024 18:15
+To: Ana Duarte <ana.duarte@relexsolutions.example>
+Cc: Kwame Boateng <k.boateng@relexsolutions.example>; Lena Fischer <lena.fischer@acme-org.example>
+Subject: Re: Master data remediation - progress
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+Done. All 1,317. The two unresponsive suppliers we resolved by measuring actual delivered
+quantities over six months and inferring the case pack, which is not ideal but it is
+right for 190 of the 200.
+
+I would like it recorded somewhere that this took my team three weeks of overtime in
+December.
+
+Priya Nair
+IT Integration Lead
++49 151 3307 9126
+Acme Org GmbH | Hansaring 82, 50670 Köln
+acme-org.example
+Image
+
+
+From: Ana Duarte <ana.duarte@relexsolutions.example>
+Sent: Monday, November 25, 2024 9:30 AM
+To: Priya Nair <priya.nair@acme-org.example>
+Cc: Kwame Boateng <k.boateng@relexsolutions.example>; Lena Fischer <lena.fischer@acme-org.example>
+Subject: Re: Master data remediation - progress
+
+Priya, where are we? The plan has this finishing before Christmas and Q1 go-live depends
+on it.
+
+Best regards,
+Ana Duarte
+Project Manager Image
++351 913 882 145 | UTC +01:00
+ana.duarte@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+Image
+Image
+Plan better. Sell more. Waste less
+relexsolutions.example Image
+LinkedInYouTube
+
+
+From: Priya Nair <priya.nair@acme-org.example>
+Sent: Monday, October 28, 2024 16:50
+To: Kwame Boateng <k.boateng@relexsolutions.example>
+Cc: Ana Duarte <ana.duarte@relexsolutions.example>; Lena Fischer <lena.fischer@acme-org.example>
+Subject: Re: Master data remediation - progress
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+Progress after four weeks: 780 of 1,317 done.
+
+Slower than I hoped. Two of the suppliers have not answered at all and between them they
+account for about 200 articles.
+
+Priya Nair
+IT Integration Lead
++49 151 3307 9126
+Acme Org GmbH | Hansaring 82, 50670 Köln
+acme-org.example
+Image
+
+
+From: Kwame Boateng <k.boateng@relexsolutions.example>
+Sent: Monday, September 30, 2024 10:05 AM
+To: Priya Nair <priya.nair@acme-org.example>
+Cc: Ana Duarte <ana.duarte@relexsolutions.example>
+Subject: Master data remediation - progress
+
+Priya,
+
+As agreed in the workshop, the remediation scope for the pilot cohort:
+
+  Articles in cohort                 4,214
+  Missing case pack quantity         1,317
+  Missing or default supplier lead   3,105
+  Shelf life populated               48%
+
+Case pack is the blocker. Lead times we can work around by deriving actuals from receipt
+history. Shelf life is out of scope for this phase.
+
+File attached with the 1,317.
+
+Kwame Boateng
+Technical Consultant Image
++44 7700 900 318
+k.boateng@relexsolutions.example
+Image
+relexsolutions.example

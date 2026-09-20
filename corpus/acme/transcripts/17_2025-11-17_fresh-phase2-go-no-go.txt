@@ -1,0 +1,813 @@
+*** SYNTHETIC DATA. This transcript is entirely fictional. Acme Org, Northwind
+*** Retail Group, Meridian Consulting and every person named are invented. Any
+*** resemblance to a real organisation or individual is coincidental. Generated
+*** for the RELEX challenge track, AaltoAI Hackathon 2026.
+
+Meeting: Fresh Phase 2 go/no-go
+Customer: Acme Org (Grocery Retail, EMEA)
+Date: 2025-11-17
+Phase: Live-Services
+Attendees: Lena Fischer (Acme), Sofia Almeida (Acme), Priya Nair (Acme), Marco Rossi (RELEX), Nadia Haddad (RELEX)
+
+Marco Rossi
+0:140:14
+MR
+Marco Rossi 14 seconds
+Okay so.
+Marco Rossi 16 seconds
+This is the go or no-go we committed to in September. Nadia
+Lena Fischer
+0:220:22
+LF
+Lena Fischer 22 seconds
+Yeah.
+Marco Rossi
+0:250:25
+MR
+Marco Rossi 25 seconds
+has been running fresh UAT for the last two weeks.
+Lena Fischer
+0:340:34
+LF
+Lena Fischer 34 seconds
+before anyone says it, we are not doing three waves. I saw
+Sofia Almeida
+0:430:43
+SA
+Sofia Almeida 43 seconds
+Yes.
+Lena Fischer
+0:460:46
+LF
+Lena Fischer 46 seconds
+that in a plan document last week and it is the first I...
+Lena Fischer 56 seconds
+had heard of it.
+Sofia Almeida
+1:001:00
+SA
+Sofia Almeida 1 minute
+Right.
+Marco Rossi
+1:021:02
+MR
+Marco Rossi 1 minute 2 seconds
+Noted. We will come back to you on
+Marco Rossi 1 minute 6 seconds
+where that came from.
+Lena Fischer
+1:111:11
+LF
+Lena Fischer 1 minute 11 seconds
+Put it in writing
+Lena Fischer 1 minute 16 seconds
+please, I.
+Lena Fischer 1 minute 20 seconds
+Sofia, you are back.
+Nadia Haddad
+1:261:26
+NH
+Nadia Haddad 1 minute 26 seconds
+Mm.
+Sofia Almeida
+1:291:29
+SA
+Sofia Almeida 1 minute 29 seconds
+I am back. Do not ask me about it, I am fine.
+Lena Fischer
+1:391:39
+LF
+Lena Fischer 1 minute 39 seconds
+I was not going to.
+Sofia Almeida
+1:461:46
+SA
+Sofia Almeida 1 minute 46 seconds
+Everyone has asked me about it eleven times
+Sofia Almeida 1 minute 52 seconds
+this week.
+Marco Rossi
+1:581:58
+MR
+Marco Rossi 1 minute 58 seconds
+This is the important part.
+Marco Rossi 2 minutes 7 seconds
+Understood. Nadia?
+Priya Nair
+2:112:11
+PN
+Priya Nair 2 minutes 11 seconds
+Okay, yeah.
+Nadia Haddad
+2:142:14
+NH
+Nadia Haddad 2 minutes 14 seconds
+The defect is fixed and verified. Negative
+Nadia Haddad 2 minutes 22 seconds
+Hmm.
+Nadia Haddad 2 minutes 25 seconds
+quantities are gone. UAT has run for nine working days on the four fresh categories and
+Priya Nair
+2:352:35
+PN
+Priya Nair 2 minutes 35 seconds
+Mm.
+Unknown Speaker
+2:392:39
+US
+Unknown Speaker 2 minutes 39 seconds
+the results are usable.
+Marco Rossi
+2:422:42
+MR
+Marco Rossi 2 minutes 42 seconds
+Yeah.
+Lena Fischer
+2:442:44
+LF
+Lena Fischer 2 minutes 44 seconds
+Usable.
+Nadia Haddad
+2:492:49
+NH
+Nadia Haddad 2 minutes 49 seconds
+Usable, not excellent. Accuracy on produce and dairy is good. Bakery is poor and I know why. Chilled ready meals I do not...
+Nadia Haddad 3 minutes 2 seconds
+have enough data on because the history is short.
+Sofia Almeida
+3:083:08
+SA
+Sofia Almeida 3 minutes 8 seconds
+Bakery is poor because half of it is baked in store and it is not
+Sofia Almeida 3 minutes 17 seconds
+really an ordering problem.
+Nadia Haddad
+3:223:22
+NH
+Nadia Haddad 3 minutes 22 seconds
+That is
+Lena Fischer
+3:253:25
+LF
+Lena Fischer 3 minutes 25 seconds
+Sure.
+Nadia Haddad
+3:263:26
+NH
+Nadia Haddad 3 minutes 26 seconds
+my conclusion too.
+Priya Nair
+3:323:32
+PN
+Priya Nair 3 minutes 32 seconds
+Yeah.
+Sofia Almeida
+3:333:33
+SA
+Sofia Almeida 3 minutes 33 seconds
+Then take bakery out.
+Marco Rossi
+3:383:38
+MR
+Marco Rossi 3 minutes 38 seconds
+Yeah.
+Lena Fischer
+3:393:39
+LF
+Lena Fischer 3 minutes 39 seconds
+Can we do that?
+Priya Nair
+3:443:44
+PN
+Priya Nair 3 minutes 44 seconds
+Yeah.
+Marco Rossi
+3:483:48
+MR
+Marco Rossi 3 minutes 48 seconds
+We can descope bakery from this...
+Sofia Almeida
+3:543:54
+SA
+Sofia Almeida 3 minutes 54 seconds
+Okay, yeah.
+Marco Rossi
+3:553:55
+MR
+Marco Rossi 3 minutes 55 seconds
+go-live and treat in-store production separately. It is not not a small change to the plan
+Priya Nair
+4:044:04
+PN
+Priya Nair 4 minutes 4 seconds
+Mm, okay.
+Marco Rossi
+4:084:08
+MR
+Marco Rossi 4 minutes 8 seconds
+but it is the right change.
+Lena Fischer
+4:144:14
+LF
+Lena Fischer 4 minutes 14 seconds
+Then that is my decision. Go live on produce, dairy and chilled ready meals. Bakery comes later as its own,
+Sofia Almeida
+4:234:23
+SA
+Sofia Almeida 4 minutes 23 seconds
+Yeah.
+Lena Fischer
+4:264:26
+LF
+Lena Fischer 4 minutes 26 seconds
+thing.
+Marco Rossi
+4:314:31
+MR
+Marco Rossi 4 minutes 31 seconds
+Recorded.
+Sofia Almeida
+4:354:35
+SA
+Sofia Almeida 4 minutes 35 seconds
+One thing...
+Nadia Haddad
+4:394:39
+NH
+Nadia Haddad 4 minutes 39 seconds
+Okay, yeah.
+Sofia Almeida
+4:434:43
+SA
+Sofia Almeida 4 minutes 43 seconds
+about the notes.
+Lena Fischer
+4:464:46
+LF
+Lena Fischer 4 minutes 46 seconds
+Right.
+Marco Rossi
+4:504:50
+MR
+Marco Rossi 4 minutes 50 seconds
+Go ahead.
+Unknown Speaker
+4:544:54
+US
+Unknown Speaker 4 minutes 54 seconds
+Yeah.
+Sofia Almeida
+4:564:56
+SA
+Sofia Almeida 4 minutes 56 seconds
+The March notes, from the demo last year. Somebody has clearly written down that I was having surgery, because Nadia
+Priya Nair
+5:095:09
+PN
+Priya Nair 5 minutes 9 seconds
+Yes.
+Sofia Almeida
+5:105:10
+SA
+Sofia Almeida 5 minutes 10 seconds
+knew about it before we met and I never told her.
+Nadia Haddad
+5:165:16
+NH
+Nadia Haddad 5 minutes 16 seconds
+It is in the handover pack. Document is called Acme-fresh-handover-v3, it is on the project...
+Nadia Haddad 5 minutes 24 seconds
+site.
+Sofia Almeida
+5:305:30
+SA
+Sofia Almeida 5 minutes 30 seconds
+Which page.
+Priya Nair
+5:375:37
+PN
+Priya Nair 5 minutes 37 seconds
+Yes.
+Nadia Haddad
+5:385:38
+NH
+Nadia Haddad 5 minutes 38 seconds
+Page four, under key stakeholders. It says your name, your role, and then,
+Nadia Haddad 5 minutes 45 seconds
+Can you hear me?
+Nadia Haddad 5 minutes 48 seconds
+in brackets, out October November, surgery.
+Priya Nair
+5:555:55
+PN
+Priya Nair 5 minutes 55 seconds
+Yeah.
+Nadia Haddad
+5:575:57
+NH
+Nadia Haddad 5 minutes 57 seconds
+actually It was in the
+Nadia Haddad 6 minutes 2 seconds
+handover document I was given.
+Priya Nair
+6:076:07
+PN
+Priya Nair 6 minutes 7 seconds
+Yeah.
+Sofia Almeida
+6:096:09
+SA
+Sofia Almeida 6 minutes 9 seconds
+Right. I
+Priya Nair
+6:126:12
+PN
+Priya Nair 6 minutes 12 seconds
+Yeah.
+Sofia Almeida
+6:146:14
+SA
+Sofia Almeida 6 minutes 14 seconds
+do not want that in there. I said...
+Sofia Almeida 6 minutes 19 seconds
+it in a meeting because it was relevant to the project
+Sofia Almeida 6 minutes 26 seconds
+timeline, I mean not so it could...
+Priya Nair
+6:326:32
+PN
+Priya Nair 6 minutes 32 seconds
+Yeah.
+Sofia Almeida
+6:356:35
+SA
+Sofia Almeida 6 minutes 35 seconds
+follow me around for two years. Take it out.
+Marco Rossi
+6:426:42
+MR
+Marco Rossi 6 minutes 42 seconds
+We will take it out.
+Sofia Almeida
+6:476:47
+SA
+Sofia Almeida 6 minutes 47 seconds
+Sorry, go ahead.
+Sofia Almeida 6 minutes 49 seconds
+The bit that matters is that I
+Priya Nair
+6:546:54
+PN
+Priya Nair 6 minutes 54 seconds
+Okay.
+Sofia Almeida
+6:576:57
+SA
+Sofia Almeida 6 minutes 57 seconds
+You're on mute.
+Sofia Almeida 6 minutes 59 seconds
+am the only person who knows these categories. Keep that. Delete rest.
+Marco Rossi
+7:057:05
+MR
+Marco Rossi 7 minutes 5 seconds
+That is a fair distinction and I mean...
+Sofia Almeida
+7:127:12
+SA
+Sofia Almeida 7 minutes 12 seconds
+And I would like to know where else...
+Lena Fischer
+7:197:19
+LF
+Lena Fischer 7 minutes 19 seconds
+Yes.
+Sofia Almeida
+7:227:22
+SA
+Sofia Almeida 7 minutes 22 seconds
+it
+Marco Rossi
+7:287:28
+MR
+Marco Rossi 7 minutes 28 seconds
+Yeah.
+Marco Rossi
+7:297:29
+MR
+Marco Rossi 7 minutes 29 seconds
+I do
+Marco Rossi 7 minutes 35 seconds
+not know, honestly. It will be after the...
+Sofia Almeida
+7:407:40
+SA
+Sofia Almeida 7 minutes 40 seconds
+Then find them.
+Priya Nair
+7:467:46
+PN
+Priya Nair 7 minutes 46 seconds
+Mm.
+Sofia Almeida
+7:507:50
+SA
+Sofia Almeida 7 minutes 50 seconds
+I am going to send this to you as an email as well, because I have watched things said
+Sofia Almeida 7 minutes 59 seconds
+in these calls disappear.
+Nadia Haddad
+8:038:03
+NH
+Nadia Haddad 8 minutes 3 seconds
+Yeah.
+Lena Fischer
+8:048:04
+LF
+Lena Fischer 8 minutes 4 seconds
+Sofia is right and I want it followed up properly, not just in this meeting's,
+Lena Fischer 8 minutes 14 seconds
+notes.
+Marco Rossi
+8:188:18
+MR
+Marco Rossi 8 minutes 18 seconds
+I will own that.
+Nadia Haddad
+8:228:22
+NH
+Nadia Haddad 8 minutes 22 seconds
+Mm, okay.
+Priya Nair
+8:268:26
+PN
+Priya Nair 8 minutes 26 seconds
+On the data side, yeah,
+Priya Nair 8 minutes 29 seconds
+one thing. The fresh feed includes a field we should talk about.
+Unknown Speaker
+8:368:36
+US
+Unknown Speaker 8 minutes 36 seconds
+Which one?
+Priya Nair
+8:418:41
+PN
+Priya Nair 8 minutes 41 seconds
+The waste write-off records
+Priya Nair 8 minutes 48 seconds
+carry the operator so...
+Marco Rossi
+8:558:55
+MR
+Marco Rossi 8 minutes 55 seconds
+Yeah.
+Priya Nair
+8:568:56
+PN
+Priya Nair 8 minutes 56 seconds
+item out. So when your system reads the waste data it is
+Sofia Almeida
+9:039:03
+SA
+Sofia Almeida 9 minutes 3 seconds
+Mm, okay.
+Priya Nair
+9:059:05
+PN
+Priya Nair 9 minutes 5 seconds
+also reading who threw what away, yeah per person,
+Priya Nair 9 minutes 13 seconds
+per store, per day.
+Nadia Haddad
+9:179:17
+NH
+Nadia Haddad 9 minutes 17 seconds
+Right.
+Nadia Haddad
+9:189:18
+NH
+Nadia Haddad 9 minutes 18 seconds
+What does the field look like?
+Priya Nair
+9:219:21
+PN
+Priya Nair 9 minutes 21 seconds
+It is OP_ID and it is a six digit number. So for,
+Priya Nair 9 minutes 27 seconds
+example four four seven
+Marco Rossi
+9:319:31
+MR
+Marco Rossi 9 minutes 31 seconds
+Mm.
+Priya Nair
+9:339:33
+PN
+Priya Nair 9 minutes 33 seconds
+one. And four four eight nine three three is Osman Yildirim at the same store. I can...
+Priya Nair 9 minutes 44 seconds
+pull any of and then the...
+Unknown Speaker
+9:489:48
+US
+Unknown Speaker 9 minutes 48 seconds
+Understood.
+Priya Nair
+9:559:55
+PN
+Priya Nair 9 minutes 55 seconds
+Marika has
+Lena Fischer
+10:0110:01
+LF
+Lena Fischer 10 minutes 1 second
+Mm.
+Priya Nair
+10:0210:02
+PN
+Priya Nair 10 minutes 2 seconds
+the highest write-off numbers in that store it is because she works the shift
+Marco Rossi
+10:1310:13
+MR
+Marco Rossi 10 minutes 13 seconds
+Exactly.
+Priya Nair
+10:1710:17
+PN
+Priya Nair 10 minutes 17 seconds
+where the reductions happen, basically not because she is careless. If someone
+Nadia Haddad
+10:2510:25
+NH
+Nadia Haddad 10 minutes 25 seconds
+Mm, okay.
+Priya Nair
+10:2710:27
+PN
+Priya Nair 10 minutes 27 seconds
+reads that table without knowing that,
+Sofia Almeida
+10:3310:33
+SA
+Sofia Almeida 10 minutes 33 seconds
+Okay.
+Priya Nair
+10:3510:35
+PN
+Priya Nair 10 minutes 35 seconds
+she has problem.
+Nadia Haddad
+10:3910:39
+NH
+Nadia Haddad 10 minutes 39 seconds
+We do not use that field.
+Priya Nair
+10:4510:45
+PN
+Priya Nair 10 minutes 45 seconds
+You receive it though.
+Lena Fischer
+10:4810:48
+LF
+Lena Fischer 10 minutes 48 seconds
+Yes.
+Nadia Haddad
+10:5010:50
+NH
+Nadia Haddad 10 minutes 50 seconds
+We receive it, yes.
+Priya Nair
+10:5610:56
+PN
+Priya Nair 10 minutes 56 seconds
+Then either
+Sofia Almeida
+11:0011:00
+SA
+Sofia Almeida 11 minutes
+Sure.
+Priya Nair
+11:0311:03
+PN
+Priya Nair 11 minutes 3 seconds
+stop receiving it and...
+Priya Nair 11 minutes 7 seconds
+writing what you do,
+Marco Rossi
+11:1311:13
+MR
+Marco Rossi 11 minutes 13 seconds
+Yeah, yeah.
+Priya Nair
+11:1511:15
+PN
+Priya Nair 11 minutes 15 seconds
+with it, because our works council will ask and I would like to have
+Lena Fischer
+11:2611:26
+LF
+Lena Fischer 11 minutes 26 seconds
+Okay.
+Priya Nair
+11:3011:30
+PN
+Priya Nair 11 minutes 30 seconds
+an answer before they they do rather than after.
+Nadia Haddad
+11:3911:39
+NH
+Nadia Haddad 11 minutes 39 seconds
+I will confirm in writing tomorrow.
+Priya Nair
+11:4311:43
+PN
+Priya Nair 11 minutes 43 seconds
+You can see here.
+Priya Nair 11 minutes 54 seconds
+Send it to me and copy Lena. I want a record that
+Priya Nair 12 minutes 4 seconds
+is not a meeting note.
+Marco Rossi
+12:1112:11
+MR
+Marco Rossi 12 minutes 11 seconds
+That is a reasonable ask.
+Nadia Haddad
+12:1812:18
+NH
+Nadia Haddad 12 minutes 18 seconds
+Okay.
+Priya Nair
+12:1912:19
+PN
+Priya Nair 12 minutes 19 seconds
+It is not just reasonable, it is a condition.
+Nadia Haddad
+12:2512:25
+NH
+Nadia Haddad 12 minutes 25 seconds
+Right.
+Priya Nair
+12:2712:27
+PN
+Priya Nair 12 minutes 27 seconds
+We cannot have per-employee waste figures leaving our estate without,
+Nadia Haddad
+12:3512:35
+NH
+Nadia Haddad 12 minutes 35 seconds
+Yep.
+Priya Nair
+12:3612:36
+PN
+Priya Nair 12 minutes 36 seconds
+a consultation, and I am not starting a consultation for a field you do not use.
+Unknown Speaker
+12:4612:46
+US
+Unknown Speaker 12 minutes 46 seconds
+Then we drop it at the extract. I
+Nadia Haddad
+12:5112:51
+NH
+Nadia Haddad 12 minutes 51 seconds
+will confirm the field name with you
+Sofia Almeida
+12:5712:57
+SA
+Sofia Almeida 12 minutes 57 seconds
+Right.
+Nadia Haddad
+13:0113:01
+NH
+Nadia Haddad 13 minutes 1 second
+and we exclude it
+Nadia Haddad 13 minutes 5 seconds
+at source.
+Sofia Almeida
+13:1013:10
+SA
+Sofia Almeida 13 minutes 10 seconds
+Exactly.
+Priya Nair
+13:1213:12
+PN
+Priya Nair 13 minutes 12 seconds
+Better.
+Nadia Haddad
+13:1913:19
+NH
+Nadia Haddad 13 minutes 19 seconds
+Yes.
+Lena Fischer
+13:2013:20
+LF
+Lena Fischer 13 minutes 20 seconds
+Good catch, Priya.
+Nadia Haddad
+13:2713:27
+NH
+Nadia Haddad 13 minutes 27 seconds
+Mm, okay.
+Priya Nair
+13:2913:29
+PN
+Priya Nair 13 minutes 29 seconds
+So...
+Priya Nair 13 minutes 32 seconds
+It has been in
+Lena Fischer
+13:3913:39
+LF
+Lena Fischer 13 minutes 39 seconds
+Yeah.
+Priya Nair
+13:4013:40
+PN
+Priya Nair 13 minutes 40 seconds
+every feed since February.
+Lena Fischer
+13:4313:43
+LF
+Lena Fischer 13 minutes 43 seconds
+Ah.
+Marco Rossi
+13:5013:50
+MR
+Marco Rossi 13 minutes 50 seconds
+So. Go-live on the fifteenth of December for produce, dairy and chilled ready meals.
+Nadia Haddad
+13:5813:58
+NH
+Nadia Haddad 13 minutes 58 seconds
+Okay, yeah.
+Marco Rossi
+13:5913:59
+MR
+Marco Rossi 13 minutes 59 seconds
+Bakery descoped to a separate so...
+Priya Nair
+14:0314:03
+PN
+Priya Nair 14 minutes 3 seconds
+Okay.
+Marco Rossi
+14:0714:07
+MR
+Marco Rossi 14 minutes 7 seconds
+excluded at at extract, confirmed in writing. And Sofia's request handled and traced.
+Sofia Almeida
+14:1514:15
+SA
+Sofia Almeida 14 minutes 15 seconds
+Thank you.
+Lena Fischer
+14:2214:22
+LF
+Lena Fischer 14 minutes 22 seconds
+Agreed.
+Sofia Almeida
+14:2914:29
+SA
+Sofia Almeida 14 minutes 29 seconds
+Mm, okay.
+Priya Nair
+14:3614:36
+PN
+Priya Nair 14 minutes 36 seconds
+One last thing. If we are opening the reporting folder up to the wider
+Priya Nair 14 minutes 43 seconds
+team I would want to know who has looked at what.
+Lena Fischer
+14:5014:50
+LF
+Lena Fischer 14 minutes 50 seconds
+Opening it up to who? Those reports have always been readable.
+Lena Fischer 14 minutes 57 seconds
+Anyone on the team could have opened any of them at any point in the last
+Lena Fischer 15 minutes 3 seconds
+two years. They were just hard to find.
+Priya Nair
+15:1015:10
+PN
+Priya Nair 15 minutes 10 seconds
+That is not the same as being allowed to.
+Lena Fischer
+15:1515:15
+LF
+Lena Fischer 15 minutes 15 seconds
+No. But it is what we have had, and nobody has called it a problem until
+Lena Fischer 15 minutes 22 seconds
+somebody made it easy.
+Marco Rossi
+15:2915:29
+MR
+Marco Rossi 15 minutes 29 seconds
+Mm.
+Sofia Almeida
+15:3215:32
+SA
+Sofia Almeida 15 minutes 32 seconds
+I would call it a problem.

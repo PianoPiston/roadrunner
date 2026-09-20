@@ -1,0 +1,657 @@
+*** SYNTHETIC DATA. This transcript is entirely fictional. Acme Org, Meridian
+*** Consulting and every person named are invented. Any resemblance to a real
+*** organisation or individual is coincidental. Generated for the RELEX challenge
+*** track, AaltoAI Hackathon 2026.
+
+Meeting: Q2 quarterly business review
+Customer: Acme Org (Grocery Retail, EMEA)
+Date: 2026-06-16
+Phase: Live-Services
+Attendees: Marco Rossi (RELEX), Ana Duarte (RELEX), Nadia Haddad (RELEX), Lena Fischer (Acme), Robert Kahn (Acme CFO), Sofia Almeida (Acme)
+
+Marco Rossi
+0:070:07
+MR
+Marco Rossi 7 seconds
+Third formal QBR. Robert, you said you would come to the ones that matter.
+Robert Kahn
+0:140:14
+RK
+Robert Kahn 14 seconds
+This one matters. and...
+Marco Rossi
+0:170:17
+MR
+Marco Rossi 17 seconds
+Okay, yeah.
+Robert Kahn
+0:190:19
+RK
+Robert Kahn 19 seconds
+fresh.
+Ana Duarte
+0:230:23
+AD
+Ana Duarte 23 seconds
+Numbers first. Six months live on the twenty-five store. Fresh waste has
+Ana Duarte 32 seconds
+moved from four point one percent to three,
+Ana Duarte 37 seconds
+point two.
+Marco Rossi
+0:410:41
+MR
+Marco Rossi 41 seconds
+Okay.
+Robert Kahn
+0:430:43
+RK
+Robert Kahn 43 seconds
+But, three
+Marco Rossi
+0:480:48
+MR
+Marco Rossi 48 seconds
+Yeah.
+Robert Kahn
+0:510:51
+RK
+Robert Kahn 51 seconds
+point two. The target is into the...
+Ana Duarte
+0:550:55
+AD
+Ana Duarte 55 seconds
+The target
+Ana Duarte 1 minute 2 seconds
+is two point eight.
+Robert Kahn
+1:051:05
+RK
+Robert Kahn 1 minute 5 seconds
+So we
+Sofia Almeida
+1:101:10
+SA
+Sofia Almeida 1 minute 10 seconds
+Fair enough.
+Robert Kahn
+1:111:11
+RK
+Robert Kahn 1 minute 11 seconds
+are not there.
+Marco Rossi
+1:161:16
+MR
+Marco Rossi 1 minute 16 seconds
+Right.
+Ana Duarte
+1:191:19
+AD
+Ana Duarte 1 minute 19 seconds
+Right, so...
+Ana Duarte 1 minute 25 seconds
+We are not there. About two thirds of the gap is closed.
+Robert Kahn
+1:331:33
+RK
+Robert Kahn 1 minute 33 seconds
+kind of like In tonnes?
+Ana Duarte
+1:361:36
+AD
+Ana Duarte 1 minute 36 seconds
+Roughly two hundred and forty tonnes avoided over six months
+Ana Duarte 1 minute 41 seconds
+on the cohort, and about six hundred
+Ana Duarte 1 minute 48 seconds
+tonnes of CO2 equivalent on your own published factors.
+Robert Kahn
+1:571:57
+RK
+Robert Kahn 1 minute 57 seconds
+And if I scale that to the estate?
+Marco Rossi
+2:032:03
+MR
+Marco Rossi 2 minutes 3 seconds
+Mm.
+Ana Duarte
+2:072:07
+AD
+Ana Duarte 2 minutes 7 seconds
+I would
+Ana Duarte 2 minutes 12 seconds
+rather you did not, and I,
+Lena Fischer
+2:192:19
+LF
+Lena Fischer 2 minutes 19 seconds
+Exactly.
+Ana Duarte
+2:202:20
+AD
+Ana Duarte 2 minutes 20 seconds
+have said
+Ana Duarte 2 minutes 25 seconds
+so every time we have reported this. The cohort is twenty-five of three three
+Robert Kahn
+2:362:36
+RK
+Robert Kahn 2 minutes 36 seconds
+Mm-hm.
+Ana Duarte
+2:402:40
+AD
+Ana Duarte 2 minutes 40 seconds
+hundred and forty stores and it is not a
+Ana Duarte 2 minutes 47 seconds
+random twenty-five.
+Sofia Almeida
+2:542:54
+SA
+Sofia Almeida 2 minutes 54 seconds
+Sure.
+Robert Kahn
+2:582:58
+RK
+Robert Kahn 2 minutes 58 seconds
+Then when can I scale it?
+Ana Duarte
+3:023:02
+AD
+Ana Duarte 3 minutes 2 seconds
+Yeah, yeah.
+Ana Duarte
+3:053:05
+AD
+Ana Duarte 3 minutes 5 seconds
+When it is chain wide, which is not scoped yet.
+Sofia Almeida
+3:143:14
+SA
+Sofia Almeida 3 minutes 14 seconds
+Okay.
+Robert Kahn
+3:153:15
+RK
+Robert Kahn 3 minutes 15 seconds
+Right. And the twelve month question,
+Marco Rossi
+3:223:22
+MR
+Marco Rossi 3 minutes 22 seconds
+Mm.
+Robert Kahn
+3:253:25
+RK
+Robert Kahn 3 minutes 25 seconds
+which I have asked since March 2024. Did we get
+Robert Kahn 3 minutes 33 seconds
+return on investment inside twelve months of signature?
+Marco Rossi
+3:373:37
+MR
+Marco Rossi 3 minutes 37 seconds
+Signature was July 2024, so the twelve. Fresh went live in December 2025.
+Robert Kahn
+3:463:46
+RK
+Robert Kahn 3 minutes 46 seconds
+So the answer is no.
+Marco Rossi
+3:513:51
+MR
+Marco Rossi 3 minutes 51 seconds
+On that reading, no.
+Robert Kahn
+3:553:55
+RK
+Robert Kahn 3 minutes 55 seconds
+Is there another reading?
+Ana Duarte
+4:024:02
+AD
+Ana Duarte 4 minutes 2 seconds
+Yeah.
+Marco Rossi
+4:034:03
+MR
+Marco Rossi 4 minutes 3 seconds
+There is a reading where the,
+Marco Rossi 4 minutes 10 seconds
+clock starts at fresh go-live, which puts us in
+Ana Duarte
+4:164:16
+AD
+Ana Duarte 4 minutes 16 seconds
+Mm, okay.
+Marco Rossi
+4:204:20
+MR
+Marco Rossi 4 minutes 20 seconds
+December 2026. I do not think about the...
+Ana Duarte
+4:274:27
+AD
+Ana Duarte 4 minutes 27 seconds
+Mm-hm.
+Marco Rossi
+4:284:28
+MR
+Marco Rossi 4 minutes 28 seconds
+to and I am not going to to argue
+Lena Fischer
+4:354:35
+LF
+Lena Fischer 4 minutes 35 seconds
+Mm.
+Marco Rossi
+4:374:37
+MR
+Marco Rossi 4 minutes 37 seconds
+for it.
+Ana Duarte
+4:414:41
+AD
+Ana Duarte 4 minutes 41 seconds
+Yeah, yeah.
+Robert Kahn
+4:424:42
+RK
+Robert Kahn 4 minutes 42 seconds
+So, i
+Lena Fischer
+4:494:49
+LF
+Lena Fischer 4 minutes 49 seconds
+Yes.
+Robert Kahn
+4:524:52
+RK
+Robert Kahn 4 minutes 52 seconds
+appreciate that. I have been in
+Sofia Almeida
+4:594:59
+SA
+Sofia Almeida 4 minutes 59 seconds
+Okay, yeah.
+Robert Kahn
+5:035:03
+RK
+Robert Kahn 5 minutes 3 seconds
+rooms where
+Robert Kahn 5 minutes 7 seconds
+somebody argued for it.
+Lena Fischer
+5:105:10
+LF
+Lena Fischer 5 minutes 10 seconds
+You're on mute.
+Lena Fischer 5 minutes 14 seconds
+Robert, can I say the part that is not in,
+Lena Fischer 5 minutes 23 seconds
+the numbers.
+Robert Kahn
+5:305:30
+RK
+Robert Kahn 5 minutes 30 seconds
+Got it.
+Robert Kahn
+5:325:32
+RK
+Robert Kahn 5 minutes 32 seconds
+Go on.
+Lena Fischer
+5:355:35
+LF
+Lena Fischer 5 minutes 35 seconds
+My planners trust the system now. In March last year two stores went back to spreadsheets,
+Lena Fischer 5 minutes 45 seconds
+and it took four months to get them off them. Nobody
+Lena Fischer 5 minutes 52 seconds
+is on a spreadsheet now except Sofia, so and Sofia is on one because we,
+Lena Fischer 5 minutes 59 seconds
+never solved her data problem, not because she does not and the...
+Robert Kahn
+6:076:07
+RK
+Robert Kahn 6 minutes 7 seconds
+Mm, okay.
+Sofia Almeida
+6:096:09
+SA
+Sofia Almeida 6 minutes 9 seconds
+That is...
+Ana Duarte
+6:136:13
+AD
+Ana Duarte 6 minutes 13 seconds
+Right.
+Sofia Almeida
+6:176:17
+SA
+Sofia Almeida 6 minutes 17 seconds
+accurate.
+Robert Kahn
+6:216:21
+RK
+Robert Kahn 6 minutes 21 seconds
+kind of like Sofia, yeah how much of your week is manual?
+Sofia Almeida
+6:276:27
+SA
+Sofia Almeida 6 minutes 27 seconds
+But, on the slow
+Lena Fischer
+6:306:30
+LF
+Lena Fischer 6 minutes 30 seconds
+Right.
+Sofia Almeida
+6:346:34
+SA
+Sofia Almeida 6 minutes 34 seconds
+moving fresh lines, about a day and a half.
+Robert Kahn
+6:436:43
+RK
+Robert Kahn 6 minutes 43 seconds
+Out of five.
+Sofia Almeida
+6:466:46
+SA
+Sofia Almeida 6 minutes 46 seconds
+Out of five.
+Lena Fischer
+6:536:53
+LF
+Lena Fischer 6 minutes 53 seconds
+Okay.
+Robert Kahn
+6:576:57
+RK
+Robert Kahn 6 minutes 57 seconds
+know And the reason from the...
+Sofia Almeida
+7:027:02
+SA
+Sofia Almeida 7 minutes 2 seconds
+The reason is a data field that lives in the warehouse
+Sofia Almeida 7 minutes 10 seconds
+Hmm.
+Sofia Almeida 7 minutes 14 seconds
+system, which we first asked about April 2024.
+Marco Rossi
+7:197:19
+MR
+Marco Rossi 7 minutes 19 seconds
+Yeah, yeah.
+Robert Kahn
+7:227:22
+RK
+Robert Kahn 7 minutes 22 seconds
+Priya knows?
+Lena Fischer
+7:287:28
+LF
+Lena Fischer 7 minutes 28 seconds
+Priya has asked. It a different team.
+Robert Kahn
+7:367:36
+RK
+Robert Kahn 7 minutes 36 seconds
+So...
+Robert Kahn 7 minutes 41 seconds
+Then I will ask. Send me when the...
+Lena Fischer
+7:457:45
+LF
+Lena Fischer 7 minutes 45 seconds
+Mm-hm.
+Sofia Almeida
+7:467:46
+SA
+Sofia Almeida 7 minutes 46 seconds
+Thank you.
+Marco Rossi
+7:507:50
+MR
+Marco Rossi 7 minutes 50 seconds
+On next steps there are two conversations. Chain wide
+Marco Rossi 7 minutes 58 seconds
+rollout for the three fresh categories, and bakery, where the...
+Marco Rossi 8 minutes 7 seconds
+in in build with Meridian.
+Robert Kahn
+8:128:12
+RK
+Robert Kahn 8 minutes 12 seconds
+What does chain wide cost?
+Sofia Almeida
+8:168:16
+SA
+Sofia Almeida 8 minutes 16 seconds
+Exactly.
+Marco Rossi
+8:178:17
+MR
+Marco Rossi 8 minutes 17 seconds
+I will come back.
+Robert Kahn
+8:238:23
+RK
+Robert Kahn 8 minutes 23 seconds
+Do that. And put two point eight after the...
+Ana Duarte
+8:308:30
+AD
+Ana Duarte 8 minutes 30 seconds
+Okay.
+Robert Kahn
+8:318:31
+RK
+Robert Kahn 8 minutes 31 seconds
+three point two.
+Marco Rossi
+8:358:35
+MR
+Marco Rossi 8 minutes 35 seconds
+Of course.
+Marco Rossi
+8:368:36
+MR
+Marco Rossi 8 minutes 36 seconds
+Understood.
+Ana Duarte
+8:398:39
+AD
+Ana Duarte 8 minutes 39 seconds
+One item,
+Marco Rossi
+8:468:46
+MR
+Marco Rossi 8 minutes 46 seconds
+Agreed.
+Ana Duarte
+8:488:48
+AD
+Ana Duarte 8 minutes 48 seconds
+So as you can see...
+Ana Duarte 8 minutes 55 seconds
+to close from the last review. Sofia raised a request in November to have a personal,
+Ana Duarte 9 minutes 5 seconds
+detail removed from our documentation. Marco.
+Marco Rossi
+9:099:09
+MR
+Marco Rossi 9 minutes 9 seconds
+Yeah.
+Marco Rossi
+9:129:12
+MR
+Marco Rossi 9 minutes 12 seconds
+Still not fully closed. Three of four locations done. The fourth...
+Ana Duarte
+9:189:18
+AD
+Ana Duarte 9 minutes 18 seconds
+Okay, yeah.
+Marco Rossi
+9:209:20
+MR
+Marco Rossi 9 minutes 20 seconds
+is a document version.
+Sofia Almeida
+9:279:27
+SA
+Sofia Almeida 9 minutes 27 seconds
+If you look at this column.
+Sofia Almeida 9 minutes 33 seconds
+It is
+Ana Duarte
+9:409:40
+AD
+Ana Duarte 9 minutes 40 seconds
+Yes.
+Sofia Almeida
+9:419:41
+SA
+Sofia Almeida 9 minutes 41 seconds
+seven months.
+Marco Rossi
+9:479:47
+MR
+Marco Rossi 9 minutes 47 seconds
+It is seven months and I,
+Marco Rossi 9 minutes 53 seconds
+do not
+Marco Rossi 9 minutes 58 seconds
+Can you hear me?
+Marco Rossi 10 minutes
+have a better answer than that.
+Robert Kahn
+10:0610:06
+RK
+Robert Kahn 10 minutes 6 seconds
+Sure.
+Robert Kahn
+10:0910:09
+RK
+Robert Kahn 10 minutes 9 seconds
+Katarina knows?
+Marco Rossi
+10:1410:14
+MR
+Marco Rossi 10 minutes 14 seconds
+Yeah.
+Marco Rossi
+10:1610:16
+MR
+Marco Rossi 10 minutes 16 seconds
+Katarina has it as an open action.
+Sofia Almeida
+10:2110:21
+SA
+Sofia Almeida 10 minutes 21 seconds
+Yeah.
+Robert Kahn
+10:2410:24
+RK
+Robert Kahn 10 minutes 24 seconds
+Then close it.
+Sofia Almeida
+10:3010:30
+SA
+Sofia Almeida 10 minutes 30 seconds
+Yes.
+Nadia Haddad
+10:3410:34
+NH
+Nadia Haddad 10 minutes 34 seconds
+Before we close. Sofia asked me something in April and I have only just done it.
+Nadia Haddad 10 minutes 41 seconds
+I put the extract totals next to the till numbers for January to March.
+Lena Fischer
+10:4810:48
+LF
+Lena Fischer 10 minutes 48 seconds
+And?
+Nadia Haddad
+10:5110:51
+NH
+Nadia Haddad 10 minutes 51 seconds
+They do not reconcile. The extract is lower.
+Robert Kahn
+10:5710:57
+RK
+Robert Kahn 10 minutes 57 seconds
+Lower by how much?
+Nadia Haddad
+11:0211:02
+NH
+Nadia Haddad 11 minutes 2 seconds
+I am not going to give you a number in this meeting because I have had it for
+Nadia Haddad 11 minutes 8 seconds
+two days and I do not trust it yet. It is not a rounding difference.
+Ana Duarte
+11:1611:16
+AD
+Ana Duarte 11 minutes 16 seconds
+The weeklies said the extract completed.
+Nadia Haddad
+11:2111:21
+NH
+Nadia Haddad 11 minutes 21 seconds
+They did. It did.
+Nadia Haddad 11 minutes 24 seconds
+The job ran and the file landed every night. That is what completed means in
+Nadia Haddad 11 minutes 31 seconds
+that line. Nobody has ever checked what was in it.
+Lena Fischer
+11:3911:39
+LF
+Lena Fischer 11 minutes 39 seconds
+So the three point four.
+Nadia Haddad
+11:4211:42
+NH
+Nadia Haddad 11 minutes 42 seconds
+Is derived off those totals, yes.
+Robert Kahn
+11:4711:47
+RK
+Robert Kahn 11 minutes 47 seconds
+I took three point four to the board in April.
+Lena Fischer
+11:5211:52
+LF
+Lena Fischer 11 minutes 52 seconds
+We both did.
+Robert Kahn
+11:5511:55
+RK
+Robert Kahn 11 minutes 55 seconds
+Then I would like to know whether I was wrong, and I would like to know it
+Robert Kahn 12 minutes 1 second
+before the next one, not after.
+Nadia Haddad
+12:0612:06
+NH
+Nadia Haddad 12 minutes 6 seconds
+Understood. I do not have a cause yet.
+Marco Rossi
+12:1112:11
+MR
+Marco Rossi 12 minutes 11 seconds
+We will come back on it.
+Robert Kahn
+12:1412:14
+RK
+Robert Kahn 12 minutes 14 seconds
+When?
+Marco Rossi
+12:1612:16
+MR
+Marco Rossi 12 minutes 16 seconds
+Mm.

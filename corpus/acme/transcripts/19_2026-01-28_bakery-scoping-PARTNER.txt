@@ -1,0 +1,581 @@
+*** SYNTHETIC DATA. This transcript is entirely fictional. Acme Org, Northwind
+*** Retail Group, Meridian Consulting and every person named are invented. Any
+*** resemblance to a real organisation or individual is coincidental. Generated
+*** for the RELEX challenge track, AaltoAI Hackathon 2026.
+
+Meeting: Bakery workstream scoping (partner present)
+Customer: Acme Org (Grocery Retail, EMEA)
+Date: 2026-01-28
+Phase: Implementation
+Attendees: Lena Fischer (Acme), Sofia Almeida (Acme), Marco Rossi (RELEX), Nadia Haddad (RELEX), Ivan Petrov (Meridian Consulting), Ruth Oyelaran (Meridian Consulting)
+
+Marco Rossi
+0:310:31
+MR
+Marco Rossi 31 seconds
+For anyone who has,
+Marco Rossi 34 seconds
+not met them,
+Ivan Petrov
+0:380:38
+IP
+Ivan Petrov 38 seconds
+Yeah.
+Marco Rossi
+0:410:41
+MR
+Marco Rossi 41 seconds
+Ivan and Ruth are from Meridian, who Acme have brought in for the in-store production piece.
+Nadia Haddad
+0:530:53
+NH
+Nadia Haddad 53 seconds
+Got it.
+Lena Fischer
+0:550:55
+LF
+Lena Fischer 55 seconds
+Meridian did our labour scheduling two years
+Nadia Haddad
+1:001:00
+NH
+Nadia Haddad 1 minute
+Yeah.
+Lena Fischer
+1:021:02
+LF
+Lena Fischer 1 minute 2 seconds
+ago so they know the store operation.
+Marco Rossi
+1:061:06
+MR
+Marco Rossi 1 minute 6 seconds
+Mm-hm.
+Ivan Petrov
+1:081:08
+IP
+Ivan Petrov 1 minute 8 seconds
+We know the so the...
+Ruth Oyelaran
+1:151:15
+RO
+Ruth Oyelaran 1 minute 15 seconds
+Yeah.
+Nadia Haddad
+1:171:17
+NH
+Nadia Haddad 1 minute 17 seconds
+You're on mute.
+Nadia Haddad 1 minute 21 seconds
+I mean Good, because we do not.
+Sofia Almeida
+1:271:27
+SA
+Sofia Almeida 1 minute 27 seconds
+Yeah, yeah.
+Marco Rossi
+1:301:30
+MR
+Marco Rossi 1 minute 30 seconds
+So the scope. Bakery came out of the December go-live with the...
+Marco Rossi 1 minute 38 seconds
+percent of it is bake-off, which
+Ivan Petrov
+1:411:41
+IP
+Ivan Petrov 1 minute 41 seconds
+Right.
+Marco Rossi
+1:441:44
+MR
+Marco Rossi 1 minute 44 seconds
+is a production plan rather than,
+Nadia Haddad
+1:511:51
+NH
+Nadia Haddad 1 minute 51 seconds
+Yes.
+Marco Rossi
+1:541:54
+MR
+Marco Rossi 1 minute 54 seconds
+an order.
+Ruth Oyelaran
+1:591:59
+RO
+Ruth Oyelaran 1 minute 59 seconds
+Right.
+Sofia Almeida
+2:002:00
+SA
+Sofia Almeida 2 minutes
+Yeah so, which what I said in the very first meeting, in March last,
+Nadia Haddad
+2:072:07
+NH
+Nadia Haddad 2 minutes 7 seconds
+Yes.
+Sofia Almeida
+2:092:09
+SA
+Sofia Almeida 2 minutes 9 seconds
+year.
+Marco Rossi
+2:132:13
+MR
+Marco Rossi 2 minutes 13 seconds
+so You did.
+Lena Fischer
+2:172:17
+LF
+Lena Fischer 2 minutes 17 seconds
+Mm-hm.
+Sofia Almeida
+2:202:20
+SA
+Sofia Almeida 2 minutes 20 seconds
+I am
+Sofia Almeida 2 minutes 24 seconds
+going to keep saying it.
+Nadia Haddad
+2:312:31
+NH
+Nadia Haddad 2 minutes 31 seconds
+Yes.
+Ruth Oyelaran
+2:322:32
+RO
+Ruth Oyelaran 2 minutes 32 seconds
+What is the split by store format?
+Marco Rossi
+2:382:38
+MR
+Marco Rossi 2 minutes 38 seconds
+Yeah.
+Sofia Almeida
+2:412:41
+SA
+Sofia Almeida 2 minutes 41 seconds
+It varies. The big stores,
+Sofia Almeida 2 minutes 46 seconds
+bake more.
+Ruth Oyelaran
+2:512:51
+RO
+Ruth Oyelaran 2 minutes 51 seconds
+Do you have it by
+Ruth Oyelaran 2 minutes 54 seconds
+format?
+Sofia Almeida
+2:572:57
+SA
+Sofia Almeida 2 minutes 57 seconds
+I have it in a spreadsheet.
+Ruth Oyelaran
+3:033:03
+RO
+Ruth Oyelaran 3 minutes 3 seconds
+Of course you do.
+Marco Rossi
+3:073:07
+MR
+Marco Rossi 3 minutes 7 seconds
+Hmm.
+Marco Rossi 3 minutes 11 seconds
+Nadia, can you walk so...
+Marco Rossi 3 minutes 18 seconds
+interface points?
+Lena Fischer
+3:243:24
+LF
+Lena Fischer 3 minutes 24 seconds
+Sure.
+Nadia Haddad
+3:263:26
+NH
+Nadia Haddad 3 minutes 26 seconds
+Okay so.
+Nadia Haddad 3 minutes 32 seconds
+Yes. So the production plan needs a demand signal from us, and then whatever
+Nadia Haddad 3 minutes 40 seconds
+Meridian builds consumes it. The question...
+Marco Rossi
+3:453:45
+MR
+Marco Rossi 3 minutes 45 seconds
+Mm.
+Nadia Haddad
+3:493:49
+NH
+Nadia Haddad 3 minutes 49 seconds
+is where the boundary
+Sofia Almeida
+3:563:56
+SA
+Sofia Almeida 3 minutes 56 seconds
+Right.
+Nadia Haddad
+3:583:58
+NH
+Nadia Haddad 3 minutes 58 seconds
+sits.
+Ivan Petrov
+4:054:05
+IP
+Ivan Petrov 4 minutes 5 seconds
+We would prefer to consume a forecast and own the plan.
+Nadia Haddad
+4:104:10
+NH
+Nadia Haddad 4 minutes 10 seconds
+That works for us.
+Lena Fischer
+4:144:14
+LF
+Lena Fischer 4 minutes 14 seconds
+Yes.
+Marco Rossi
+4:184:18
+MR
+Marco Rossi 4 minutes 18 seconds
+On timelines,
+Nadia Haddad
+4:234:23
+NH
+Nadia Haddad 4 minutes 23 seconds
+Sure.
+Marco Rossi
+4:244:24
+MR
+Marco Rossi 4 minutes 24 seconds
+we have capacity from March. Before that Nadia is on another account until —
+Nadia Haddad
+4:344:34
+NH
+Nadia Haddad 4 minutes 34 seconds
+I mean, marco.
+Ivan Petrov
+4:374:37
+IP
+Ivan Petrov 4 minutes 37 seconds
+Okay, yeah.
+Marco Rossi
+4:384:38
+MR
+Marco Rossi 4 minutes 38 seconds
+so Sorry, yes. We have capacity from March.
+Ivan Petrov
+4:444:44
+IP
+Ivan Petrov 4 minutes 44 seconds
+Yes.
+Lena Fischer
+4:454:45
+LF
+Lena Fischer 4 minutes 45 seconds
+But, is there a problem?
+Sofia Almeida
+4:504:50
+SA
+Sofia Almeida 4 minutes 50 seconds
+Yeah.
+Marco Rossi
+4:514:51
+MR
+Marco Rossi 4 minutes 51 seconds
+No. I was about to say something about another customer's schedule and I should not, with
+Marco Rossi 5 minutes 3 seconds
+Meridian in the room. Nothing sinister, it is just not mine to share.
+Ivan Petrov
+5:095:09
+IP
+Ivan Petrov 5 minutes 9 seconds
+I mean, i mean We are used to it.
+Lena Fischer
+5:185:18
+LF
+Lena Fischer 5 minutes 18 seconds
+Fine.
+Ruth Oyelaran
+5:255:25
+RO
+Ruth Oyelaran 5 minutes 25 seconds
+So...
+Ruth Oyelaran 5 minutes 30 seconds
+Can I ask
+Sofia Almeida
+5:365:36
+SA
+Sofia Almeida 5 minutes 36 seconds
+Yeah.
+Ruth Oyelaran
+5:395:39
+RO
+Ruth Oyelaran 5 minutes 39 seconds
+what happened with the December go live? We were told it went well but not much beyond that.
+Lena Fischer
+5:525:52
+LF
+Lena Fischer 5 minutes 52 seconds
+Yeah.
+Marco Rossi
+5:535:53
+MR
+Marco Rossi 5 minutes 53 seconds
+It went
+Lena Fischer
+5:585:58
+LF
+Lena Fischer 5 minutes 58 seconds
+Yeah.
+Marco Rossi
+5:595:59
+MR
+Marco Rossi 5 minutes 59 seconds
+well.
+Nadia Haddad
+6:046:04
+NH
+Nadia Haddad 6 minutes 4 seconds
+Exactly.
+Lena Fischer
+6:056:05
+LF
+Lena Fischer 6 minutes 5 seconds
+It went well and I will give you the honest
+Lena Fischer 6 minutes 10 seconds
+version because you need
+Sofia Almeida
+6:176:17
+SA
+Sofia Almeida 6 minutes 17 seconds
+Sure.
+Lena Fischer
+6:206:20
+LF
+Lena Fischer 6 minutes 20 seconds
+it to plan. Produce and,
+Marco Rossi
+6:246:24
+MR
+Marco Rossi 6 minutes 24 seconds
+Right.
+Lena Fischer
+6:266:26
+LF
+Lena Fischer 6 minutes 26 seconds
+dairy are working. The DC-2 feed still fails, less often than it did, and when
+Sofia Almeida
+6:376:37
+SA
+Sofia Almeida 6 minutes 37 seconds
+Mm.
+Lena Fischer
+6:406:40
+LF
+Lena Fischer 6 minutes 40 seconds
+it fails
+Lena Fischer 6 minutes 45 seconds
+my planners
+Lena Fischer 6 minutes 48 seconds
+stop trusting the numbers for a day or two
+Lena Fischer 6 minutes 53 seconds
+afterwards. So if you are building on top of this, build assuming the
+Ivan Petrov
+7:007:00
+IP
+Ivan Petrov 7 minutes
+Yeah.
+Lena Fischer
+7:017:01
+LF
+Lena Fischer 7 minutes 1 second
+feed is imperfect.
+Ruth Oyelaran
+7:057:05
+RO
+Ruth Oyelaran 7 minutes 5 seconds
+Okay.
+Ivan Petrov
+7:067:06
+IP
+Ivan Petrov 7 minutes 6 seconds
+That is useful. Thank you.
+Ruth Oyelaran
+7:117:11
+RO
+Ruth Oyelaran 7 minutes 11 seconds
+How often is less often?
+Lena Fischer
+7:147:14
+LF
+Lena Fischer 7 minutes 14 seconds
+Hmm.
+Lena Fischer 7 minutes 19 seconds
+Priya is not here. Once a fortnight, roughly.
+Ivan Petrov
+7:277:27
+IP
+Ivan Petrov 7 minutes 27 seconds
+Yes.
+Nadia Haddad
+7:287:28
+NH
+Nadia Haddad 7 minutes 28 seconds
+I can can share the incident log.
+Marco Rossi
+7:337:33
+MR
+Marco Rossi 7 minutes 33 seconds
+Right.
+Marco Rossi
+7:367:36
+MR
+Marco Rossi 7 minutes 36 seconds
+Let us check what is in that log before we
+Ruth Oyelaran
+7:437:43
+RO
+Ruth Oyelaran 7 minutes 43 seconds
+Okay, yeah.
+Marco Rossi
+7:447:44
+MR
+Marco Rossi 7 minutes 44 seconds
+share it.
+Sofia Almeida
+7:517:51
+SA
+Sofia Almeida 7 minutes 51 seconds
+Okay.
+Nadia Haddad
+7:527:52
+NH
+Nadia Haddad 7 minutes 52 seconds
+Okay so.
+Nadia Haddad 7 minutes 55 seconds
+It is just failure counts.
+Ivan Petrov
+7:587:58
+IP
+Ivan Petrov 7 minutes 58 seconds
+Yeah.
+Marco Rossi
+7:597:59
+MR
+Marco Rossi 7 minutes 59 seconds
+I mean It is a thread, threads have things them that were not so...
+Nadia Haddad
+8:098:09
+NH
+Nadia Haddad 8 minutes 9 seconds
+Of course.
+Marco Rossi
+8:138:13
+MR
+Marco Rossi 8 minutes 13 seconds
+to read.
+Nadia Haddad
+8:188:18
+NH
+Nadia Haddad 8 minutes 18 seconds
+Why?
+Marco Rossi
+8:248:24
+MR
+Marco Rossi 8 minutes 24 seconds
+Because it
+Marco Rossi 8 minutes 28 seconds
+may have things it that are between us and I mean...
+Lena Fischer
+8:338:33
+LF
+Lena Fischer 8 minutes 33 seconds
+Yeah.
+Marco Rossi
+8:378:37
+MR
+Marco Rossi 8 minutes 37 seconds
+Acme's call, basically not mine,
+Marco Rossi 8 minutes 41 seconds
+whether Meridian sees them.
+Lena Fischer
+8:488:48
+LF
+Lena Fischer 8 minutes 48 seconds
+Can you see my screen?
+Lena Fischer 8 minutes 54 seconds
+Send it to and...
+Marco Rossi
+9:019:01
+MR
+Marco Rossi 9 minutes 1 second
+That is the right way round.
+Lena Fischer
+9:049:04
+LF
+Lena Fischer 9 minutes 4 seconds
+Yes.
+Ruth Oyelaran
+9:069:06
+RO
+Ruth Oyelaran 9 minutes 6 seconds
+Sensible.
+Lena Fischer
+9:119:11
+LF
+Lena Fischer 9 minutes 11 seconds
+Right.
+Marco Rossi
+9:159:15
+MR
+Marco Rossi 9 minutes 15 seconds
+Actions then. Meridian to consume a forecast and own the
+Marco Rossi 9 minutes 20 seconds
+production plan. Sofia to send the bake-off split by
+Ruth Oyelaran
+9:259:25
+RO
+Ruth Oyelaran 9 minutes 25 seconds
+Agreed.
+Marco Rossi
+9:269:26
+MR
+Marco Rossi 9 minutes 26 seconds
+store format. Nadia to define interface points
+Ivan Petrov
+9:339:33
+IP
+Ivan Petrov 9 minutes 33 seconds
+Yeah, yeah.
+Marco Rossi
+9:369:36
+MR
+Marco Rossi 9 minutes 36 seconds
+by mid-February. Incident log to
+Nadia Haddad
+9:419:41
+NH
+Nadia Haddad 9 minutes 41 seconds
+Yeah.
+Marco Rossi
+9:429:42
+MR
+Marco Rossi 9 minutes 42 seconds
+Lena for onward sharing at
+Marco Rossi 9 minutes 48 seconds
+her discretion. And we start in
+Marco Rossi 9 minutes 55 seconds
+March.
+Ivan Petrov
+10:0110:01
+IP
+Ivan Petrov 10 minutes 1 second
+Sorry, go ahead.
+Ivan Petrov 10 minutes 6 seconds
+Agreed.
+Lena Fischer
+10:0910:09
+LF
+Lena Fischer 10 minutes 9 seconds
+Sure.

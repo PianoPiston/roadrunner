@@ -1,0 +1,140 @@
+*** SYNTHETIC DATA. Entirely fictional. Acme Org, Meridian Consulting and every
+*** person named are invented. Generated for the RELEX challenge track,
+*** AaltoAI Hackathon 2026.
+
+Subject: DC-2 incident log
+From: Ivan Petrov <i.petrov@meridian-consulting.example>
+Date: Tuesday, February 10, 2026 14:08
+To: Ana Duarte <ana.duarte@relexsolutions.example>
+Cc: Ruth Oyelaran <r.oyelaran@meridian-consulting.example>
+Messages in thread: 6
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+Hi Ana,
+
+Received, thank you. We will build assuming roughly fortnightly failures.
+
+For what it is worth I would ignore the comment about the scheduled job. That kind of
+thing is in every project and it is not our business to have read it.
+
+Kind regards
+
+Kind regards,
+
+Ivan Petrov
+Principal Consultant, Meridian Consulting
+[Image removed by sender]
++44 7700 900 942
+meridian-consulting.example
+Ivan Petrov | LinkedIn
+[Image removed by sender]
+
+
+From: Ana Duarte <ana.duarte@relexsolutions.example>
+Sent: Tuesday, February 10, 2026 12:31 PM
+To: Marco Rossi <marco.rossi@relexsolutions.example>
+Subject: Re: DC-2 incident log
+
+The whole chain. Why - oh.
+
+Best regards,
+Ana Duarte
+Project Manager [Image removed by sender]
++351 913 882 145 | UTC +01:00
+ana.duarte@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+[Image removed by sender]
+[Image removed by sender]
+Plan better. Sell more. Waste less
+relexsolutions.example [Image removed by sender]
+LinkedInYouTube
+
+
+From: Marco Rossi <marco.rossi@relexsolutions.example>
+Sent: Tuesday, February 10, 2026 12:14 PM
+To: Ana Duarte <ana.duarte@relexsolutions.example>
+Subject: Re: DC-2 incident log
+
+Ana - did you forward the whole chain or just the attachment?
+
+We agreed on the 28th that this went to Lena and she decided what Meridian saw.
+
+Marco Rossi
+Account Executive [Image removed by sender]
++351 912 447 026 | CET/CEST
+marco.rossi@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+[Image removed by sender]
+[Image removed by sender]
+Plan better. Sell more. Waste less
+relexsolutions.example [Image removed by sender]
+LinkedInYouTube
+[Image removed by sender]
+
+
+From: Ana Duarte <ana.duarte@relexsolutions.example>
+Sent: Tuesday, February 10, 2026 11:50 AM
+To: Ivan Petrov <i.petrov@meridian-consulting.example>; Ruth Oyelaran <r.oyelaran@meridian-consulting.example>
+Cc: Nadia Haddad <n.haddad@relexsolutions.example>; Kwame Boateng <k.boateng@relexsolutions.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Subject: FW: DC-2 incident log
+
+Hi Ivan, Ruth,
+
+As promised at the scoping session, the DC-2 incident log so you can plan around the
+feed reliability.
+
+Ana
+
+Best regards,
+Ana Duarte
+Project Manager [Image removed by sender]
++351 913 882 145 | UTC +01:00
+ana.duarte@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+[Image removed by sender]
+[Image removed by sender]
+Plan better. Sell more. Waste less
+relexsolutions.example [Image removed by sender]
+LinkedInYouTube
+
+
+From: Nadia Haddad <n.haddad@relexsolutions.example>
+Sent: Wednesday, February 4, 2026 9:15 AM
+To: Kwame Boateng <k.boateng@relexsolutions.example>
+Cc: Tomas Lindholm <tomas.lindholm@relexsolutions.example>; Ana Duarte <ana.duarte@relexsolutions.example>
+Subject: Re: DC-2 incident log
+
+Agreed, do not put it like that. Let us ask her whether anything changed in the January
+maintenance window and let her find it herself.
+
+Nadia Haddad
+Solution Consultant [Image removed by sender]
++46 76 552 30 18 | CET
+n.haddad@relexsolutions.example
+Vasagatan 7, 111 20 Stockholm
+[Image removed by sender]
+Plan better. Sell more. Waste less
+relexsolutions.example
+
+
+From: Kwame Boateng <k.boateng@relexsolutions.example>
+Sent: Tuesday, February 3, 2026 16:20
+To: Nadia Haddad <n.haddad@relexsolutions.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Subject: DC-2 incident log
+
+Attaching the DC-2 incident log for January. Fourteen failures, eleven silent.
+
+Worth noting for internal purposes that four of them correlate with a scheduled job on
+Acme's side that Priya has said twice does not exist. Either she is wrong or something
+is running that she does not know about. I would not raise it that way with her.
+
+Kwame Boateng
+Technical Consultant [Image removed by sender]
++44 7700 900 318
+k.boateng@relexsolutions.example
+[Image removed by sender]
+relexsolutions.example

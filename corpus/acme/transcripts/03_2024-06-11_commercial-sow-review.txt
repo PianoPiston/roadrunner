@@ -1,0 +1,485 @@
+*** SYNTHETIC DATA. This transcript is entirely fictional. Acme Org, Meridian
+*** Consulting and every person named are invented. Any resemblance to a real
+*** organisation or individual is coincidental. Generated for the RELEX challenge
+*** track, AaltoAI Hackathon 2026.
+
+Meeting: Commercial and SOW review
+Customer: Acme Org (Grocery Retail, EMEA)
+Date: 2024-06-11
+Phase: Pre-Sales
+Attendees: Marco Rossi (RELEX), Henrik Sørensen (RELEX), Lena Fischer (Acme), Robert Kahn (Acme CFO)
+
+Marco Rossi
+0:120:12
+MR
+Marco Rossi 12 seconds
+Robert, Lena, this is Henrik, our account director. He is here because we are talking about money.
+Lena Fischer
+0:240:24
+LF
+Lena Fischer 24 seconds
+Yeah.
+Unknown Speaker
+0:250:25
+US
+Unknown Speaker 25 seconds
+You're on mute.
+Robert Kahn
+0:280:28
+RK
+Robert Kahn 28 seconds
+Then let us talk about money.
+Marco Rossi
+0:350:35
+MR
+Marco Rossi 35 seconds
+The proposal is if you...
+Robert Kahn
+0:410:41
+RK
+Robert Kahn 41 seconds
+Off what list price?
+Marco Rossi
+0:480:48
+MR
+Marco Rossi 48 seconds
+Mm-hm.
+Marco Rossi
+0:510:51
+MR
+Marco Rossi 51 seconds
+Fourteen percent below list.
+Robert Kahn
+0:560:56
+RK
+Robert Kahn 56 seconds
+And your floor?
+Henrik Sørensen
+1:001:00
+HS
+Henrik Sørensen 1 minute
+It's somewhere here.
+Henrik Sørensen 1 minute 11 seconds
+I am not going to tell our floor.
+Robert Kahn
+1:151:15
+RK
+Robert Kahn 1 minute 15 seconds
+Agreed.
+Robert Kahn
+1:181:18
+RK
+Robert Kahn 1 minute 18 seconds
+You just told me there is one.
+Lena Fischer
+1:221:22
+LF
+Lena Fischer 1 minute 22 seconds
+Yeah.
+Henrik Sørensen
+1:261:26
+HS
+Henrik Sørensen 1 minute 26 seconds
+Okay so.
+Henrik Sørensen 1 minute 28 seconds
+Everyone has one.
+Lena Fischer
+1:341:34
+LF
+Lena Fischer 1 minute 34 seconds
+Yeah.
+Robert Kahn
+1:371:37
+RK
+Robert Kahn 1 minute 37 seconds
+Okay so.
+Robert Kahn 1 minute 43 seconds
+I mean Fine. Nine eighty. What am I buying, in one
+Lena Fischer
+1:521:52
+LF
+Lena Fischer 1 minute 52 seconds
+True.
+Robert Kahn
+1:531:53
+RK
+Robert Kahn 1 minute 53 seconds
+sentence?
+Marco Rossi
+1:581:58
+MR
+Marco Rossi 1 minute 58 seconds
+Forecasting and replenishment
+Marco Rossi 2 minutes 3 seconds
+Where was I.
+Marco Rossi 2 minutes 6 seconds
+for embient and fresh, phased.
+Robert Kahn
+2:112:11
+RK
+Robert Kahn 2 minutes 11 seconds
+And when
+Marco Rossi
+2:162:16
+MR
+Marco Rossi 2 minutes 16 seconds
+Yeah.
+Robert Kahn
+2:182:18
+RK
+Robert Kahn 2 minutes 18 seconds
+do I...
+Robert Kahn 2 minutes 24 seconds
+get the money back?
+Marco Rossi
+2:302:30
+MR
+Marco Rossi 2 minutes 30 seconds
+Payback depends on the waste
+Marco Rossi 2 minutes 37 seconds
+It's this one here.
+Marco Rossi 2 minutes 47 seconds
+reduction, which which depends on fresh.
+Henrik Sørensen
+2:542:54
+HS
+Henrik Sørensen 2 minutes 54 seconds
+Okay, yeah.
+Robert Kahn
+2:572:57
+RK
+Robert Kahn 2 minutes 57 seconds
+Then I want that in the contract.
+Lena Fischer
+3:013:01
+LF
+Lena Fischer 3 minutes 1 second
+Robert.
+Robert Kahn
+3:083:08
+RK
+Robert Kahn 3 minutes 8 seconds
+Yes.
+Robert Kahn
+3:093:09
+RK
+Robert Kahn 3 minutes 9 seconds
+so I am serious. Not a so...
+Robert Kahn 3 minutes 15 seconds
+not asking for that. But I want it written down that the value...
+Robert Kahn 3 minutes 21 seconds
+case is fresh waste reduction and that the expectation is return on investment inside
+Marco Rossi
+3:303:30
+MR
+Marco Rossi 3 minutes 30 seconds
+Mm.
+Robert Kahn
+3:343:34
+RK
+Robert Kahn 3 minutes 34 seconds
+twelve months of signature. So that in fourteen months nobody can tell me the project was
+Robert Kahn 3 minutes 45 seconds
+a success
+Robert Kahn 3 minutes 48 seconds
+because ambient inventory improved.
+Henrik Sørensen
+3:513:51
+HS
+Henrik Sørensen 3 minutes 51 seconds
+Yeah, yeah.
+Marco Rossi
+3:553:55
+MR
+Marco Rossi 3 minutes 55 seconds
+We can put the value case in the statement of work.
+Unknown Speaker
+4:014:01
+US
+Unknown Speaker 4 minutes 1 second
+Write it in the way I just yeah...
+Marco Rossi
+4:074:07
+MR
+Marco Rossi 4 minutes 7 seconds
+Okay, yeah.
+Henrik Sørensen
+4:084:08
+HS
+Henrik Sørensen 4 minutes 8 seconds
+We can write the value case and the expectation. We cannot write a guarantee,
+Robert Kahn
+4:184:18
+RK
+Robert Kahn 4 minutes 18 seconds
+Right.
+Henrik Sørensen
+4:194:19
+HS
+Henrik Sørensen 4 minutes 19 seconds
+because the delivery depends partly on your data,
+Lena Fischer
+4:274:27
+LF
+Lena Fischer 4 minutes 27 seconds
+Exactly.
+Henrik Sørensen
+4:284:28
+HS
+Henrik Sørensen 4 minutes 28 seconds
+and your people.
+Robert Kahn
+4:324:32
+RK
+Robert Kahn 4 minutes 32 seconds
+I understand the difference. but...
+Marco Rossi
+4:364:36
+MR
+Marco Rossi 4 minutes 36 seconds
+Agreed.
+Robert Kahn
+4:394:39
+RK
+Robert Kahn 4 minutes 39 seconds
+Second thing. I do not want to find out in month eleven. What is the reporting?
+Marco Rossi
+4:494:49
+MR
+Marco Rossi 4 minutes 49 seconds
+Monthly steering, and we normally propose.
+Henrik Sorensen
+4:544:54
+HS
+Henrik Sorensen 4 minutes 54 seconds
+Okay.
+Robert Kahn
+4:564:56
+RK
+Robert Kahn 4 minutes 56 seconds
+Put the quarterly review in the SOW.
+Robert Kahn 5 minutes 1 second
+Let me just...
+Robert Kahn 5 minutes 6 seconds
+Not as a nice idea, basically as an obligation.
+Marco Rossi
+5:135:13
+MR
+Marco Rossi 5 minutes 13 seconds
+We will
+Lena Fischer
+5:175:17
+LF
+Lena Fischer 5 minutes 17 seconds
+Right.
+Marco Rossi
+5:195:19
+MR
+Marco Rossi 5 minutes 19 seconds
+put it in.
+Robert Kahn
+5:255:25
+RK
+Robert Kahn 5 minutes 25 seconds
+Yeah.
+Robert Kahn
+5:275:27
+RK
+Robert Kahn 5 minutes 27 seconds
+And I do not need to be at all of them. I will come to the ones that matter.
+Lena Fischer
+5:385:38
+LF
+Lena Fischer 5 minutes 38 seconds
+You will come to all of them and complain.
+Unknown Speaker
+5:465:46
+US
+Unknown Speaker 5 minutes 46 seconds
+Yeah.
+Robert Kahn
+5:475:47
+RK
+Robert Kahn 5 minutes 47 seconds
+You're on mute.
+Robert Kahn 5 minutes 52 seconds
+Probably.
+Henrik Sørensen
+5:565:56
+HS
+Henrik Sørensen 5 minutes 56 seconds
+On the twelve month point, can I ask something? Is that a board commitment or your own?
+Robert Kahn
+6:086:08
+RK
+Robert Kahn 6 minutes 8 seconds
+Both now. There was a story in the
+Robert Kahn 6 minutes 16 seconds
+press in December about food waste and we came out badly. That is why
+Robert Kahn 6 minutes 26 seconds
+this project has a budget. So the board asks me about waste every meeting and I
+Henrik Sørensen
+6:366:36
+HS
+Henrik Sørensen 6 minutes 36 seconds
+Yeah.
+Robert Kahn
+6:376:37
+RK
+Robert Kahn 6 minutes 37 seconds
+would like to have an answer.
+Henrik Sørensen
+6:436:43
+HS
+Henrik Sørensen 6 minutes 43 seconds
+Thank you, that is is useful for us
+Robert Kahn
+6:506:50
+RK
+Robert Kahn 6 minutes 50 seconds
+Okay.
+Henrik Sørensen
+6:526:52
+HS
+Henrik Sørensen 6 minutes 52 seconds
+to know.
+Robert Kahn
+6:596:59
+RK
+Robert Kahn 6 minutes 59 seconds
+It is not a secret. It was in the
+Henrik Sørensen
+7:067:06
+HS
+Henrik Sørensen 7 minutes 6 seconds
+Mm.
+Robert Kahn
+7:087:08
+RK
+Robert Kahn 7 minutes 8 seconds
+newspaper.
+Marco Rossi
+7:127:12
+MR
+Marco Rossi 7 minutes 12 seconds
+On timing, we would look at a kickoff in July and a
+Marco Rossi 7 minutes 21 seconds
+first go live in Q1 next year.
+Robert Kahn
+7:257:25
+RK
+Robert Kahn 7 minutes 25 seconds
+Q1 next,
+Robert Kahn 7 minutes 29 seconds
+year for what.
+Marco Rossi
+7:357:35
+MR
+Marco Rossi 7 minutes 35 seconds
+Yeah.
+Marco Rossi
+7:367:36
+MR
+Marco Rossi 7 minutes 36 seconds
+Core replenishment. Ambient, dry goods, one distribution distribution
+Marco Rossi 7 minutes 44 seconds
+centre and a pilot store group.
+Robert Kahn
+7:507:50
+RK
+Robert Kahn 7 minutes 50 seconds
+That is not fresh.
+Marco Rossi
+7:537:53
+MR
+Marco Rossi 7 minutes 53 seconds
+No.
+Robert Kahn
+7:587:58
+RK
+Robert Kahn 7 minutes 58 seconds
+Yeah.
+Robert Kahn
+8:018:01
+RK
+Robert Kahn 8 minutes 1 second
+So the thing I am buying arrives when?
+Henrik Sørensen
+8:098:09
+HS
+Henrik Sørensen 8 minutes 9 seconds
+Yeah, yeah.
+Marco Rossi
+8:138:13
+MR
+Marco Rossi 8 minutes 13 seconds
+Fresh follows as phase two.
+Robert Kahn
+8:208:20
+RK
+Robert Kahn 8 minutes 20 seconds
+Right.
+Robert Kahn
+8:218:21
+RK
+Robert Kahn 8 minutes 21 seconds
+Then phase two is inside my twelve
+Robert Kahn 8 minutes 29 seconds
+months.
+Marco Rossi
+8:328:32
+MR
+Marco Rossi 8 minutes 32 seconds
+Yes.
+Marco Rossi
+8:358:35
+MR
+Marco Rossi 8 minutes 35 seconds
+That is the tightest yeah...
+Robert Kahn
+8:388:38
+RK
+Robert Kahn 8 minutes 38 seconds
+It is the only reading of it.
+Henrik Sørensen
+8:438:43
+HS
+Henrik Sørensen 8 minutes 43 seconds
+Yeah.
+Lena Fischer
+8:448:44
+LF
+Lena Fischer 8 minutes 44 seconds
+Can we get through the rest of the document.
+Marco Rossi
+8:498:49
+MR
+Marco Rossi 8 minutes 49 seconds
+Okay.
+Henrik Sørensen
+8:518:51
+HS
+Henrik Sørensen 8 minutes 51 seconds
+Yes. Let us do the commercial schedule and leave so...
+Henrik Sorensen
+8:598:59
+HS
+Henrik Sorensen 8 minutes 59 seconds
+case wording to Marco and that is the...
+Unknown Speaker
+9:069:06
+US
+Unknown Speaker 9 minutes 6 seconds
+My legal team will change it.
+Marco Rossi
+9:129:12
+MR
+Marco Rossi 9 minutes 12 seconds
+basically They usually
+Marco Rossi 9 minutes 17 seconds
+do.
+Robert Kahn
+9:249:24
+RK
+Robert Kahn 9 minutes 24 seconds
+Mm, okay.

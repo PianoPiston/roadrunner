@@ -1,0 +1,669 @@
+*** SYNTHETIC DATA. This transcript is entirely fictional. Acme Org, Northwind
+*** Retail Group, Meridian Consulting and every person named are invented. Any
+*** resemblance to a real organisation or individual is coincidental. Generated
+*** for the RELEX challenge track, AaltoAI Hackathon 2026.
+
+Meeting: Fresh-food Phase 2 escalation call
+Customer: Acme Org (Grocery Retail, EMEA)
+Date: 2025-09-12
+Phase: Live-Services
+Attendees: Lena Fischer (Acme), Sofia Almeida (Acme), Priya Nair (Acme), Marco Rossi (RELEX)
+
+Marco Rossi
+0:180:18
+MR
+Marco Rossi 18 seconds
+And, i asked for this call because I would rather escalate early than explain later. Fresh-food Phase 2 is...
+Marco Rossi 27 seconds
+about six weeks behind.
+Lena Fischer
+0:310:31
+LF
+Lena Fischer 31 seconds
+Before you start, is shelf-life on
+Sofia Almeida
+0:360:36
+SA
+Sofia Almeida 36 seconds
+Mm.
+Lena Fischer
+0:370:37
+LF
+Lena Fischer 37 seconds
+this agenda? Ana said it would be.
+Marco Rossi
+0:440:44
+MR
+Marco Rossi 44 seconds
+Mm.
+Marco Rossi
+0:470:47
+MR
+Marco Rossi 47 seconds
+It is, we will but...
+Marco Rossi 51 seconds
+it. Ana put it on because email thread had thirteen messages in it and was going nowhere.
+Priya Nair
+1:001:00
+PN
+Priya Nair 1 minute
+Yes.
+Lena Fischer
+1:031:03
+LF
+Lena Fischer 1 minute 3 seconds
+Six.
+Priya Nair
+1:091:09
+PN
+Priya Nair 1 minute 9 seconds
+Right.
+Marco Rossi
+1:101:10
+MR
+Marco Rossi 1 minute 10 seconds
+Six. Two
+Marco Rossi 1 minute 15 seconds
+causes. The first is UAT resourcing on your side, we have not had the
+Lena Fischer
+1:251:25
+LF
+Lena Fischer 1 minute 25 seconds
+Mm, okay.
+Marco Rossi
+1:281:28
+MR
+Marco Rossi 1 minute 28 seconds
+people we planned for. The second is ours, there is a calculation defect in the fresh-food allocation module that produces negative quantities...
+Marco Rossi 1 minute 40 seconds
+in test.
+Priya Nair
+1:471:47
+PN
+Priya Nair 1 minute 47 seconds
+Negative order quantities.
+Marco Rossi
+1:511:51
+MR
+Marco Rossi 1 minute 51 seconds
+Negative quantities,
+Lena Fischer
+1:561:56
+LF
+Lena Fischer 1 minute 56 seconds
+Yeah, yeah.
+Marco Rossi
+1:591:59
+MR
+Marco Rossi 1 minute 59 seconds
+yes. It is a boundary condition, it...
+Lena Fischer
+2:072:07
+LF
+Lena Fischer 2 minutes 7 seconds
+Sure.
+Marco Rossi
+2:082:08
+MR
+Marco Rossi 2 minutes 8 seconds
+is understood, it is not a mystery, but it has to be fixed before UAT means anything.
+Lena Fischer
+2:192:19
+LF
+Lena Fischer 2 minutes 19 seconds
+How long to fix.
+Marco Rossi
+2:232:23
+MR
+Marco Rossi 2 minutes 23 seconds
+Yeah.
+Marco Rossi
+2:262:26
+MR
+Marco Rossi 2 minutes 26 seconds
+Days, not weeks. It is already in development.
+Sofia Almeida
+2:342:34
+SA
+Sofia Almeida 2 minutes 34 seconds
+Got it.
+Lena Fischer
+2:352:35
+LF
+Lena Fischer 2 minutes 35 seconds
+And the UAT resourcing is mine.
+Marco Rossi
+2:392:39
+MR
+Marco Rossi 2 minutes 39 seconds
+It is.
+Lena Fischer
+2:422:42
+LF
+Lena Fischer 2 minutes 42 seconds
+Then I will fix that. Fresh is the top priority, Robert asks me about it every single time I see him, and...
+Lena Fischer 2 minutes 55 seconds
+I am not going to be the reason it slips. I will add capacity.
+Marco Rossi
+3:063:06
+MR
+Marco Rossi 3 minutes 6 seconds
+I mean Thank you.
+Priya Nair
+3:133:13
+PN
+Priya Nair 3 minutes 13 seconds
+Right.
+Sofia Almeida
+3:153:15
+SA
+Sofia Almeida 3 minutes 15 seconds
+Can I say something.
+Lena Fischer
+3:183:18
+LF
+Lena Fischer 3 minutes 18 seconds
+Yes.
+Priya Nair
+3:253:25
+PN
+Priya Nair 3 minutes 25 seconds
+Yeah.
+Sofia Almeida
+3:293:29
+SA
+Sofia Almeida 3 minutes 29 seconds
+right I am still doing it by hand. That
+Sofia Almeida 3 minutes 35 seconds
+is what I want on the record. It
+Sofia Almeida 3 minutes 40 seconds
+is September twenty
+Lena Fischer
+3:443:44
+LF
+Lena Fischer 3 minutes 44 seconds
+Yeah, yeah.
+Sofia Almeida
+3:483:48
+SA
+Sofia Almeida 3 minutes 48 seconds
+twenty-five and I am doing fresh ordering in a spreadsheet exactly the way I was doing it when I first met Marco.
+Marco Rossi
+3:593:59
+MR
+Marco Rossi 3 minutes 59 seconds
+I know.
+Sofia Almeida
+4:054:05
+SA
+Sofia Almeida 4 minutes 5 seconds
+And your
+Marco Rossi
+4:104:10
+MR
+Marco Rossi 4 minutes 10 seconds
+Mm.
+Sofia Almeida
+4:114:11
+SA
+Sofia Almeida 4 minutes 11 seconds
+consultant, the new one, Tomas's colleague, he sent me a questionnaire last into the...
+Marco Rossi
+4:204:20
+MR
+Marco Rossi 4 minutes 20 seconds
+Mm-hm.
+Sofia Almeida
+4:234:23
+SA
+Sofia Almeida 4 minutes 23 seconds
+explain how...
+Marco Rossi
+4:294:29
+MR
+Marco Rossi 4 minutes 29 seconds
+Mm, okay.
+Sofia Almeida
+4:334:33
+SA
+Sofia Almeida 4 minutes 33 seconds
+shelf life works in our categories.
+Marco Rossi
+4:364:36
+MR
+Marco Rossi 4 minutes 36 seconds
+The questionnaire was Nadia's, and it was because the
+Marco Rossi 4 minutes 45 seconds
+field mapping thread
+Marco Rossi 4 minutes 51 seconds
+with Priya never resolved.
+Sofia Almeida
+4:554:55
+SA
+Sofia Almeida 4 minutes 55 seconds
+I am not on that thread.
+Marco Rossi
+4:594:59
+MR
+Marco Rossi 4 minutes 59 seconds
+No, you are not.
+Sofia Almeida
+5:025:02
+SA
+Sofia Almeida 5 minutes 2 seconds
+Yeah, yeah.
+Sofia Almeida
+5:055:05
+SA
+Sofia Almeida 5 minutes 5 seconds
+So there has been a
+Sofia Almeida 5 minutes 12 seconds
+two month email conversation about my categories that I have
+Marco Rossi
+5:175:17
+MR
+Marco Rossi 5 minutes 17 seconds
+Yes.
+Sofia Almeida
+5:195:19
+SA
+Sofia Almeida 5 minutes 19 seconds
+not been included in.
+Marco Rossi
+5:255:25
+MR
+Marco Rossi 5 minutes 25 seconds
+Yes.
+Marco Rossi 5 minutes 28 seconds
+Right.
+Sofia Almeida
+5:335:33
+SA
+Sofia Almeida 5 minutes 33 seconds
+True.
+Sofia Almeida
+5:345:34
+SA
+Sofia Almeida 5 minutes 34 seconds
+But, i answered that question in March last last year. In the demo. It was the main thing I said.
+Sofia Almeida 5 minutes 47 seconds
+I said the shelf-life field is populated for about half the range and
+Sofia Almeida 5 minutes 57 seconds
+wrong for a portion of the
+Sofia Almeida 6 minutes 2 seconds
+rest, and that nothing in the ordering
+Sofia Almeida 6 minutes 6 seconds
+process knows whether something has three days left or three weeks.
+Sofia Almeida 6 minutes 14 seconds
+I remember saying it because it was the
+Sofia Almeida 6 minutes 19 seconds
+only reason I was in the room.
+Marco Rossi
+6:236:23
+MR
+Marco Rossi 6 minutes 23 seconds
+You did say that.
+Lena Fischer
+6:286:28
+LF
+Lena Fischer 6 minutes 28 seconds
+Of course.
+Sofia Almeida
+6:326:32
+SA
+Sofia Almeida 6 minutes 32 seconds
+So why am about the...
+Priya Nair
+6:376:37
+PN
+Priya Nair 6 minutes 37 seconds
+Mm-hm.
+Sofia Almeida
+6:416:41
+SA
+Sofia Almeida 6 minutes 41 seconds
+again eighteen months later.
+Marco Rossi
+6:486:48
+MR
+Marco Rossi 6 minutes 48 seconds
+Because the people who joined this project,
+Sofia Almeida
+6:556:55
+SA
+Sofia Almeida 6 minutes 55 seconds
+Right.
+Marco Rossi
+6:576:57
+MR
+Marco Rossi 6 minutes 57 seconds
+did not have access to I mean...
+Marco Rossi 7 minutes 1 second
+not make sure they did.
+Priya Nair
+7:047:04
+PN
+Priya Nair 7 minutes 4 seconds
+Yeah.
+Sofia Almeida
+7:067:06
+SA
+Sofia Almeida 7 minutes 6 seconds
+Okay so, i filled in the questionnaire anyway. It took me two hours.
+Lena Fischer
+7:167:16
+LF
+Lena Fischer 7 minutes 16 seconds
+basically Sofia.
+Sofia Almeida
+7:237:23
+SA
+Sofia Almeida 7 minutes 23 seconds
+Yeah so, i am not being difficult, I am telling you the actual cost of this. Two hours of mine, and
+Sofia Almeida 7 minutes 37 seconds
+the answer worse than...
+Sofia Almeida 7 minutes 44 seconds
+the one I gave in March because I was rushing.
+Marco Rossi
+7:507:50
+MR
+Marco Rossi 7 minutes 50 seconds
+That is a fair
+Priya Nair
+7:537:53
+PN
+Priya Nair 7 minutes 53 seconds
+Mm.
+Marco Rossi
+7:567:56
+MR
+Marco Rossi 7 minutes 56 seconds
+criticism and I do not have a defence.
+Priya Nair
+8:048:04
+PN
+Priya Nair 8 minutes 4 seconds
+Agreed.
+Priya Nair
+8:068:06
+PN
+Priya Nair 8 minutes 6 seconds
+This has happened on our side too, yeah to be fair. The master
+Priya Nair 8 minutes 16 seconds
+data requirements were re-specified twice.
+Sofia Almeida
+8:218:21
+SA
+Sofia Almeida 8 minutes 21 seconds
+like And the threshold, the one that actually matters, is that anything under —
+Lena Fischer
+8:328:32
+LF
+Lena Fischer 8 minutes 32 seconds
+yeah Sorry, Sofia,
+Lena Fischer 8 minutes 35 seconds
+you have gone very quiet, are you still there?
+Sofia Almeida
+8:418:41
+SA
+Sofia Almeida 8 minutes 41 seconds
+Can you hear me?
+Lena Fischer
+8:458:45
+LF
+Lena Fischer 8 minutes 45 seconds
+Mm.
+Lena Fischer
+8:468:46
+LF
+Lena Fischer 8 minutes 46 seconds
+Now, kind of like yes.
+Marco Rossi
+8:508:50
+MR
+Marco Rossi 8 minutes 50 seconds
+Mm, okay.
+Marco Rossi
+8:538:53
+MR
+Marco Rossi 8 minutes 53 seconds
+Sorry Sofia, we lost about ten seconds.
+Sofia Almeida
+9:009:00
+SA
+Sofia Almeida 9 minutes
+Yeah.
+Sofia Almeida
+9:029:02
+SA
+Sofia Almeida 9 minutes 2 seconds
+It does not matter, it is in,
+Sofia Almeida 9 minutes 10 seconds
+the questionnaire.
+Priya Nair
+9:159:15
+PN
+Priya Nair 9 minutes 15 seconds
+Mm, okay.
+Marco Rossi
+9:199:19
+MR
+Marco Rossi 9 minutes 19 seconds
+I mean
+Priya Nair
+9:249:24
+PN
+Priya Nair 9 minutes 24 seconds
+Mm-hm.
+Marco Rossi
+9:259:25
+MR
+Marco Rossi 9 minutes 25 seconds
+Let me propose a way forward. First, we we fix the defect, and that that
+Marco Rossi 9 minutes 36 seconds
+starts today. Second, I am and the...
+Marco Rossi 9 minutes 42 seconds
+drive fresh-food UAT, at our cost, so the work does not sit waiting on your team having spare capacity.
+Lena Fischer
+9:559:55
+LF
+Lena Fischer 9 minutes 55 seconds
+Sure.
+Lena Fischer
+9:579:57
+LF
+Lena Fischer 9 minutes 57 seconds
+Two weeks is enough?
+Marco Rossi
+10:0310:03
+MR
+Marco Rossi 10 minutes 3 seconds
+Two weeks to get UAT moving
+Marco Rossi 10 minutes 8 seconds
+properly. Third, I want to hold a fresh-food go or no-go decision on,
+Lena Fischer
+10:1610:16
+LF
+Lena Fischer 10 minutes 16 seconds
+Yeah, yeah.
+Marco Rossi
+10:1910:19
+MR
+Marco Rossi 10 minutes 19 seconds
+the fifteenth,
+Sofia Almeida
+10:2510:25
+SA
+Sofia Almeida 10 minutes 25 seconds
+Right.
+Marco Rossi
+10:2910:29
+MR
+Marco Rossi 10 minutes 29 seconds
+of November. Not status update, from the...
+Priya Nair
+10:3610:36
+PN
+Priya Nair 10 minutes 36 seconds
+Okay, yeah.
+Lena Fischer
+10:3710:37
+LF
+Lena Fischer 10 minutes 37 seconds
+November fifteenth.
+Sofia Almeida
+10:4010:40
+SA
+Sofia Almeida 10 minutes 40 seconds
+Yeah, yeah.
+Marco Rossi
+10:4310:43
+MR
+Marco Rossi 10 minutes 43 seconds
+If we are not
+Sofia Almeida
+10:4810:48
+SA
+Sofia Almeida 10 minutes 48 seconds
+Okay.
+Marco Rossi
+10:5110:51
+MR
+Marco Rossi 10 minutes 51 seconds
+One second.
+Marco Rossi 10 minutes 54 seconds
+ready go live by so...
+Priya Nair
+11:0011:00
+PN
+Priya Nair 11 minutes
+Mm.
+Marco Rossi
+11:0311:03
+MR
+Marco Rossi 11 minutes 3 seconds
+say so and we replan honestly
+Marco Rossi 11 minutes 7 seconds
+rather than sliding.
+Lena Fischer
+11:1211:12
+LF
+Lena Fischer 11 minutes 12 seconds
+I would
+Lena Fischer 11 minutes 17 seconds
+prefer that.
+Lena Fischer 11 minutes 22 seconds
+And DC-2?
+Sofia Almeida
+11:2711:27
+SA
+Sofia Almeida 11 minutes 27 seconds
+Yeah.
+Marco Rossi
+11:3111:31
+MR
+Marco Rossi 11 minutes 31 seconds
+The permanent fix is progressing but I am going
+Marco Rossi 11 minutes 38 seconds
+be honest, it is progressing at reduced pace because the same engineers are on the defect.
+Priya Nair
+11:4611:46
+PN
+Priya Nair 11 minutes 46 seconds
+Mm, okay.
+Priya Nair
+11:4811:48
+PN
+Priya Nair 11 minutes 48 seconds
+like So
+Priya Nair 11 minutes 51 seconds
+DC-2 slips again.
+Sofia Almeida
+11:5711:57
+SA
+Sofia Almeida 11 minutes 57 seconds
+Mm-hm.
+Marco Rossi
+11:5811:58
+MR
+Marco Rossi 11 minutes 58 seconds
+DC-2 continues at reduced pace. I am when the...
+Sofia Almeida
+12:0312:03
+SA
+Sofia Almeida 12 minutes 3 seconds
+Okay, yeah.
+Marco Rossi
+12:0712:07
+MR
+Marco Rossi 12 minutes 7 seconds
+to pretend it is going faster than it it is.
+Priya Nair
+12:1412:14
+PN
+Priya Nair 12 minutes 14 seconds
+At least that is a straight answer.
+Sofia Almeida
+12:1912:19
+SA
+Sofia Almeida 12 minutes 19 seconds
+Exactly.
+Lena Fischer
+12:2112:21
+LF
+Lena Fischer 12 minutes 21 seconds
+All right. Marco, yeah send me those four things in writing today, because
+Lena Fischer 12 minutes 27 seconds
+I will need to walk Robert through,
+Sofia Almeida
+12:3512:35
+SA
+Sofia Almeida 12 minutes 35 seconds
+Yeah.
+Lena Fischer
+12:3712:37
+LF
+Lena Fischer 12 minutes 37 seconds
+them tomorrow and he will ask for dates.
+Marco Rossi
+12:4212:42
+MR
+Marco Rossi 12 minutes 42 seconds
+Yeah.
+Marco Rossi
+12:4612:46
+MR
+Marco Rossi 12 minutes 46 seconds
+Today.
+Lena Fischer
+12:4912:49
+LF
+Lena Fischer 12 minutes 49 seconds
+Yeah.
+Sofia Almeida
+12:5212:52
+SA
+Sofia Almeida 12 minutes 52 seconds
+And can whoever the consultant is read the,
+Sofia Almeida 12 minutes 56 seconds
+March notes before he talks to me.
+Marco Rossi
+13:0413:04
+MR
+Marco Rossi 13 minutes 4 seconds
+Mm-hm.
+Marco Rossi
+13:0513:05
+MR
+Marco Rossi 13 minutes 5 seconds
+He will read them before he talks to you.
+Sofia Almeida
+13:1013:10
+SA
+Sofia Almeida 13 minutes 10 seconds
+Thank you.
+Marco Rossi
+13:1713:17
+MR
+Marco Rossi 13 minutes 17 seconds
+Yeah.

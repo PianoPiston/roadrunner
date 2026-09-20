@@ -1,0 +1,865 @@
+*** SYNTHETIC DATA. Entirely fictional. Acme Org, Meridian Consulting and every
+*** person named are invented. Generated for the RELEX challenge track,
+*** AaltoAI Hackathon 2026.
+
+Subject: Weekly Acme update
+From: Ana Duarte <ana.duarte@relexsolutions.example>
+Date: Monday, April 6, 2026 17:30
+To: Lena Fischer <lena.fischer@acme-org.example>; Priya Nair <priya.nair@acme-org.example>
+Cc: Marco Rossi <marco.rossi@relexsolutions.example>; Nadia Haddad <n.haddad@relexsolutions.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Messages in thread: 18
+
+Hi All,
+
+Hereby the weekly update.
+
+Update 06-04-2026 (Week 15)
+🟢 On Track
+
+Q1 fresh waste 3.4% against a 4.1% baseline. Detail in a separate note.
+
+Timeline
+On plan.
+
+[Image removed by sender]
+
+Topics worked on last week
+1.                  Q1 results compiled
+
+Topics planned for this week
+1.                Present Q1 results
+1.                Bakery build continues
+
+If there is anything else you'd like to see in these update emails, please don't hesitate to let us know.
+
+Kind regards,
+
+Best regards,
+Ana Duarte
+Project Manager Image
++351 913 882 145 | UTC +01:00
+ana.duarte@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+Image
+Image
+Plan better. Sell more. Waste less
+relexsolutions.example Image
+LinkedInYouTube
+
+
+From: Ana Duarte <ana.duarte@relexsolutions.example>
+Sent: Monday, March 9, 2026 16:35
+To: Lena Fischer <lena.fischer@acme-org.example>; Priya Nair <priya.nair@acme-org.example>
+Cc: Marco Rossi <marco.rossi@relexsolutions.example>; Nadia Haddad <n.haddad@relexsolutions.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Subject: Re: Weekly Acme update
+
+Hi All,
+
+Hereby the weekly update.
+
+Update 09-03-2026 (Week 11)
+🟢 On Track
+
+Timeline
+Bakery workstream started.
+
+[Image removed by sender]
+
+Topics worked on last week
+1.                  Bakery interface points agreed
+2.                  Q1 measurement approach drafted
+3.                  Nightly article extract completed, no errors
+
+Topics planned for this week
+1.                Bakery build begins
+2.                Prepare Q1 results
+
+If there is anything else you'd like to see in these update emails, please don't hesitate to let us know.
+
+Kind regards,
+
+Best regards,
+Ana Duarte
+Project Manager Image
++351 913 882 145 | UTC +01:00
+ana.duarte@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+Image
+Image
+Plan better. Sell more. Waste less
+relexsolutions.example Image
+LinkedInYouTube
+
+
+From: Ana Duarte <ana.duarte@relexsolutions.example>
+Sent: Monday, February 9, 2026 17:15
+To: Lena Fischer <lena.fischer@acme-org.example>; Priya Nair <priya.nair@acme-org.example>
+Cc: Marco Rossi <marco.rossi@relexsolutions.example>; Nadia Haddad <n.haddad@relexsolutions.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Subject: Re: Weekly Acme update
+
+Hi All,
+
+Hereby the weekly update.
+
+Update 09-02-2026 (Week 7)
+🟡Slight Delay
+
+Risk
+DC-2 feed failed twice in January. Less often than before go-live but still failing.
+
+Timeline
+Bakery scoping slower than planned.
+
+[Image removed by sender]
+
+Topics worked on last week
+1.                  Meridian onboarded
+2.                  Interface points drafted
+3.                  Nightly article extract completed, no errors
+
+Topics planned for this week
+1.                Finalise bakery interface definition
+
+Potential risk identified 🟡Slight Delay
+1.                  DC-2 feed failed twice in January. Less often than before go-live but still failing.
+
+If there is anything else you'd like to see in these update emails, please don't hesitate to let us know.
+
+Kind regards,
+
+Best regards,
+Ana Duarte
+Project Manager Image
++351 913 882 145 | UTC +01:00
+ana.duarte@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+Image
+Image
+Plan better. Sell more. Waste less
+relexsolutions.example Image
+LinkedInYouTube
+
+
+From: Ana Duarte <ana.duarte@relexsolutions.example>
+Sent: Monday, January 12, 2026 16:50
+To: Lena Fischer <lena.fischer@acme-org.example>; Priya Nair <priya.nair@acme-org.example>
+Cc: Marco Rossi <marco.rossi@relexsolutions.example>; Nadia Haddad <n.haddad@relexsolutions.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Subject: Re: Weekly Acme update
+
+Hi All,
+
+Hereby the weekly update.
+
+Update 12-01-2026 (Week 3)
+🟢 On Track
+
+Timeline
+Four weeks live.
+
+[Image removed by sender]
+
+Topics worked on last week
+1.                  Holiday period passed without incident
+2.                  Nightly article extract completed, no errors
+
+Topics planned for this week
+1.                Bakery workstream scoping with Meridian
+2.                Baseline reporting for Q1
+
+If there is anything else you'd like to see in these update emails, please don't hesitate to let us know.
+
+Kind regards,
+
+Best regards,
+Ana Duarte
+Project Manager Image
++351 913 882 145 | UTC +01:00
+ana.duarte@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+Image
+Image
+Plan better. Sell more. Waste less
+relexsolutions.example Image
+LinkedInYouTube
+
+
+From: Ana Duarte <ana.duarte@relexsolutions.example>
+Sent: Monday, December 22, 2025 15:40
+To: Lena Fischer <lena.fischer@acme-org.example>; Priya Nair <priya.nair@acme-org.example>
+Cc: Marco Rossi <marco.rossi@relexsolutions.example>; Nadia Haddad <n.haddad@relexsolutions.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Subject: Re: Weekly Acme update
+
+Hi All,
+
+Hereby the weekly update.
+
+Update 22-12-2025 (Week 52)
+🟢 On Track
+
+Last update before the break. Next one 12 January.
+
+Timeline
+Live since 15 December. First week clean.
+
+[Image removed by sender]
+
+Topics worked on last week
+1.                  Fresh go-live for produce, dairy and chilled ready meals (Phase 5 - Deployment)
+
+Topics planned for this week
+1.                Monitor over the holiday period
+
+If there is anything else you'd like to see in these update emails, please don't hesitate to let us know.
+
+Kind regards,
+
+Best regards,
+Ana Duarte
+Project Manager Image
++351 913 882 145 | UTC +01:00
+ana.duarte@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+Image
+Image
+Plan better. Sell more. Waste less
+relexsolutions.example Image
+LinkedInYouTube
+
+
+From: Ana Duarte <ana.duarte@relexsolutions.example>
+Sent: Monday, December 8, 2025 17:00
+To: Lena Fischer <lena.fischer@acme-org.example>; Priya Nair <priya.nair@acme-org.example>
+Cc: Marco Rossi <marco.rossi@relexsolutions.example>; Nadia Haddad <n.haddad@relexsolutions.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Subject: Re: Weekly Acme update
+
+Hi All,
+
+Hereby the weekly update.
+
+Update 08-12-2025 (Week 50)
+🟢 On Track
+
+Timeline
+On plan for 15 December.
+
+[Image removed by sender]
+
+Topics worked on last week
+1.                  Cutover checklist walked (Phase 5 - Deployment)
+2.                  Rollback tested (Phase 5 - Deployment)
+
+Topics planned for this week
+1.                Go live 15 December
+2.                First week support
+
+If there is anything else you'd like to see in these update emails, please don't hesitate to let us know.
+
+Kind regards,
+
+Best regards,
+Ana Duarte
+Project Manager Image
++351 913 882 145 | UTC +01:00
+ana.duarte@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+Image
+Image
+Plan better. Sell more. Waste less
+relexsolutions.example Image
+LinkedInYouTube
+
+
+From: Ana Duarte <ana.duarte@relexsolutions.example>
+Sent: Monday, November 24, 2025 16:20
+To: Lena Fischer <lena.fischer@acme-org.example>; Priya Nair <priya.nair@acme-org.example>
+Cc: Marco Rossi <marco.rossi@relexsolutions.example>; Nadia Haddad <n.haddad@relexsolutions.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Subject: Re: Weekly Acme update
+
+Hi All,
+
+Hereby the weekly update.
+
+Update 24-11-2025 (Week 48)
+🟢 On Track
+
+Note that the plan has been reissued on a two delivery basis. Earlier plan documents showing three waves for fresh are superseded and should not be used.
+
+Timeline
+Replanned. Go-live 15 December for three categories.
+
+[Image removed by sender]
+
+Topics worked on last week
+1.                  Go/no-go held. Produce, dairy and chilled approved. Bakery descoped
+2.                  OP_ID field exclusion agreed and confirmed in writing
+
+Topics planned for this week
+1.                Cutover preparation (Phase 5 - Deployment)
+2.                Store communications
+
+If there is anything else you'd like to see in these update emails, please don't hesitate to let us know.
+
+Kind regards,
+
+Best regards,
+Ana Duarte
+Project Manager Image
++351 913 882 145 | UTC +01:00
+ana.duarte@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+Image
+Image
+Plan better. Sell more. Waste less
+relexsolutions.example Image
+LinkedInYouTube
+
+
+From: Ana Duarte <ana.duarte@relexsolutions.example>
+Sent: Monday, November 10, 2025 17:45
+To: Lena Fischer <lena.fischer@acme-org.example>; Priya Nair <priya.nair@acme-org.example>
+Cc: Marco Rossi <marco.rossi@relexsolutions.example>; Nadia Haddad <n.haddad@relexsolutions.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Subject: Re: Weekly Acme update
+
+Hi All,
+
+Hereby the weekly update.
+
+Update 10-11-2025 (Week 46)
+🟡Slight Delay
+
+Risk
+Bakery recommendation is to descope. This changes the Phase 2 shape.
+
+Timeline
+Four weeks behind. Go/no-go next week.
+
+[Image removed by sender]
+
+Topics worked on last week
+1.                  UAT results compiled (Phase 4 - Testing)
+2.                  Recommendation drafted
+
+Topics planned for this week
+1.                Go/no-go call Monday
+
+Potential risk identified 🟡Slight Delay
+1.                  Bakery recommendation is to descope. This changes the Phase 2 shape.
+
+If there is anything else you'd like to see in these update emails, please don't hesitate to let us know.
+
+Kind regards,
+
+Best regards,
+Ana Duarte
+Project Manager Image
++351 913 882 145 | UTC +01:00
+ana.duarte@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+Image
+Image
+Plan better. Sell more. Waste less
+relexsolutions.example Image
+LinkedInYouTube
+
+
+From: Ana Duarte <ana.duarte@relexsolutions.example>
+Sent: Monday, October 27, 2025 16:30
+To: Lena Fischer <lena.fischer@acme-org.example>; Priya Nair <priya.nair@acme-org.example>
+Cc: Marco Rossi <marco.rossi@relexsolutions.example>; Nadia Haddad <n.haddad@relexsolutions.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Subject: Re: Weekly Acme update
+
+Hi All,
+
+Sorry for the delay in the weekly update!
+
+Hereby the weekly update.
+
+Update 27-10-2025 (Week 44)
+🟡Slight Delay
+
+Risk
+Bakery accuracy poor. Likely a scope change rather than a defect.
+
+Timeline
+Four weeks behind. Holding.
+
+[Image removed by sender]
+
+Topics worked on last week
+1.                  UAT nine working days complete (Phase 4 - Testing)
+2.                  Bakery assessed as mostly bake-off
+
+Topics planned for this week
+1.                Prepare go/no-go recommendation
+
+Potential risk identified 🟡Slight Delay
+1.                  Bakery accuracy poor. Likely a scope change rather than a defect.
+
+If there is anything else you'd like to see in these update emails, please don't hesitate to let us know.
+
+Kind regards,
+
+Best regards,
+Ana Duarte
+Project Manager Image
++351 913 882 145 | UTC +01:00
+ana.duarte@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+Image
+Image
+Plan better. Sell more. Waste less
+relexsolutions.example Image
+LinkedInYouTube
+
+
+From: Ana Duarte <ana.duarte@relexsolutions.example>
+Sent: Monday, October 13, 2025 17:08
+To: Lena Fischer <lena.fischer@acme-org.example>; Priya Nair <priya.nair@acme-org.example>
+Cc: Marco Rossi <marco.rossi@relexsolutions.example>; Nadia Haddad <n.haddad@relexsolutions.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Subject: Re: Weekly Acme update
+
+Hi All,
+
+Hereby the weekly update.
+
+Update 13-10-2025 (Week 42)
+🟡Slight Delay
+
+Risk
+Sofia Almeida unavailable from today until mid November. She is our only source of category knowledge on fresh, so UAT findings that need her judgement will queue.
+
+Timeline
+Four weeks behind. Two weeks recovered.
+
+[Image removed by sender]
+
+Topics worked on last week
+1.                  UAT running on produce, dairy and chilled (Phase 4 - Testing)
+
+Topics planned for this week
+1.                Continue UAT (Phase 4 - Testing)
+2.                Bakery assessment
+
+Potential risk identified 🟡Slight Delay
+1.                  Sofia Almeida unavailable from today until mid November. She is our only source of category knowledge on fresh, so UAT findings that need her judgement will queue.
+
+If there is anything else you'd like to see in these update emails, please don't hesitate to let us know.
+
+Kind regards,
+
+Best regards,
+Ana Duarte
+Project Manager Image
++351 913 882 145 | UTC +01:00
+ana.duarte@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+Image
+Image
+Plan better. Sell more. Waste less
+relexsolutions.example Image
+LinkedInYouTube
+
+
+From: Ana Duarte <ana.duarte@relexsolutions.example>
+Sent: Monday, September 29, 2025 16:55
+To: Lena Fischer <lena.fischer@acme-org.example>; Priya Nair <priya.nair@acme-org.example>
+Cc: Marco Rossi <marco.rossi@relexsolutions.example>; Nadia Haddad <n.haddad@relexsolutions.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Subject: Re: Weekly Acme update
+
+Hi All,
+
+Hereby the weekly update.
+
+Update 29-09-2025 (Week 40)
+🔴 Risk
+
+Risk
+Still six weeks behind. Recovery depends on UAT throughput over October.
+
+Timeline
+Recovering. Six weeks behind, holding rather than slipping further.
+
+[Image removed by sender]
+
+Topics worked on last week
+1.                  Defect fixed and verified (Phase 2 - Technical Implementation)
+2.                  Solution consultant onboarded
+
+Topics planned for this week
+1.                UAT on produce and dairy (Phase 4 - Testing)
+2.                Prepare go/no-go for November
+
+Potential risk identified 🔴 Risk
+1.                  Still six weeks behind. Recovery depends on UAT throughput over October.
+
+If there is anything else you'd like to see in these update emails, please don't hesitate to let us know.
+
+Kind regards,
+
+Best regards,
+Ana Duarte
+Project Manager Image
++351 913 882 145 | UTC +01:00
+ana.duarte@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+Image
+Image
+Plan better. Sell more. Waste less
+relexsolutions.example Image
+LinkedInYouTube
+
+
+From: Ana Duarte <ana.duarte@relexsolutions.example>
+Sent: Monday, September 15, 2025 17:22
+To: Lena Fischer <lena.fischer@acme-org.example>; Priya Nair <priya.nair@acme-org.example>
+Cc: Marco Rossi <marco.rossi@relexsolutions.example>; Nadia Haddad <n.haddad@relexsolutions.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Subject: Re: Weekly Acme update
+
+Hi All,
+
+Hereby the weekly update.
+
+Update 15-09-2025 (Week 38)
+🔴 Risk
+
+Risk
+Fresh Phase 2 six weeks behind. Two causes: Acme UAT resourcing, and a calculation defect producing negative quantities in test. Both being addressed.
+
+Timeline
+Six weeks behind on the fresh workstream.
+
+[Image removed by sender]
+
+Topics worked on last week
+1.                  Escalation call held Friday
+2.                  Approximation approach agreed internally (Phase 3 - Business Configuration)
+
+Topics planned for this week
+1.                Fix the negative quantity defect (Phase 2 - Technical Implementation)
+2.                Add a consultant to drive UAT (Phase 4 - Testing). Nadia is confirmed
+
+Potential risk identified 🔴 Risk
+1.                  Fresh Phase 2 six weeks behind. Two causes: Acme UAT resourcing, and a calculation defect producing negative quantities in test. Both being addressed.
+
+If there is anything else you'd like to see in these update emails, please don't hesitate to let us know.
+
+Kind regards,
+
+Best regards,
+Ana Duarte
+Project Manager Image
++351 913 882 145 | UTC +01:00
+ana.duarte@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+Image
+Image
+Plan better. Sell more. Waste less
+relexsolutions.example Image
+LinkedInYouTube
+
+
+From: Ana Duarte <ana.duarte@relexsolutions.example>
+Sent: Monday, September 1, 2025 16:40
+To: Lena Fischer <lena.fischer@acme-org.example>; Priya Nair <priya.nair@acme-org.example>
+Cc: Marco Rossi <marco.rossi@relexsolutions.example>; Nadia Haddad <n.haddad@relexsolutions.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Subject: Re: Weekly Acme update
+
+Hi All,
+
+Hereby the weekly update.
+
+Update 01-09-2025 (Week 36)
+🟡Slight Delay
+
+Question
+Still open from four updates ago. We are now proceeding on an approximation unless we hear otherwise this week.
+
+Risk
+Shelf life unresolved. Proceeding on an approximation so the build is not blocked.
+
+Timeline
+Holding.
+
+[Image removed by sender]
+
+Topics worked on last week
+1.                  Drafted an approximation approach for remaining shelf life (Phase 3 - Business Configuration)
+
+Topics planned for this week
+1.                Put shelf life on the escalation agenda
+1.                Begin UAT preparation (Phase 4 - Testing)
+
+Potential risk identified 🟡Slight Delay
+1.                  Shelf life unresolved. Proceeding on an approximation so the build is not blocked.
+
+If there is anything else you'd like to see in these update emails, please don't hesitate to let us know.
+
+Kind regards,
+
+Best regards,
+Ana Duarte
+Project Manager Image
++351 913 882 145 | UTC +01:00
+ana.duarte@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+Image
+Image
+Plan better. Sell more. Waste less
+relexsolutions.example Image
+LinkedInYouTube
+
+
+From: Nadia Haddad <n.haddad@relexsolutions.example>
+Sent: Monday, August 18, 2025 17:05
+To: Lena Fischer <lena.fischer@acme-org.example>; Priya Nair <priya.nair@acme-org.example>
+Cc: Marco Rossi <marco.rossi@relexsolutions.example>; Nadia Haddad <n.haddad@relexsolutions.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Subject: Re: Weekly Acme update
+
+Hi All,
+
+Hereby the weekly update.
+
+Update 18-08-2025 (Week 34)
+🟡Slight Delay
+
+Question
+Repeating from the last two updates. Is remaining shelf life stored anywhere, and if not, is goods receipt date available outside the WMS?
+
+Risk
+Shelf life now four weeks open. Approaching the point where we need a workaround.
+
+Timeline
+Holding. The plan assumes shelf life resolves in August.
+
+[Image removed by sender]
+
+Topics worked on last week
+1.                  Chilled ready meals structure loaded (Phase 3 - Business Configuration)
+2.                  Shelf life field mapping (Phase 2 - Technical Implementation) NOT FINISHED
+
+Topics planned for this week
+1.                Shelf life escalation to steering
+
+Potential risk identified 🟡Slight Delay
+1.                  Shelf life now four weeks open. Approaching the point where we need a workaround.
+
+If there is anything else you'd like to see in these update emails, please don't hesitate to let us know.
+
+Kind regards,
+
+Nadia Haddad
+Solution Consultant Image
++46 76 552 30 18 | CET
+n.haddad@relexsolutions.example
+Vasagatan 7, 111 20 Stockholm
+Image
+Plan better. Sell more. Waste less
+relexsolutions.example
+
+
+From: Ana Duarte <ana.duarte@relexsolutions.example>
+Sent: Monday, August 4, 2025 16:15
+To: Lena Fischer <lena.fischer@acme-org.example>; Priya Nair <priya.nair@acme-org.example>
+Cc: Marco Rossi <marco.rossi@relexsolutions.example>; Nadia Haddad <n.haddad@relexsolutions.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Subject: Re: Weekly Acme update
+
+Hi All,
+
+Sorry for the delay in the weekly update!
+
+Hereby the weekly update.
+
+Update 04-08-2025 (Week 32)
+🟡Slight Delay
+
+Question
+We need remaining shelf life at the point of order, per article per site. MARA-MHDHB appears to be total shelf life rather than remaining. Is remaining life stored anywhere, and if not, is goods receipt date available outside the WMS?
+
+Risk
+Shelf life still unresolved. Acme warehouse team unavailable.
+
+Timeline
+Two weeks of float used.
+
+[Image removed by sender]
+
+Topics worked on last week
+1.                  Configuration continues on the parts that do not need shelf life (Phase 3 - Business Configuration)
+
+Topics planned for this week
+1.                Escalate shelf life if no answer this week (Phase 2 - Technical Implementation)
+
+Potential risk identified 🟡Slight Delay
+1.                  Shelf life still unresolved. Acme warehouse team unavailable.
+
+If there is anything else you'd like to see in these update emails, please don't hesitate to let us know.
+
+Kind regards,
+
+Best regards,
+Ana Duarte
+Project Manager Image
++351 913 882 145 | UTC +01:00
+ana.duarte@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+Image
+Image
+Plan better. Sell more. Waste less
+relexsolutions.example Image
+LinkedInYouTube
+
+
+From: Ana Duarte <ana.duarte@relexsolutions.example>
+Sent: Monday, July 21, 2025 17:30
+To: Lena Fischer <lena.fischer@acme-org.example>; Priya Nair <priya.nair@acme-org.example>
+Cc: Marco Rossi <marco.rossi@relexsolutions.example>; Nadia Haddad <n.haddad@relexsolutions.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Subject: Re: Weekly Acme update
+
+Hi All,
+
+Hereby the weekly update.
+
+Update 21-07-2025 (Week 30)
+🟡Slight Delay
+
+Question
+We need remaining shelf life at the point of order, per article per site. MARA-MHDHB appears to be total shelf life rather than remaining. Is remaining life stored anywhere, and if not, is goods receipt date available outside the WMS?
+
+Risk
+Shelf life field mapping unresolved for two weeks. Blocks the ordering logic.
+
+Timeline
+One week of float used. Not yet a concern.
+
+[Image removed by sender]
+
+Topics worked on last week
+1.                  Produce and dairy configuration 60% complete (Phase 3 - Business Configuration)
+2.                  Shelf life field mapping (Phase 2 - Technical Implementation) NOT FINISHED
+
+Topics planned for this week
+1.                Chase shelf life for the second time (Phase 2 - Technical Implementation)
+
+Potential risk identified 🟡Slight Delay
+1.                  Shelf life field mapping unresolved for two weeks. Blocks the ordering logic.
+
+If there is anything else you'd like to see in these update emails, please don't hesitate to let us know.
+
+Kind regards,
+
+Best regards,
+Ana Duarte
+Project Manager Image
++351 913 882 145 | UTC +01:00
+ana.duarte@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+Image
+Image
+Plan better. Sell more. Waste less
+relexsolutions.example Image
+LinkedInYouTube
+
+
+From: Ana Duarte <ana.duarte@relexsolutions.example>
+Sent: Monday, July 7, 2025 16:48
+To: Lena Fischer <lena.fischer@acme-org.example>; Priya Nair <priya.nair@acme-org.example>
+Cc: Marco Rossi <marco.rossi@relexsolutions.example>; Nadia Haddad <n.haddad@relexsolutions.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Subject: Re: Weekly Acme update
+
+Hi All,
+
+Hereby the weekly update.
+
+Update 07-07-2025 (Week 28)
+🟢 On Track
+
+Timeline
+On track.
+
+[Image removed by sender]
+
+Topics worked on last week
+1.                  Fresh category structure loaded for produce and dairy (Phase 3 - Business Configuration)
+2.                  Shelf life request sent to Priya (Phase 2 - Technical Implementation)
+
+Topics planned for this week
+1.                Continue category configuration (Phase 3 - Business Configuration)
+1.                Await shelf life mapping (Phase 2 - Technical Implementation)
+
+If there is anything else you'd like to see in these update emails, please don't hesitate to let us know.
+
+Kind regards,
+
+Best regards,
+Ana Duarte
+Project Manager Image
++351 913 882 145 | UTC +01:00
+ana.duarte@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+Image
+Image
+Plan better. Sell more. Waste less
+relexsolutions.example Image
+LinkedInYouTube
+
+
+From: Ana Duarte <ana.duarte@relexsolutions.example>
+Sent: Monday, June 30, 2025 17:12
+To: Lena Fischer <lena.fischer@acme-org.example>; Priya Nair <priya.nair@acme-org.example>
+Cc: Marco Rossi <marco.rossi@relexsolutions.example>; Nadia Haddad <n.haddad@relexsolutions.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Subject: Weekly Acme update
+
+Hi All,
+
+Hereby the weekly update.
+
+Update 30-06-2025 (Week 27)
+🟢 On Track
+
+Last week we had our kick-off for the fresh Phase 2 workstream. In addition to the status call, we will send this summary email each Monday.
+
+Timeline
+Kick-off complete. We are on the plan as drawn.
+
+[Image removed by sender]
+
+Topics worked on last week
+1.                  Phase 2 scope confirmed against the June steering (Phase 1 - Project Initiation & Specification)
+2.                  Requested the shelf life field from Acme IT (Phase 2 - Technical Implementation)
+
+Topics planned for this week
+1.                Begin fresh category configuration (Phase 3 - Business Configuration)
+2.                Chase the shelf life field mapping (Phase 2 - Technical Implementation)
+
+If there is anything else you'd like to see in these update emails, please don't hesitate to let us know.
+
+Kind regards,
+
+Best regards,
+Ana Duarte
+Project Manager Image
++351 913 882 145 | UTC +01:00
+ana.duarte@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+Image
+Image
+Plan better. Sell more. Waste less
+relexsolutions.example Image
+LinkedInYouTube

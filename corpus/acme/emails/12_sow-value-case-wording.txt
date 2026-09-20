@@ -1,0 +1,108 @@
+*** SYNTHETIC DATA. Entirely fictional. Acme Org, Meridian Consulting and every
+*** person named are invented. Generated for the RELEX challenge track,
+*** AaltoAI Hackathon 2026.
+
+Subject: SOW - value case wording
+From: Lena Fischer <lena.fischer@acme-org.example>
+Date: Tuesday, July 2, 2024 14:45
+To: Marco Rossi <marco.rossi@relexsolutions.example>
+Cc: Robert Kahn <robert.kahn@acme-org.example>; Henrik Sørensen <henrik.sorensen@relexsolutions.example>
+Messages in thread: 4
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+That wording is in. Signed version going out this week.
+
+Mit freundlichen Grüßen
+Lena Fischer
+Head of Supply Chain
++49 151 2244 8830
+Acme Org GmbH | Hansaring 82, 50670 Köln
+acme-org.example
+[cid:image001.png]
+
+
+From: Marco Rossi <marco.rossi@relexsolutions.example>
+Sent: Wednesday, June 26, 2024 9:25 AM
+To: Lena Fischer <lena.fischer@acme-org.example>
+Cc: Robert Kahn <robert.kahn@acme-org.example>; Henrik Sørensen <henrik.sorensen@relexsolutions.example>
+Subject: Re: SOW - value case wording
+
+"RELEX anticipates" is fine, it says the same thing.
+
+On the baseline, agreed, it cannot be defined yet. Can we word it as "a baseline to be
+agreed in writing prior to go-live of the fresh phase"? That gives your legal team a
+commitment and gives us room.
+
+Marco Rossi
+Account Executive Image
++351 912 447 026 | CET/CEST
+marco.rossi@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+Image
+Image
+Plan better. Sell more. Waste less
+relexsolutions.example Image
+LinkedInYouTube
+Image
+
+
+Von: Lena Fischer <lena.fischer@acme-org.example>
+Gesendet: Dienstag, 25. Juni 2024 11:10
+An: Marco Rossi <marco.rossi@relexsolutions.example>
+Cc: Robert Kahn <robert.kahn@acme-org.example>; Henrik Sørensen <henrik.sorensen@relexsolutions.example>
+Betreff: Re: SOW - value case wording
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+Marco,
+
+Legal have looked at it. They have taken out "Both parties expect" and put in "RELEX
+anticipates". They also want the baseline defined in the contract rather than agreed
+later.
+
+I have told them the baseline cannot be defined before we know what we are measuring, so
+that one is probably not going anywhere. The first change I think they will insist on.
+
+Mit freundlichen Grüßen
+Lena Fischer
+Head of Supply Chain
++49 151 2244 8830
+Acme Org GmbH | Hansaring 82, 50670 Köln
+acme-org.example
+[cid:image001.png]
+
+
+From: Marco Rossi <marco.rossi@relexsolutions.example>
+Sent: Tuesday, June 18, 2024 15:30
+To: Lena Fischer <lena.fischer@acme-org.example>; Robert Kahn <robert.kahn@acme-org.example>
+Cc: Henrik Sørensen <henrik.sorensen@relexsolutions.example>
+Subject: SOW - value case wording
+
+Robert, Lena,
+
+Draft wording for the value case section, per our conversation.
+
+"The primary value driver for this engagement is the reduction of fresh food waste,
+measured as a percentage of fresh net sales against an agreed baseline. Both parties
+expect a return on the initial investment within twelve months of contract signature."
+
+I have deliberately written "expect" rather than "guarantee", because delivery depends on
+data readiness and resourcing on both sides. If your legal team wants to tighten it, I
+would rather discuss than receive a redline.
+
+Also added: a quarterly business review with a written report, as an obligation on us.
+
+Marco Rossi
+Account Executive Image
++351 912 447 026 | CET/CEST
+marco.rossi@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+Image
+Image
+Plan better. Sell more. Waste less
+relexsolutions.example Image
+LinkedInYouTube
+Image

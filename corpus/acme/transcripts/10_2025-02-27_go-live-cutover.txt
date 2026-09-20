@@ -1,0 +1,596 @@
+*** SYNTHETIC DATA. This transcript is entirely fictional. Acme Org, Northwind
+*** Retail Group, Meridian Consulting and every person named are invented. Any
+*** resemblance to a real organisation or individual is coincidental. Generated
+*** for the RELEX challenge track, AaltoAI Hackathon 2026.
+
+Meeting: Go-live cutover call
+Customer: Acme Org (Grocery Retail, EMEA)
+Date: 2025-02-27
+Phase: Implementation
+Attendees: Ana Duarte (RELEX), Kwame Boateng (RELEX), Tomas Lindholm (RELEX), Priya Nair (Acme), Lena Fischer (Acme)
+
+Ana Duarte
+0:110:11
+AD
+Ana Duarte 11 seconds
+Right. Cutover is Saturday.
+Ana Duarte 17 seconds
+This is the last call before it,
+Tomas Lindholm
+0:220:22
+TL
+Tomas Lindholm 22 seconds
+Okay.
+Ana Duarte
+0:260:26
+AD
+Ana Duarte 26 seconds
+so I want to...
+Ana Duarte 31 seconds
+walk the checklist and I...
+Lena Fischer
+0:340:34
+LF
+Lena Fischer 34 seconds
+Okay, yeah.
+Ana Duarte
+0:350:35
+AD
+Ana Duarte 35 seconds
+Yeah.
+Ana Duarte 40 seconds
+want to hear the word yes or the word no against each item rather rather than a discussion.
+Lena Fischer
+0:530:53
+LF
+Lena Fischer 53 seconds
+Agreed.
+Ana Duarte
+0:590:59
+AD
+Ana Duarte 59 seconds
+Well, master data cleansing. Priya.
+Priya Nair
+1:041:04
+PN
+Priya Nair 1 minute 4 seconds
+Yes with a caveat.
+Ana Duarte
+1:091:09
+AD
+Ana Duarte 1 minute 9 seconds
+Give me the caveat.
+Priya Nair
+1:141:14
+PN
+Priya Nair 1 minute 14 seconds
+So, case pack quantities are done for everything in,
+Ana Duarte
+1:191:19
+AD
+Ana Duarte 1 minute 19 seconds
+Mm, okay.
+Priya Nair
+1:221:22
+PN
+Priya Nair 1 minute 22 seconds
+the pilot cohort. Shelf life so...
+Ana Duarte
+1:291:29
+AD
+Ana Duarte 1 minute 29 seconds
+Yes.
+Priya Nair
+1:311:31
+PN
+Priya Nair 1 minute 31 seconds
+shelf life does not matter for this go live because fresh is not in scope. If
+Priya Nair 1 minute 43 seconds
+anyone tries to use,
+Priya Nair 1 minute 47 seconds
+this for
+Priya Nair 1 minute 50 seconds
+fresh in three months they will find the shelf life field is still mostly empty.
+Tomas Lindholm
+1:591:59
+TL
+Tomas Lindholm 1 minute 59 seconds
+you know Noted, and that is going in the risk log rather than in this call.
+Lena Fischer
+2:102:10
+LF
+Lena Fischer 2 minutes 10 seconds
+Yeah, yeah.
+Ana Duarte
+2:122:12
+AD
+Ana Duarte 2 minutes 12 seconds
+Feeds.
+Tomas Lindholm
+2:182:18
+TL
+Tomas Lindholm 2 minutes 18 seconds
+Okay.
+Kwame Boateng
+2:192:19
+KB
+Kwame Boateng 2 minutes 19 seconds
+Yes for DC-1. DC-2 is a yes but I want
+Ana Duarte
+2:282:28
+AD
+Ana Duarte 2 minutes 28 seconds
+Mm.
+Kwame Boateng
+2:312:31
+KB
+Kwame Boateng 2 minutes 31 seconds
+say it carefully. The feed runs it has run for eleven consecutive nights in test.
+Kwame Boateng 2 minutes 41 seconds
+It also failed twice I mean...
+Kwame Boateng 2 minutes 44 seconds
+weeks before that, silently, and if you...
+Kwame Boateng 2 minutes 48 seconds
+Hmm.
+Kwame Boateng 2 minutes 54 seconds
+I was watching.
+Ana Duarte
+2:582:58
+AD
+Ana Duarte 2 minutes 58 seconds
+Okay.
+Lena Fischer
+2:592:59
+LF
+Lena Fischer 2 minutes 59 seconds
+So what happens
+Lena Fischer 3 minutes 4 seconds
+on Saturday if it fails.
+Kwame Boateng
+3:073:07
+KB
+Kwame Boateng 3 minutes 7 seconds
+Monitoring alerts me, and I have the runbook. But the honest
+Priya Nair
+3:143:14
+PN
+Priya Nair 3 minutes 14 seconds
+Yes.
+Kwame Boateng
+3:163:16
+KB
+Kwame Boateng 3 minutes 16 seconds
+answer is that when the...
+Kwame Boateng 3 minutes 20 seconds
+fails in production nobody will
+Ana Duarte
+3:233:23
+AD
+Ana Duarte 3 minutes 23 seconds
+Okay.
+Kwame Boateng
+3:243:24
+KB
+Kwame Boateng 3 minutes 24 seconds
+notice until the morning...
+Tomas Lindholm
+3:313:31
+TL
+Tomas Lindholm 3 minutes 31 seconds
+Right.
+Kwame Boateng
+3:323:32
+KB
+Kwame Boateng 3 minutes 32 seconds
+orders look wrong.
+Priya Nair
+3:393:39
+PN
+Priya Nair 3 minutes 39 seconds
+That what I said where the...
+Kwame Boateng
+3:443:44
+KB
+Kwame Boateng 3 minutes 44 seconds
+You did.
+Priya Nair
+3:483:48
+PN
+Priya Nair 3 minutes 48 seconds
+Okay.
+Ana Duarte
+3:503:50
+AD
+Ana Duarte 3 minutes 50 seconds
+Rollback.
+Tomas Lindholm
+3:573:57
+TL
+Tomas Lindholm 3 minutes 57 seconds
+Yes. We can revert the incumbent ordering process within four hours for the,
+Ana Duarte
+4:064:06
+AD
+Ana Duarte 4 minutes 6 seconds
+Mm-hm.
+Tomas Lindholm
+4:104:10
+TL
+Tomas Lindholm 4 minutes 10 seconds
+pilot cohort. It is manual and it is unpleasant but it works.
+Ana Duarte
+4:174:17
+AD
+Ana Duarte 4 minutes 17 seconds
+Cohort. Confirming for the record, this is the twenty-five store pilot group.
+Priya Nair
+4:244:24
+PN
+Priya Nair 4 minutes 24 seconds
+Twenty-five.
+Ana Duarte
+4:314:31
+AD
+Ana Duarte 4 minutes 31 seconds
+On-call. I need numbers, not names.
+Lena Fischer
+4:374:37
+LF
+Lena Fischer 4 minutes 37 seconds
+Yeah.
+Kwame Boateng
+4:394:39
+KB
+Kwame Boateng 4 minutes 39 seconds
+Me for the feeds. Zero zero four four seven seven zero zero nine zero zero three one one eight,
+Lena Fischer
+4:524:52
+LF
+Lena Fischer 4 minutes 52 seconds
+Okay, yeah.
+Kwame Boateng
+4:564:56
+KB
+Kwame Boateng 4 minutes 56 seconds
+that is my mobile and it is on all weekend.
+Tomas Lindholm
+5:055:05
+TL
+Tomas Lindholm 5 minutes 5 seconds
+Okay, yeah.
+Priya Nair
+5:065:06
+PN
+Priya Nair 5 minutes 6 seconds
+Me for anything Acme side. Zero zero four nine one five one three three zero seven nine one two...
+Ana Duarte
+5:155:15
+AD
+Ana Duarte 5 minutes 15 seconds
+Yeah.
+Priya Nair
+5:175:17
+PN
+Priya Nair 5 minutes 17 seconds
+six.
+Lena Fischer
+5:245:24
+LF
+Lena Fischer 5 minutes 24 seconds
+And me if either of you cannot get a after the...
+Ana Duarte
+5:325:32
+AD
+Ana Duarte 5 minutes 32 seconds
+Sorry, go ahead.
+Ana Duarte 5 minutes 35 seconds
+I have all three. I am putting them in the cutover runbook and
+Kwame Boateng
+5:455:45
+KB
+Kwame Boateng 5 minutes 45 seconds
+Mm.
+Ana Duarte
+5:495:49
+AD
+Ana Duarte 5 minutes 49 seconds
+I will circulate it.
+Priya Nair
+5:535:53
+PN
+Priya Nair 5 minutes 53 seconds
+Do not
+Priya Nair 5 minutes 57 seconds
+circulate the the so...
+Priya Nair 6 minutes 4 seconds
+some strange places over the...
+Priya Nair 6 minutes 8 seconds
+years.
+Tomas Lindholm
+6:136:13
+TL
+Tomas Lindholm 6 minutes 13 seconds
+Right.
+Ana Duarte
+6:166:16
+AD
+Ana Duarte 6 minutes 16 seconds
+Understood, distribution list is the five of us.
+Tomas Lindholm
+6:206:20
+TL
+Tomas Lindholm 6 minutes 20 seconds
+Right.
+Lena Fischer
+6:226:22
+LF
+Lena Fischer 6 minutes 22 seconds
+So, what about but...
+Ana Duarte
+6:256:25
+AD
+Ana Duarte 6 minutes 25 seconds
+Store communications went out Tuesday. First orders generated Monday morning.
+Priya Nair
+6:336:33
+PN
+Priya Nair 6 minutes 33 seconds
+Exactly.
+Lena Fischer
+6:366:36
+LF
+Lena Fischer 6 minutes 36 seconds
+And, who is in the stores on Monday?
+Tomas Lindholm
+6:406:40
+TL
+Tomas Lindholm 6 minutes 40 seconds
+Sure.
+Priya Nair
+6:426:42
+PN
+Priya Nair 6 minutes 42 seconds
+Nobody from...
+Priya Nair 6 minutes 47 seconds
+my team. It is a normal Monday them.
+Ana Duarte
+6:526:52
+AD
+Ana Duarte 6 minutes 52 seconds
+Yes.
+Lena Fischer
+6:566:56
+LF
+Lena Fischer 6 minutes 56 seconds
+Then that is a gap. If twenty-five store managers
+Lena Fischer 7 minutes 2 seconds
+get an...
+Lena Fischer 7 minutes 6 seconds
+order proposal
+Lena Fischer 7 minutes 10 seconds
+that looks
+Lena Fischer 7 minutes 15 seconds
+strange on Monday morning and there is nobody to call, they will just override
+Tomas Lindholm
+7:257:25
+TL
+Tomas Lindholm 7 minutes 25 seconds
+Yes.
+Lena Fischer
+7:267:26
+LF
+Lena Fischer 7 minutes 26 seconds
+it and we so...
+Ana Duarte
+7:327:32
+AD
+Ana Duarte 7 minutes 32 seconds
+That is a fair point and I do not
+Priya Nair
+7:407:40
+PN
+Priya Nair 7 minutes 40 seconds
+Right.
+Ana Duarte
+7:437:43
+AD
+Ana Duarte 7 minutes 43 seconds
+have an answer prepared.
+Kwame Boateng
+7:487:48
+KB
+Kwame Boateng 7 minutes 48 seconds
+Mm.
+Lena Fischer
+7:527:52
+LF
+Lena Fischer 7 minutes 52 seconds
+I will put someone from my team
+Lena Fischer 7 minutes 59 seconds
+on it. Not a
+Tomas Lindholm
+8:048:04
+TL
+Tomas Lindholm 8 minutes 4 seconds
+Yeah.
+Lena Fischer
+8:088:08
+LF
+Lena Fischer 8 minutes 8 seconds
+technical person, just someone who answers the
+Lena Fischer 8 minutes 14 seconds
+phone and writes down what they said.
+Tomas Lindholm
+8:218:21
+TL
+Tomas Lindholm 8 minutes 21 seconds
+Yeah.
+Tomas Lindholm
+8:258:25
+TL
+Tomas Lindholm 8 minutes 25 seconds
+Yeah.
+Tomas Lindholm 8 minutes 30 seconds
+That would be more useful than than the monitoring,
+Tomas Lindholm 8 minutes 39 seconds
+honestly.
+Ana Duarte
+8:468:46
+AD
+Ana Duarte 8 minutes 46 seconds
+Anything else?
+Kwame Boateng
+8:528:52
+KB
+Kwame Boateng 8 minutes 52 seconds
+One thing. I am on
+Kwame Boateng 8 minutes 59 seconds
+holiday from the tenth of March.
+Ana Duarte
+9:049:04
+AD
+Ana Duarte 9 minutes 4 seconds
+For how long?
+Lena Fischer
+9:109:10
+LF
+Lena Fischer 9 minutes 10 seconds
+Yes.
+Kwame Boateng
+9:149:14
+KB
+Kwame Boateng 9 minutes 14 seconds
+Two weeks. It was booked in November.
+Ana Duarte
+9:189:18
+AD
+Ana Duarte 9 minutes 18 seconds
+So you are here for cutover and the first ten days
+Ana Duarte 9 minutes 27 seconds
+and then you are gone.
+Kwame Boateng
+9:339:33
+KB
+Kwame Boateng 9 minutes 33 seconds
+Yes.
+Ana Duarte
+9:409:40
+AD
+Ana Duarte 9 minutes 40 seconds
+sort of Who and...
+Priya Nair
+9:469:46
+PN
+Priya Nair 9 minutes 46 seconds
+Okay.
+Kwame Boateng
+9:509:50
+KB
+Kwame Boateng 9 minutes 50 seconds
+Nobody currently. I will write the the runbook properly so...
+Lena Fischer
+9:559:55
+LF
+Lena Fischer 9 minutes 55 seconds
+Yeah.
+Kwame Boateng
+9:599:59
+KB
+Kwame Boateng 9 minutes 59 seconds
+it is not just in
+Priya Nair
+10:0410:04
+PN
+Priya Nair 10 minutes 4 seconds
+Yes.
+Kwame Boateng
+10:0610:06
+KB
+Kwame Boateng 10 minutes 6 seconds
+my head.
+Priya Nair
+10:1010:10
+PN
+Priya Nair 10 minutes 10 seconds
+Sure.
+Priya Nair
+10:1310:13
+PN
+Priya Nair 10 minutes 13 seconds
+A runbook is not a person.
+Kwame Boateng
+10:1710:17
+KB
+Kwame Boateng 10 minutes 17 seconds
+No, it is not.
+Ana Duarte
+10:2310:23
+AD
+Ana Duarte 10 minutes 23 seconds
+Mm.
+Ana Duarte
+10:2710:27
+AD
+Ana Duarte 10 minutes 27 seconds
+I will raise...
+Priya Nair
+10:3310:33
+PN
+Priya Nair 10 minutes 33 seconds
+Sure.
+Ana Duarte
+10:3410:34
+AD
+Ana Duarte 10 minutes 34 seconds
+resourcing. Priya, if it fails...
+Priya Nair
+10:3910:39
+PN
+Priya Nair 10 minutes 39 seconds
+Yeah, yeah.
+Ana Duarte
+10:4010:40
+AD
+Ana Duarte 10 minutes 40 seconds
+while Kwame is away, escalate to me directly and I
+Ana Duarte 10 minutes 45 seconds
+will find someone.
+Lena Fischer
+10:5210:52
+LF
+Lena Fischer 10 minutes 52 seconds
+Mm, okay.
+Priya Nair
+10:5510:55
+PN
+Priya Nair 10 minutes 55 seconds
+I will escalate to you and you will find someone in six
+Priya Nair 11 minutes 1 second
+hours instead of one. I am not blaming you, I am
+Priya Nair 11 minutes 10 seconds
+describing what will happen.
+Ana Duarte
+11:1711:17
+AD
+Ana Duarte 11 minutes 17 seconds
+That is accurate.
+Lena Fischer
+11:2311:23
+LF
+Lena Fischer 11 minutes 23 seconds
+Are we going?
+Ana Duarte
+11:2711:27
+AD
+Ana Duarte 11 minutes 27 seconds
+We are going.
+Tomas Lindholm
+11:3311:33
+TL
+Tomas Lindholm 11 minutes 33 seconds
+Mm-hm.
+Lena Fischer
+11:3411:34
+LF
+Lena Fischer 11 minutes 34 seconds
+Good.

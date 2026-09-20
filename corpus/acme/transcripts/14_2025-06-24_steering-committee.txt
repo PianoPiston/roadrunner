@@ -1,0 +1,718 @@
+*** SYNTHETIC DATA. This transcript is entirely fictional. Acme Org, Northwind
+*** Retail Group, Meridian Consulting and every person named are invented. Any
+*** resemblance to a real organisation or individual is coincidental. Generated
+*** for the RELEX challenge track, AaltoAI Hackathon 2026.
+
+Meeting: Steering committee
+Customer: Acme Org (Grocery Retail, EMEA)
+Date: 2025-06-24
+Phase: Live-Services
+Attendees: Lena Fischer (Acme), Robert Kahn (Acme CFO, part), Priya Nair (Acme), Marco Rossi (RELEX), Ana Duarte (RELEX)
+
+Ana Duarte
+0:260:26
+AD
+Ana Duarte 26 seconds
+Standing agenda. Where we are, what is blocked, what,
+Marco Rossi
+0:340:34
+MR
+Marco Rossi 34 seconds
+Yeah.
+Ana Duarte
+0:380:38
+AD
+Ana Duarte 38 seconds
+what is next, and then Robert joins
+Ana Duarte 44 seconds
+for the,
+Marco Rossi
+0:470:47
+MR
+Marco Rossi 47 seconds
+Mm.
+Ana Duarte
+0:510:51
+AD
+Ana Duarte 51 seconds
+last twenty minutes.
+Lena Fischer
+0:560:56
+LF
+Lena Fischer 56 seconds
+Go.
+Robert Kahn
+1:011:01
+RK
+Robert Kahn 1 minute 1 second
+Mm-hm.
+Ana Duarte
+1:021:02
+AD
+Ana Duarte 1 minute 2 seconds
+Core replenishmentt has been live four months on the pilot cohort. The numbers
+Ana Duarte 1 minute 11 seconds
+we reported in May hold. Automation is at ninety-one and has been stable since April.
+Marco Rossi
+1:201:20
+MR
+Marco Rossi 1 minute 20 seconds
+Yes.
+Lena Fischer
+1:211:21
+LF
+Lena Fischer 1 minute 21 seconds
+And DC-2.
+Priya Nair
+1:271:27
+PN
+Priya Nair 1 minute 27 seconds
+Yeah.
+Ana Duarte
+1:291:29
+AD
+Ana Duarte 1 minute 29 seconds
+DC-2 fails roughly twice a week. The joint engineering session we agreed in May happened on the
+Marco Rossi
+1:371:37
+MR
+Marco Rossi 1 minute 37 seconds
+Mm.
+Ana Duarte
+1:401:40
+AD
+Ana Duarte 1 minute 40 seconds
+fourth of
+Priya Nair
+1:441:44
+PN
+Priya Nair 1 minute 44 seconds
+Yes.
+Ana Duarte
+1:481:48
+AD
+Ana Duarte 1 minute 48 seconds
+June and produced a plan. The plan has a date on it.
+Marco Rossi
+1:571:57
+MR
+Marco Rossi 1 minute 57 seconds
+Yes.
+Priya Nair
+2:012:01
+PN
+Priya Nair 2 minutes 1 second
+September.
+Ana Duarte
+2:082:08
+AD
+Ana Duarte 2 minutes 8 seconds
+September, because the fix requires a
+Priya Nair
+2:122:12
+PN
+Priya Nair 2 minutes 12 seconds
+Mm.
+Ana Duarte
+2:162:16
+AD
+Ana Duarte 2 minutes 16 seconds
+Yeah.
+Ana Duarte 2 minutes 19 seconds
+middleware upgrade
+Marco Rossi
+2:222:22
+MR
+Marco Rossi 2 minutes 22 seconds
+Yeah, yeah.
+Ana Duarte
+2:242:24
+AD
+Ana Duarte 2 minutes 24 seconds
+on your side and your change window is quarterly.
+Priya Nair
+2:332:33
+PN
+Priya Nair 2 minutes 33 seconds
+That is true, so I am not disputing it, yeah...
+Robert Kahn
+2:392:39
+RK
+Robert Kahn 2 minutes 39 seconds
+Mm, okay.
+Lena Fischer
+2:412:41
+LF
+Lena Fischer 2 minutes 41 seconds
+Let me scroll down.
+Lena Fischer 2 minutes 49 seconds
+Three more months of.
+Ana Duarte
+2:532:53
+AD
+Ana Duarte 2 minutes 53 seconds
+Yes.
+Lena Fischer
+3:003:00
+LF
+Lena Fischer 3 minutes
+Fine. What is next?
+Marco Rossi
+3:033:03
+MR
+Marco Rossi 3 minutes 3 seconds
+Phase 2. Fresh. This is the thing I want to spend time on today.
+Lena Fischer
+3:133:13
+LF
+Lena Fischer 3 minutes 13 seconds
+Where was I.
+Lena Fischer 3 minutes 15 seconds
+so Please.
+Marco Rossi
+3:213:21
+MR
+Marco Rossi 3 minutes 21 seconds
+We owe you a scoping proposal. What I want to agree today is not the...
+Marco Rossi 3 minutes 30 seconds
+content of of it but that it exists and when you get it.
+Lena Fischer
+3:383:38
+LF
+Lena Fischer 3 minutes 38 seconds
+When do we get it?
+Marco Rossi
+3:413:41
+MR
+Marco Rossi 3 minutes 41 seconds
+Mid-July. It will cover which categories, in what order, and what what the dependencies
+Priya Nair
+3:483:48
+PN
+Priya Nair 3 minutes 48 seconds
+Okay.
+Marco Rossi
+3:493:49
+MR
+Marco Rossi 3 minutes 49 seconds
+are.
+Lena Fischer
+3:553:55
+LF
+Lena Fischer 3 minutes 55 seconds
+In what order meaning
+Lena Fischer 3 minutes 58 seconds
+what?
+Marco Rossi
+4:024:02
+MR
+Marco Rossi 4 minutes 2 seconds
+Right.
+Marco Rossi
+4:044:04
+MR
+Marco Rossi 4 minutes 4 seconds
+Meaning there is a sequencing question. There are so...
+Marco Rossi 4 minutes 11 seconds
+same readiness, so there is a choice about whether they go together or separately. That,
+Marco Rossi 4 minutes 22 seconds
+Where was I.
+Marco Rossi 4 minutes 25 seconds
+is what
+Ana Duarte
+4:284:28
+AD
+Ana Duarte 4 minutes 28 seconds
+Mm, okay.
+Marco Rossi
+4:314:31
+MR
+Marco Rossi 4 minutes 31 seconds
+the proposal will set out.
+Lena Fischer
+4:344:34
+LF
+Lena Fischer 4 minutes 34 seconds
+All right, send but...
+Marco Rossi
+4:384:38
+MR
+Marco Rossi 4 minutes 38 seconds
+Good.
+Priya Nair
+4:434:43
+PN
+Priya Nair 4 minutes 43 seconds
+True.
+Lena Fischer
+4:464:46
+LF
+Lena Fischer 4 minutes 46 seconds
+Priya, yeah is the data ready for...
+Lena Fischer 4 minutes 53 seconds
+fresh?
+Robert Kahn
+5:005:00
+RK
+Robert Kahn 5 minutes
+Mm-hm.
+Priya Nair
+5:025:02
+PN
+Priya Nair 5 minutes 2 seconds
+No, and this is the shell life
+Priya Nair 5 minutes 8 seconds
+conversation again. Nadia has been asking
+Priya Nair 5 minutes 13 seconds
+me for a field that does not exist in the form she wants it.
+Priya Nair 5 minutes 21 seconds
+I have told her that. It is now an...
+Priya Nair 5 minutes 27 seconds
+email thread rather...
+Priya Nair 5 minutes 30 seconds
+than a decision.
+Ana Duarte
+5:335:33
+AD
+Ana Duarte 5 minutes 33 seconds
+I will pick that up.
+Lena Fischer
+5:385:38
+LF
+Lena Fischer 5 minutes 38 seconds
+Please do, so because we have been I mean...
+Lena Fischer 5 minutes 45 seconds
+the first
+Lena Fischer 5 minutes 51 seconds
+meeting meeting with Marco and I have never once heard it resolved.
+Marco Rossi
+6:016:01
+MR
+Marco Rossi 6 minutes 1 second
+That is fair.
+Lena Fischer
+6:066:06
+LF
+Lena Fischer 6 minutes 6 seconds
+Okay, yeah.
+Ana Duarte
+6:106:10
+AD
+Ana Duarte 6 minutes 10 seconds
+On the QBR, we agreed in May to formalise the...
+Ana Duarte 6 minutes 15 seconds
+cadence and I have set it up. Quarterly, the next one is
+Robert Kahn
+6:216:21
+RK
+Robert Kahn 6 minutes 21 seconds
+Mm-hm.
+Ana Duarte
+6:226:22
+AD
+Ana Duarte 6 minutes 22 seconds
+September, and this steering continues
+Ana Duarte 6 minutes 27 seconds
+monthly in between.
+Lena Fischer
+6:346:34
+LF
+Lena Fischer 6 minutes 34 seconds
+Okay, yeah.
+Lena Fischer
+6:366:36
+LF
+Lena Fischer 6 minutes 36 seconds
+Good.
+Robert Kahn
+6:426:42
+RK
+Robert Kahn 6 minutes 42 seconds
+yeah Sorry. I am here.
+Lena Fischer
+6:496:49
+LF
+Lena Fischer 6 minutes 49 seconds
+Robert, we are on Phase 2.
+Robert Kahn
+6:546:54
+RK
+Robert Kahn 6 minutes 54 seconds
+Then I...
+Priya Nair
+7:017:01
+PN
+Priya Nair 7 minutes 1 second
+Yeah.
+Robert Kahn
+7:027:02
+RK
+Robert Kahn 7 minutes 2 seconds
+will ask,
+Priya Nair
+7:077:07
+PN
+Priya Nair 7 minutes 7 seconds
+Okay.
+Robert Kahn
+7:087:08
+RK
+Robert Kahn 7 minutes 8 seconds
+Okay so.
+Robert Kahn 7 minutes 13 seconds
+my question. When does fresh go live?
+Marco Rossi
+7:177:17
+MR
+Marco Rossi 7 minutes 17 seconds
+We are giving you a scoping
+Priya Nair
+7:237:23
+PN
+Priya Nair 7 minutes 23 seconds
+Mm, okay.
+Marco Rossi
+7:277:27
+MR
+Marco Rossi 7 minutes 27 seconds
+proposal in July. I do not want to give you a date...
+Marco Rossi 7 minutes 33 seconds
+before I have given if the...
+Lena Fischer
+7:377:37
+LF
+Lena Fischer 7 minutes 37 seconds
+Right.
+Robert Kahn
+7:387:38
+RK
+Robert Kahn 7 minutes 38 seconds
+I do
+Ana Duarte
+7:447:44
+AD
+Ana Duarte 7 minutes 44 seconds
+Sure.
+Robert Kahn
+7:487:48
+RK
+Robert Kahn 7 minutes 48 seconds
+not want a scope.
+Marco Rossi
+7:557:55
+MR
+Marco Rossi 7 minutes 55 seconds
+I understand. What I can tell you
+Lena Fischer
+8:018:01
+LF
+Lena Fischer 8 minutes 1 second
+Yeah.
+Marco Rossi
+8:048:04
+MR
+Marco Rossi 8 minutes 4 seconds
+is that the twelve-month
+Marco Rossi 8 minutes 9 seconds
+window from signature ends in December, and I
+Marco Rossi 8 minutes 16 seconds
+know that.
+Robert Kahn
+8:218:21
+RK
+Robert Kahn 8 minutes 21 seconds
+Then say December.
+Marco Rossi
+8:268:26
+MR
+Marco Rossi 8 minutes 26 seconds
+Sure.
+Marco Rossi
+8:298:29
+MR
+Marco Rossi 8 minutes 29 seconds
+I will not say say December until I have looked at the four...
+Marco Rossi 8 minutes 38 seconds
+categories properly, because if I say December today and miss
+Marco Rossi 8 minutes 43 seconds
+it, that
+Marco Rossi 8 minutes 48 seconds
+is worse for both of us than
+Marco Rossi 8 minutes 52 seconds
+being careful now.
+Priya Nair
+8:558:55
+PN
+Priya Nair 8 minutes 55 seconds
+Mm, okay.
+Robert Kahn
+8:588:58
+RK
+Robert Kahn 8 minutes 58 seconds
+Yeah.
+Robert Kahn 9 minutes
+That is a good for the...
+Robert Kahn 9 minutes 7 seconds
+a date.
+Lena Fischer
+9:149:14
+LF
+Lena Fischer 9 minutes 14 seconds
+Yeah.
+Lena Fischer
+9:169:16
+LF
+Lena Fischer 9 minutes 16 seconds
+Well, robert.
+Marco Rossi
+9:209:20
+MR
+Marco Rossi 9 minutes 20 seconds
+Right.
+Robert Kahn
+9:219:21
+RK
+Robert Kahn 9 minutes 21 seconds
+I am being consistent. Since March last year I have said one
+Marco Rossi
+9:299:29
+MR
+Marco Rossi 9 minutes 29 seconds
+Sure.
+Robert Kahn
+9:339:33
+RK
+Robert Kahn 9 minutes 33 seconds
+thing.
+Lena Fischer
+9:379:37
+LF
+Lena Fischer 9 minutes 37 seconds
+Yep.
+Marco Rossi
+9:389:38
+MR
+Marco Rossi 9 minutes 38 seconds
+You have.
+Robert Kahn
+9:459:45
+RK
+Robert Kahn 9 minutes 45 seconds
+Then the
+Ana Duarte
+9:489:48
+AD
+Ana Duarte 9 minutes 48 seconds
+Exactly.
+Robert Kahn
+9:499:49
+RK
+Robert Kahn 9 minutes 49 seconds
+Let me just...
+Robert Kahn 9 minutes 54 seconds
+proposal in July needs a date in it.
+Marco Rossi
+10:0210:02
+MR
+Marco Rossi 10 minutes 2 seconds
+sort of It will have a date in it.
+Robert Kahn
+10:1110:11
+RK
+Robert Kahn 10 minutes 11 seconds
+Good. Second thing. The but the...
+Ana Duarte
+10:1810:18
+AD
+Ana Duarte 10 minutes 18 seconds
+Fresh waste
+Lena Fischer
+10:2210:22
+LF
+Lena Fischer 10 minutes 22 seconds
+Sure.
+Ana Duarte
+10:2610:26
+AD
+Ana Duarte 10 minutes 26 seconds
+is unchanged
+Marco Rossi
+10:2910:29
+MR
+Marco Rossi 10 minutes 29 seconds
+Yeah.
+Ana Duarte
+10:3310:33
+AD
+Ana Duarte 10 minutes 33 seconds
+because fresh is not live. The number you have seen is ambient inventory.
+Robert Kahn
+10:4010:40
+RK
+Robert Kahn 10 minutes 40 seconds
+Yes, I understand that now. I am asking a different question. When fresh,
+Priya Nair
+10:4610:46
+PN
+Priya Nair 10 minutes 46 seconds
+Understood.
+Robert Kahn
+10:4710:47
+RK
+Robert Kahn 10 minutes 47 seconds
+does go live, how will we know it worked?
+Ana Duarte
+10:5510:55
+AD
+Ana Duarte 10 minutes 55 seconds
+Yeah.
+Ana Duarte
+10:5810:58
+AD
+Ana Duarte 10 minutes 58 seconds
+right We measure fresh waste as a percentage of of fresh net sales against the baseline.
+Robert Kahn
+11:0811:08
+RK
+Robert Kahn 11 minutes 8 seconds
+So as you can see...
+Robert Kahn 11 minutes 19 seconds
+Which baseline?
+Priya Nair
+11:2511:25
+PN
+Priya Nair 11 minutes 25 seconds
+Fair enough.
+Ana Duarte
+11:2711:27
+AD
+Ana Duarte 11 minutes 27 seconds
+The one we agree before go-live.
+Marco Rossi
+11:3111:31
+MR
+Marco Rossi 11 minutes 31 seconds
+Right.
+Robert Kahn
+11:3411:34
+RK
+Robert Kahn 11 minutes 34 seconds
+We have
+Robert Kahn 11 minutes 39 seconds
+not agreed one.
+Ana Duarte
+11:4511:45
+AD
+Ana Duarte 11 minutes 45 seconds
+No.
+Marco Rossi
+11:5011:50
+MR
+Marco Rossi 11 minutes 50 seconds
+Yeah.
+Robert Kahn
+11:5411:54
+RK
+Robert Kahn 11 minutes 54 seconds
+Then agree one before go-live and not after,
+Robert Kahn 11 minutes 58 seconds
+because after go live everybody's...
+Priya Nair
+12:0312:03
+PN
+Priya Nair 12 minutes 3 seconds
+True.
+Robert Kahn
+12:0512:05
+RK
+Robert Kahn 12 minutes 5 seconds
+baseline is the one that makes them look good.
+Lena Fischer
+12:1112:11
+LF
+Lena Fischer 12 minutes 11 seconds
+He is right.
+Marco Rossi
+12:1412:14
+MR
+Marco Rossi 12 minutes 14 seconds
+Right.
+Ana Duarte
+12:1812:18
+AD
+Ana Duarte 12 minutes 18 seconds
+Action on me. Baseline agreed in writing before,
+Ana Duarte 12 minutes 22 seconds
+fresh go live.
+Robert Kahn
+12:2912:29
+RK
+Robert Kahn 12 minutes 29 seconds
+Thank you. I have to go.
+Lena Fischer
+12:3412:34
+LF
+Lena Fischer 12 minutes 34 seconds
+Anything else?
+Priya Nair
+12:4012:40
+PN
+Priya Nair 12 minutes 40 seconds
+Yes, one thing and it is small. Somebody on your,
+Priya Nair 12 minutes 47 seconds
+side has been asking my team for access to the warehouse system directly rather than going,
+Marco Rossi
+12:5912:59
+MR
+Marco Rossi 12 minutes 59 seconds
+Okay.
+Priya Nair
+13:0113:01
+PN
+Priya Nair 13 minutes 1 second
+through me. I would rather that came through me.
+Ana Duarte
+13:0713:07
+AD
+Ana Duarte 13 minutes 7 seconds
+Mm-hm.
+Ana Duarte
+13:0813:08
+AD
+Ana Duarte 13 minutes 8 seconds
+Who?
+Lena Fischer
+13:1113:11
+LF
+Lena Fischer 13 minutes 11 seconds
+Right.
+Priya Nair
+13:1213:12
+PN
+Priya Nair 13 minutes 12 seconds
+I do not know the name, it,
+Marco Rossi
+13:1813:18
+MR
+Marco Rossi 13 minutes 18 seconds
+Mm-hm.
+Priya Nair
+13:2213:22
+PN
+Priya Nair 13 minutes 22 seconds
+came second hand. It may have been nothing.
+Ana Duarte
+13:2813:28
+AD
+Ana Duarte 13 minutes 28 seconds
+I will find out and it will not happen again.
+Lena Fischer
+13:3513:35
+LF
+Lena Fischer 13 minutes 35 seconds
+Then we are done.
+Robert Kahn
+13:4113:41
+RK
+Robert Kahn 13 minutes 41 seconds
+Yeah, yeah.

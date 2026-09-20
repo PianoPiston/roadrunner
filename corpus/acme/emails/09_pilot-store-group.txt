@@ -1,0 +1,138 @@
+*** SYNTHETIC DATA. Entirely fictional. Acme Org, Meridian Consulting and every
+*** person named are invented. Generated for the RELEX challenge track,
+*** AaltoAI Hackathon 2026.
+
+Subject: Pilot store group - confirmation
+From: Marco Rossi <marco.rossi@relexsolutions.example>
+Date: Wednesday, May 21, 2025 8:30 AM
+To: Robert Kahn <robert.kahn@acme-org.example>
+Cc: Lena Fischer <lena.fischer@acme-org.example>; Ana Duarte <ana.duarte@relexsolutions.example>
+Messages in thread: 6
+
+25. The pilot was reduced in September 2024 and our plan was updated at the time. My
+note below was wrong and I will correct it in the deck before Thursday.
+
+Marco Rossi
+Account Executive [Image removed by sender]
++351 912 447 026 | CET/CEST
+marco.rossi@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+[Image removed by sender]
+[Image removed by sender]
+Plan better. Sell more. Waste less
+relexsolutions.example [Image removed by sender]
+LinkedInYouTube
+[Image removed by sender]
+
+
+Von: Robert Kahn <robert.kahn@acme-org.example>
+Gesendet: Dienstag, 20. Mai 2025 09:44
+An: Marco Rossi <marco.rossi@relexsolutions.example>
+Cc: Lena Fischer <lena.fischer@acme-org.example>
+Betreff: Re: Pilot store group - confirmation
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+Is it 40 or 25? I have seen both this month.
+
+Robert Kahn
+Chief Financial Officer
+Acme Org GmbH
++49 151 6620 1174
+[cid:image001.png]
+
+
+From: Marco Rossi <marco.rossi@relexsolutions.example>
+Sent: Tuesday, May 20, 2025 9:10 AM
+To: Robert Kahn <robert.kahn@acme-org.example>
+Cc: Lena Fischer <lena.fischer@acme-org.example>; Ana Duarte <ana.duarte@relexsolutions.example>
+Subject: Re: Pilot store group - confirmation
+
+Robert,
+
+Ahead of Thursday's review, the headline numbers are drawn from the pilot cohort of 40
+stores over the ninety days since go-live.
+
+Marco
+
+Marco Rossi
+Account Executive [Image removed by sender]
++351 912 447 026 | CET/CEST
+marco.rossi@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+[Image removed by sender]
+[Image removed by sender]
+Plan better. Sell more. Waste less
+relexsolutions.example [Image removed by sender]
+LinkedInYouTube
+[Image removed by sender]
+
+
+From: Ana Duarte <ana.duarte@relexsolutions.example>
+Sent: Tuesday, September 3, 2024 15:58
+To: Priya Nair <priya.nair@acme-org.example>
+Cc: Lena Fischer <lena.fischer@acme-org.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Subject: Re: Pilot store group - confirmation
+
+I was not told but 25 is fine. I will update the plan.
+
+Best regards,
+Ana Duarte
+Project Manager [Image removed by sender]
++351 913 882 145 | UTC +01:00
+ana.duarte@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+[Image removed by sender]
+[Image removed by sender]
+Plan better. Sell more. Waste less
+relexsolutions.example [Image removed by sender]
+LinkedInYouTube
+
+
+From: Priya Nair <priya.nair@acme-org.example>
+Sent: Tuesday, September 3, 2024 15:20
+To: Ana Duarte <ana.duarte@relexsolutions.example>
+Cc: Lena Fischer <lena.fischer@acme-org.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Subject: Re: Pilot store group - confirmation
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+Store list attached. Note it is 25 rather than 40 - the regional managers pushed back on
+the number and Lena agreed to reduce it. I assume you were told.
+
+Priya Nair
+IT Integration Lead
++49 151 3307 9126
+Acme Org GmbH | Hansaring 82, 50670 Köln
+acme-org.example
+[Image removed by sender]
+
+
+From: Ana Duarte <ana.duarte@relexsolutions.example>
+Sent: Monday, July 29, 2024 10:30 AM
+To: Lena Fischer <lena.fischer@acme-org.example>
+Cc: Priya Nair <priya.nair@acme-org.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Subject: Pilot store group - confirmation
+
+Lena,
+
+Confirming the pilot store group as agreed at kickoff: 40 stores, spread across the
+three regions so we are not testing a single buying pattern.
+
+Priya, we will need the store list to load. Format attached.
+
+Best regards,
+Ana Duarte
+Project Manager [Image removed by sender]
++351 913 882 145 | UTC +01:00
+ana.duarte@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+[Image removed by sender]
+[Image removed by sender]
+Plan better. Sell more. Waste less
+relexsolutions.example [Image removed by sender]
+LinkedInYouTube

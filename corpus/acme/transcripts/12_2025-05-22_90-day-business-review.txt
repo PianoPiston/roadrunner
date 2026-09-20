@@ -1,0 +1,571 @@
+*** SYNTHETIC DATA. This transcript is entirely fictional. Acme Org, Northwind
+*** Retail Group, Meridian Consulting and every person named are invented. Any
+*** resemblance to a real organisation or individual is coincidental. Generated
+*** for the RELEX challenge track, AaltoAI Hackathon 2026.
+
+Meeting: 90-day post-go-live business review
+Customer: Acme Org (Grocery Retail, EMEA)
+Date: 2025-05-22
+Phase: Live-Services
+Attendees: Lena Fischer (Acme), Robert Kahn (Acme CFO), Priya Nair (Acme), Marco Rossi (RELEX)
+
+Marco Rossi
+0:090:09
+MR
+Marco Rossi 9 seconds
+Can you hear me?
+Marco Rossi 15 seconds
+Headline results at ninety days. Forecast
+Lena Fischer
+0:220:22
+LF
+Lena Fischer 22 seconds
+Mm, okay.
+Marco Rossi
+0:260:26
+MR
+Marco Rossi 26 seconds
+accuracy up six point two points versus baseline, ambient inventory down nine percent, order automation at ninety-one,
+Marco Rossi 34 seconds
+percent.
+Priya Nair
+0:380:38
+PN
+Priya Nair 38 seconds
+Okay.
+Robert Kahn
+0:400:40
+RK
+Robert Kahn 40 seconds
+Good, kind...
+Robert Kahn 47 seconds
+of like but those are ambient numbers. Where is the fresh waste reduction? That
+Robert Kahn 54 seconds
+is the case I approved.
+Priya Nair
+0:580:58
+PN
+Priya Nair 58 seconds
+Got it.
+Marco Rossi
+1:011:01
+MR
+Marco Rossi 1 minute 1 second
+Fresh is Phase 2. We are scoping it now, UAT will start over the summer.
+Robert Kahn
+1:101:10
+RK
+Robert Kahn 1 minute 10 seconds
+I need it live this this year. The twelve-month ROI clock is ticking.
+Priya Nair
+1:191:19
+PN
+Priya Nair 1 minute 19 seconds
+Yeah.
+Marco Rossi
+1:211:21
+MR
+Marco Rossi 1 minute 21 seconds
+Understood.
+Lena Fischer
+1:261:26
+LF
+Lena Fischer 1 minute 26 seconds
+Yeah, yeah.
+Robert Kahn
+1:291:29
+RK
+Robert Kahn 1 minute 29 seconds
+I want to be precise, because I do not think this has landed. I did,
+Lena Fischer
+1:371:37
+LF
+Lena Fischer 1 minute 37 seconds
+Mm-hm.
+Robert Kahn
+1:411:41
+RK
+Robert Kahn 1 minute 41 seconds
+not approve a project to
+Robert Kahn 1 minute 47 seconds
+reduce ambiant ambiant inventory. Ambient inventory was fine. I approved a project because
+Marco Rossi
+1:541:54
+MR
+Marco Rossi 1 minute 54 seconds
+Okay.
+Robert Kahn
+1:581:58
+RK
+Robert Kahn 1 minute 58 seconds
+we are throwing
+Lena Fischer
+2:032:03
+LF
+Lena Fischer 2 minutes 3 seconds
+Yeah.
+Robert Kahn
+2:062:06
+RK
+Robert Kahn 2 minutes 6 seconds
+away food and it was in newspaper. The number you
+Robert Kahn 2 minutes 15 seconds
+have just given me is good good number and.
+Marco Rossi
+2:242:24
+MR
+Marco Rossi 2 minutes 24 seconds
+Okay so, that is fair.
+Priya Nair
+2:312:31
+PN
+Priya Nair 2 minutes 31 seconds
+Yeah, yeah.
+Lena Fischer
+2:322:32
+LF
+Lena Fischer 2 minutes 32 seconds
+It is a good number though, Robert.
+Robert Kahn
+2:402:40
+RK
+Robert Kahn 2 minutes 40 seconds
+I said it was.
+Priya Nair
+2:452:45
+PN
+Priya Nair 2 minutes 45 seconds
+Okay.
+Marco Rossi
+2:472:47
+MR
+Marco Rossi 2 minutes 47 seconds
+Let me show you where we are on the reporting.
+Robert Kahn
+2:532:53
+RK
+Robert Kahn 2 minutes 53 seconds
+Yeah.
+Marco Rossi
+2:572:57
+MR
+Marco Rossi 2 minutes 57 seconds
+Sharing now.
+Robert Kahn
+3:043:04
+RK
+Robert Kahn 3 minutes 4 seconds
+Yeah.
+Lena Fischer
+3:053:05
+LF
+Lena Fischer 3 minutes 5 seconds
+Coming through.
+Marco Rossi
+3:083:08
+MR
+Marco Rossi 3 minutes 8 seconds
+So this is the results dashboard. This top,
+Marco Rossi 3 minutes 16 seconds
+row is what I just read out. And then this section is the trend over the
+Marco Rossi 3 minutes 25 seconds
+ninety days, and you can see it stabilising here, which matters because the first three weeks
+Marco Rossi 3 minutes 33 seconds
+were noisy.
+Lena Fischer
+3:403:40
+LF
+Lena Fischer 3 minutes 40 seconds
+Yeah, yeah.
+Robert Kahn
+3:413:41
+RK
+Robert Kahn 3 minutes 41 seconds
+Why were they noisy.
+Priya Nair
+3:463:46
+PN
+Priya Nair 3 minutes 46 seconds
+Yeah, yeah.
+Marco Rossi
+3:483:48
+MR
+Marco Rossi 3 minutes 48 seconds
+Master data corrections mostly. It is this dip here.
+Robert Kahn
+3:533:53
+RK
+Robert Kahn 3 minutes 53 seconds
+Mm, okay.
+Robert Kahn
+3:543:54
+RK
+Robert Kahn 3 minutes 54 seconds
+How many stores is this covering.
+Priya Nair
+3:573:57
+PN
+Priya Nair 3 minutes 57 seconds
+Right.
+Marco Rossi
+3:583:58
+MR
+Marco Rossi 3 minutes 58 seconds
+The pilot group. Twenty-five stores.
+Lena Fischer
+4:014:01
+LF
+Lena Fischer 4 minutes 1 second
+Okay, yeah.
+Lena Fischer
+4:054:05
+LF
+Lena Fischer 4 minutes 5 seconds
+Twenty-five?
+Marco Rossi
+4:114:11
+MR
+Marco Rossi 4 minutes 11 seconds
+Twenty-five, yes.
+Priya Nair
+4:184:18
+PN
+Priya Nair 4 minutes 18 seconds
+Mm-hm.
+Lena Fischer
+4:214:21
+LF
+Lena Fischer 4 minutes 21 seconds
+All right.
+Marco Rossi
+4:264:26
+MR
+Marco Rossi 4 minutes 26 seconds
+And then
+Robert Kahn
+4:294:29
+RK
+Robert Kahn 4 minutes 29 seconds
+Yeah.
+Marco Rossi
+4:324:32
+MR
+Marco Rossi 4 minutes 32 seconds
+this bottom panel the automation rate by...
+Robert Kahn
+4:404:40
+RK
+Robert Kahn 4 minutes 40 seconds
+Mm.
+Marco Rossi
+4:434:43
+MR
+Marco Rossi 4 minutes 43 seconds
+category, which is the ninety-one percent broken down.
+Marco Rossi 4 minutes 48 seconds
+You can see which
+Marco Rossi 4 minutes 55 seconds
+ones are dragging.
+Robert Kahn
+4:584:58
+RK
+Robert Kahn 4 minutes 58 seconds
+Fine. Send me the one page version.
+Marco Rossi
+5:045:04
+MR
+Marco Rossi 5 minutes 4 seconds
+I will.
+Lena Fischer
+5:075:07
+LF
+Lena Fischer 5 minutes 7 seconds
+You're on mute.
+Lena Fischer 5 minutes 9 seconds
+Can I raise operational thing while Robert is,
+Robert Kahn
+5:175:17
+RK
+Robert Kahn 5 minutes 17 seconds
+Yeah.
+Lena Fischer
+5:205:20
+LF
+Lena Fischer 5 minutes 20 seconds
+Sorry, what?
+Lena Fischer 5 minutes 22 seconds
+here.
+Marco Rossi
+5:255:25
+MR
+Marco Rossi 5 minutes 25 seconds
+Yeah.
+Robert Kahn
+5:285:28
+RK
+Robert Kahn 5 minutes 28 seconds
+Please.
+Lena Fischer
+5:315:31
+LF
+Lena Fischer 5 minutes 31 seconds
+The DC-2 nightly feed keeps failing. My team gets paged. It is eroding trust
+Priya Nair
+5:405:40
+PN
+Priya Nair 5 minutes 40 seconds
+Mm, okay.
+Lena Fischer
+5:415:41
+LF
+Lena Fischer 5 minutes 41 seconds
+in the data.
+Priya Nair
+5:455:45
+PN
+Priya Nair 5 minutes 45 seconds
+Mm-hm.
+Robert Kahn
+5:465:46
+RK
+Robert Kahn 5 minutes 46 seconds
+So, how often.
+Lena Fischer
+5:515:51
+LF
+Lena Fischer 5 minutes 51 seconds
+Okay, yeah.
+Lena Fischer
+5:555:55
+LF
+Lena Fischer 5 minutes 55 seconds
+Twice, three times a week.
+Robert Kahn
+6:006:00
+RK
+Robert Kahn 6 minutes
+That is not so...
+Lena Fischer
+6:046:04
+LF
+Lena Fischer 6 minutes 4 seconds
+Exactly.
+Priya Nair
+6:066:06
+PN
+Priya Nair 6 minutes 6 seconds
+It is the middleware. We flagged it at kickoff, like it went on the watch list, and the watch list has
+Robert Kahn
+6:166:16
+RK
+Robert Kahn 6 minutes 16 seconds
+Of course.
+Priya Nair
+6:196:19
+PN
+Priya Nair 6 minutes 19 seconds
+worked in the sense that we now know when it fails. But knowing is not fixing. We need a permanent
+Priya Nair 6 minutes 29 seconds
+fix, not nightly restarts.
+Marco Rossi
+6:336:33
+MR
+Marco Rossi 6 minutes 33 seconds
+Where was I.
+Marco Rossi 6 minutes 35 seconds
+Agreed. Let us get a joint.
+Priya Nair
+6:406:40
+PN
+Priya Nair 6 minutes 40 seconds
+And, a date so...
+Marco Rossi
+6:436:43
+MR
+Marco Rossi 6 minutes 43 seconds
+A date.
+Lena Fischer
+6:476:47
+LF
+Lena Fischer 6 minutes 47 seconds
+And the reason I am raising it in...
+Lena Fischer 6 minutes 55 seconds
+front of Robert is that my planners have started keeping their own spreadsheets
+Lena Fischer 7 minutes 5 seconds
+You're on mute.
+Lena Fischer 7 minutes 8 seconds
+again, because they do
+Robert Kahn
+7:127:12
+RK
+Robert Kahn 7 minutes 12 seconds
+Okay, yeah.
+Lena Fischer
+7:157:15
+LF
+Lena Fischer 7 minutes 15 seconds
+not trust the morning numbers. Which undoes the thing we bought.
+Marco Rossi
+7:247:24
+MR
+Marco Rossi 7 minutes 24 seconds
+Yeah.
+Robert Kahn
+7:257:25
+RK
+Robert Kahn 7 minutes 25 seconds
+That is
+Robert Kahn 7 minutes 29 seconds
+the most concerning sentence in this...
+Robert Kahn 7 minutes 36 seconds
+meeting.
+Marco Rossi
+7:407:40
+MR
+Marco Rossi 7 minutes 40 seconds
+Yeah.
+Marco Rossi
+7:447:44
+MR
+Marco Rossi 7 minutes 44 seconds
+Understood.
+Robert Kahn
+7:497:49
+RK
+Robert Kahn 7 minutes 49 seconds
+Right.
+Lena Fischer
+7:537:53
+LF
+Lena Fischer 7 minutes 53 seconds
+One more. Can we formalise the QBR cadence? We agreed quarterly in,
+Robert Kahn
+8:028:02
+RK
+Robert Kahn 8 minutes 2 seconds
+Yeah, yeah.
+Lena Fischer
+8:048:04
+LF
+Lena Fischer 8 minutes 4 seconds
+the SOW and this is the first one,
+Lena Fischer 8 minutes 12 seconds
+I mean ninety days, which is,
+Lena Fischer 8 minutes 15 seconds
+technically on time but it has felt ad hoc.
+Marco Rossi
+8:228:22
+MR
+Marco Rossi 8 minutes 22 seconds
+Right.
+Marco Rossi
+8:248:24
+MR
+Marco Rossi 8 minutes 24 seconds
+Okay so, yes. I will set with the...
+Lena Fischer
+8:328:32
+LF
+Lena Fischer 8 minutes 32 seconds
+You're on mute.
+Lena Fischer 8 minutes 35 seconds
+With Robert invited but not required.
+Marco Rossi
+8:408:40
+MR
+Marco Rossi 8 minutes 40 seconds
+Okay.
+Robert Kahn
+8:448:44
+RK
+Robert Kahn 8 minutes 44 seconds
+I will come to the ones that matter.
+Lena Fischer
+8:508:50
+LF
+Lena Fischer 8 minutes 50 seconds
+Okay, yeah.
+Marco Rossi
+8:528:52
+MR
+Marco Rossi 8 minutes 52 seconds
+Hmm.
+Marco Rossi 8 minutes 57 seconds
+Understood. So actions from my side. Joint engineering session on DC-2 with a dated permanent fix plan. Accelerate the Phase 2 scoping
+Marco Rossi 9 minutes 9 seconds
+and start UAT over the summer. Formalise the QBR. And reframe the ROI reporting
+Priya Nair
+9:179:17
+PN
+Priya Nair 9 minutes 17 seconds
+Agreed.
+Marco Rossi
+9:189:18
+MR
+Marco Rossi 9 minutes 18 seconds
+so fresh waste is the headline once Phase 2 is live
+Robert Kahn
+9:239:23
+RK
+Robert Kahn 9 minutes 23 seconds
+Mm.
+Marco Rossi
+9:269:26
+MR
+Marco Rossi 9 minutes 26 seconds
+rather than a section at the back.
+Lena Fischer
+9:319:31
+LF
+Lena Fischer 9 minutes 31 seconds
+Yeah.
+Robert Kahn
+9:359:35
+RK
+Robert Kahn 9 minutes 35 seconds
+That last one the only one I will remember.
+Marco Rossi
+9:419:41
+MR
+Marco Rossi 9 minutes 41 seconds
+Then that is the one I will
+Robert Kahn
+9:499:49
+RK
+Robert Kahn 9 minutes 49 seconds
+Sure.
+Marco Rossi
+9:509:50
+MR
+Marco Rossi 9 minutes 50 seconds
+do first.
+Robert Kahn
+9:539:53
+RK
+Robert Kahn 9 minutes 53 seconds
+Yeah.
+Robert Kahn
+9:569:56
+RK
+Robert Kahn 9 minutes 56 seconds
+And, sort of I...
+Lena Fischer
+10:0010:00
+LF
+Lena Fischer 10 minutes
+Exactly.
+Robert Kahn
+10:0410:04
+RK
+Robert Kahn 10 minutes 4 seconds
+have to go.
+Lena Fischer
+10:0910:09
+LF
+Lena Fischer 10 minutes 9 seconds
+Thank you Robert.
+Marco Rossi
+10:1510:15
+MR
+Marco Rossi 10 minutes 15 seconds
+Mm-hm.

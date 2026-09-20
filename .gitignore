@@ -12,7 +12,3 @@ node_modules/
 .DS_Store
 __MACOSX/
 .env.bak
-
-# The challenge archive. Remove this line to ship the corpus with the repo so a
-# clone works with no extra steps -- only do that on a PRIVATE repo.
-/corpus/

@@ -1,0 +1,118 @@
+*** SYNTHETIC DATA. Entirely fictional. Acme Org, Meridian Consulting and every
+*** person named are invented. Generated for the RELEX challenge track,
+*** AaltoAI Hackathon 2026.
+
+Subject: Technical assessment - follow up
+From: Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Date: Thursday, August 22, 2024 17:55
+To: Priya Nair <priya.nair@acme-org.example>
+Cc: Marco Rossi <marco.rossi@relexsolutions.example>; Lena Fischer <lena.fischer@acme-org.example>
+Messages in thread: 5
+
+Understood. Logging it as a phase two dependency and closing this thread.
+
+Med vänliga hälsningar,
+Tomas Lindholm
+Solution Architect Bild borttagen av avsändaren.
++46 70 118 44 92
+tomas.lindholm@relexsolutions.example
+Vasagatan 7, 111 20 Stockholm
+Bild borttagen av avsändaren.
+relexsolutions.example
+
+
+From: Priya Nair <priya.nair@acme-org.example>
+Sent: Thursday, August 22, 2024 17:20
+To: Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Cc: Marco Rossi <marco.rossi@relexsolutions.example>; Lena Fischer <lena.fischer@acme-org.example>
+Subject: Re: Technical assessment - follow up
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+He is back and says it is captured but not exposed. Getting it out means either an extract
+that nobody owns, or writing it back into SAP, which is a change request.
+
+I will not be raising a change request for something that is not in the current phase.
+
+Priya Nair
+IT Integration Lead
++49 151 3307 9126
+Acme Org GmbH | Hansaring 82, 50670 Köln
+acme-org.example
+Image
+
+
+Från: Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Skickat: den 20 augusti 2024 09:05
+Till: Priya Nair <priya.nair@acme-org.example>
+Kopia: Marco Rossi <marco.rossi@relexsolutions.example>; Lena Fischer <lena.fischer@acme-org.example>
+Ämne: Re: Technical assessment - follow up
+
+Priya,
+
+It is August. Any word on whether goods receipt date is available outside the WMS?
+
+Med vänliga hälsningar,
+Tomas Lindholm
+Solution Architect Bild borttagen av avsändaren.
++46 70 118 44 92
+tomas.lindholm@relexsolutions.example
+Vasagatan 7, 111 20 Stockholm
+Bild borttagen av avsändaren.
+relexsolutions.example
+
+
+From: Priya Nair <priya.nair@acme-org.example>
+Sent: Monday, May 6, 2024 16:40
+To: Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Cc: Marco Rossi <marco.rossi@relexsolutions.example>; Lena Fischer <lena.fischer@acme-org.example>
+Subject: Re: Technical assessment - follow up
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+Hi,
+
+Agreed on all four. I will own the remediation, whatever Lena says about it.
+
+On the warehouse question, I have asked. The person who owns that system is on secondment
+until August. I will chase in August.
+
+Priya Nair
+IT Integration Lead
++49 151 3307 9126
+Acme Org GmbH | Hansaring 82, 50670 Köln
+acme-org.example
+Image
+
+
+Från: Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Skickat: den 2 maj 2024 10:15
+Till: Priya Nair <priya.nair@acme-org.example>
+Kopia: Marco Rossi <marco.rossi@relexsolutions.example>; Lena Fischer <lena.fischer@acme-org.example>
+Ämne: Technical assessment - follow up
+
+Priya,
+
+Assessment written up as promised. Four conclusions.
+
+ECC 6.0 is fine and we have no concerns about the nightly batch for daily replenishment.
+
+DC-2 goes in as a named risk. Out of support middleware, intermittent failure, silent
+mode. We will design monitoring around it from day one rather than assume it works.
+
+Master data needs a remediation workstream owned on your side. Case pack quantity is the
+blocking gap.
+
+The open question from our call: is remaining shelf life obtainable? You said the total
+sits on the article and the arrival date is in the warehouse system. Could you find out
+whether that is exposed outside the WMS? It changes the phase two design and I would
+rather know in May 2024 than in 2025.
+
+Med vänliga hälsningar,
+Tomas Lindholm
+Solution Architect Bild borttagen av avsändaren.
++46 70 118 44 92
+tomas.lindholm@relexsolutions.example
+Vasagatan 7, 111 20 Stockholm
+Bild borttagen av avsändaren.
+relexsolutions.example

@@ -1,0 +1,124 @@
+*** SYNTHETIC DATA. Entirely fictional. Acme Org, Meridian Consulting and every
+*** person named are invented. Generated for the RELEX challenge track,
+*** AaltoAI Hackathon 2026.
+
+Subject: Processor review - actions
+From: Katarina Voss <katarina.voss@acme-org.example>
+Date: Tuesday, June 23, 2026 10:05 AM
+To: Marco Rossi <marco.rossi@relexsolutions.example>
+Cc: Lena Fischer <lena.fischer@acme-org.example>
+Messages in thread: 4
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+Marco,
+
+Item 3.
+
+Katarina Voss
+Data Protection Officer
+Acme Org GmbH | Hansaring 82, 50670 Köln
+datenschutz@acme-org.example
++49 151 4408 2295
+Diese E-Mail und etwaige Anhänge sind vertraulich und ausschliesslich für den genannten
+Empfänger bestimmt. Sollten Sie nicht der richtige Empfänger sein, ist jede Verwendung,
+Vervielfältigung oder Weitergabe untersagt.
+
+
+Von: Katarina Voss <katarina.voss@acme-org.example>
+Gesendet: Donnerstag, 30. April 2026 09:20
+An: Marco Rossi <marco.rossi@relexsolutions.example>
+Cc: Lena Fischer <lena.fischer@acme-org.example>; Priya Nair <priya.nair@acme-org.example>
+Betreff: Re: Processor review - actions
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+Thank you, that is a good response to three.
+
+On item 4, I want to register a concern rather than an action. If you extract from a
+transcript and then delete the transcript, and the extraction has carried across
+something personal, you have made that permanent and removed the only means of checking.
+Please think about it before you run the backlog.
+
+Item 3 remains open.
+
+Katarina Voss
+Data Protection Officer
+Acme Org GmbH | Hansaring 82, 50670 Köln
+datenschutz@acme-org.example
++49 151 4408 2295
+Diese E-Mail und etwaige Anhänge sind vertraulich und ausschliesslich für den genannten
+Empfänger bestimmt. Sollten Sie nicht der richtige Empfänger sein, ist jede Verwendung,
+Vervielfältigung oder Weitergabe untersagt.
+
+
+From: Marco Rossi <marco.rossi@relexsolutions.example>
+Sent: Wednesday, April 29, 2026 14:15
+To: Katarina Voss <katarina.voss@acme-org.example>
+Cc: Lena Fischer <lena.fischer@acme-org.example>; Priya Nair <priya.nair@acme-org.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Subject: Re: Processor review - actions
+
+Katarina,
+
+Responses to three of four.
+
+1. Hosting is EU West region. It is named in Schedule 2 of the agreement. Extract
+   attached.
+
+2. The fifth sub-processor is Halberd Observability BV, registered in the Netherlands.
+   They process application telemetry and logs. Processing occurs in the Netherlands and
+   Ireland. You were not notified because our notification process only covered
+   sub-processors handling primary customer data, and telemetry was not classified that
+   way. That classification was wrong and we have changed it.
+
+4. Retention period is set at eighteen months from creation, effective 1 May. The
+   existing backlog is being worked through - commitments and decisions extracted into a
+   record, then the underlying transcript deleted.
+
+I owe you item 3 and I do not want to send you a partial answer on it.
+
+Marco Rossi
+Account Executive [Image removed by sender]
++351 912 447 026 | CET/CEST
+marco.rossi@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+[Image removed by sender]
+[Image removed by sender]
+Plan better. Sell more. Waste less
+relexsolutions.example [Image removed by sender]
+LinkedInYouTube
+[Image removed by sender]
+
+
+Von: Katarina Voss <katarina.voss@acme-org.example>
+Gesendet: Donnerstag, 9. April 2026 16:30
+An: Marco Rossi <marco.rossi@relexsolutions.example>
+Cc: Lena Fischer <lena.fischer@acme-org.example>; Priya Nair <priya.nair@acme-org.example>
+Betreff: Processor review - actions
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+Marco,
+
+Following this afternoon, the four actions as I recorded them.
+
+1. Written confirmation of hosting region and whether it is named in the current
+   agreement.
+2. The fifth sub-processor: identity, what they process, where processing occurs, and
+   the transfer mechanism if any of it is outside the EU. Plus why we were not notified.
+3. The erasure request made in November: confirmation that it is fully closed, with a
+   list of every location the data was held.
+4. A stated retention period for meeting recordings and transcripts, and a position on
+   the existing two years of material.
+
+I would like all four within four weeks.
+
+Katarina Voss
+Data Protection Officer
+Acme Org GmbH | Hansaring 82, 50670 Köln
+datenschutz@acme-org.example
++49 151 4408 2295
+Diese E-Mail und etwaige Anhänge sind vertraulich und ausschliesslich für den genannten
+Empfänger bestimmt. Sollten Sie nicht der richtige Empfänger sein, ist jede Verwendung,
+Vervielfältigung oder Weitergabe untersagt.

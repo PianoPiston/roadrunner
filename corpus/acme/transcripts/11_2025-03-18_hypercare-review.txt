@@ -1,0 +1,567 @@
+*** SYNTHETIC DATA. This transcript is entirely fictional. Acme Org, Meridian
+*** Consulting and every person named are invented. Any resemblance to a real
+*** organisation or individual is coincidental. Generated for the RELEX challenge
+*** track, AaltoAI Hackathon 2026.
+
+Meeting: Hypercare review
+Customer: Acme Org (Grocery Retail, EMEA)
+Date: 2025-03-18
+Phase: Live-Services
+Attendees: Ana Duarte (RELEX), Tomas Lindholm (RELEX), Priya Nair (Acme), Lena Fischer (Acme)
+
+Ana Duarte
+0:270:27
+AD
+Ana Duarte 27 seconds
+Two and a half weeks live. This is the call where we decide whether,
+Ana Duarte 35 seconds
+to come off daily hypercare.
+Priya Nair
+0:390:39
+PN
+Priya Nair 39 seconds
+Mm-hm.
+Lena Fischer
+0:400:40
+LF
+Lena Fischer 40 seconds
+Before that,
+Tomas Lindholm
+0:450:45
+TL
+Tomas Lindholm 45 seconds
+Mm, okay.
+Lena Fischer
+0:460:46
+LF
+Lena Fischer 46 seconds
+I want
+Ana Duarte
+0:530:53
+AD
+Ana Duarte 53 seconds
+Yeah, yeah.
+Lena Fischer
+0:570:57
+LF
+Lena Fischer 57 seconds
+want to talk about the feed.
+Tomas Lindholm
+1:041:04
+TL
+Tomas Lindholm 1 minute 4 seconds
+Sure.
+Ana Duarte
+1:071:07
+AD
+Ana Duarte 1 minute 7 seconds
+Go ahead.
+Lena Fischer
+1:131:13
+LF
+Lena Fischer 1 minute 13 seconds
+you know It has failed twice. Once on the sixth,
+Lena Fischer 1 minute 20 seconds
+and once,
+Tomas Lindholm
+1:241:24
+TL
+Tomas Lindholm 1 minute 24 seconds
+Okay.
+Lena Fischer
+1:281:28
+LF
+Lena Fischer 1 minute 28 seconds
+on the fourteenth. Both,
+Lena Fischer 1 minute 32 seconds
+DC-2. On the fourteenth my
+Ana Duarte
+1:381:38
+AD
+Ana Duarte 1 minute 38 seconds
+Yes.
+Lena Fischer
+1:401:40
+LF
+Lena Fischer 1 minute 40 seconds
+my planners had yesterday's
+Lena Fischer 1 minute 46 seconds
+numbers all morning and nobody told them.
+Tomas Lindholm
+1:511:51
+TL
+Tomas Lindholm 1 minute 51 seconds
+Yep.
+Priya Nair
+1:541:54
+PN
+Priya Nair 1 minute 54 seconds
+The monitoring fired.
+Tomas Lindholm
+2:012:01
+TL
+Tomas Lindholm 2 minutes 1 second
+Mm.
+Lena Fischer
+2:022:02
+LF
+Lena Fischer 2 minutes 2 seconds
+The monitoring fired at Kwame, who is in Portugal.
+Ana Duarte
+2:102:10
+AD
+Ana Duarte 2 minutes 10 seconds
+That is,
+Lena Fischer
+2:162:16
+LF
+Lena Fischer 2 minutes 16 seconds
+Yeah.
+Ana Duarte
+2:172:17
+AD
+Ana Duarte 2 minutes 17 seconds
+my fault. I raised the cover question in January and I did not close it.
+Lena Fischer
+2:242:24
+LF
+Lena Fischer 2 minutes 24 seconds
+Yeah, yeah.
+Lena Fischer
+2:282:28
+LF
+Lena Fischer 2 minutes 28 seconds
+actually I am not looking for someone to blame, I am telling you what happened. The...
+Tomas Lindholm
+2:372:37
+TL
+Tomas Lindholm 2 minutes 37 seconds
+Right.
+Lena Fischer
+2:382:38
+LF
+Lena Fischer 2 minutes 38 seconds
+order proposals on the fourteenth were built on
+Ana Duarte
+2:432:43
+AD
+Ana Duarte 2 minutes 43 seconds
+True.
+Lena Fischer
+2:462:46
+LF
+Lena Fischer 2 minutes 46 seconds
+stale stock, so we over-ordered on about forty lines,
+Ana Duarte
+2:512:51
+AD
+Ana Duarte 2 minutes 51 seconds
+Yes.
+Lena Fischer
+2:552:55
+LF
+Lena Fischer 2 minutes 55 seconds
+and two store managers have
+Tomas Lindholm
+3:013:01
+TL
+Tomas Lindholm 3 minutes 1 second
+Mm-hm.
+Lena Fischer
+3:053:05
+LF
+Lena Fischer 3 minutes 5 seconds
+now told their regional manager that the new system does not work.
+Tomas Lindholm
+3:133:13
+TL
+Tomas Lindholm 3 minutes 13 seconds
+That is the expensive part. Not the forty lines.
+Lena Fischer
+3:183:18
+LF
+Lena Fischer 3 minutes 18 seconds
+Yes.
+Ana Duarte
+3:213:21
+AD
+Ana Duarte 3 minutes 21 seconds
+What do you need from
+Lena Fischer
+3:263:26
+LF
+Lena Fischer 3 minutes 26 seconds
+Yes.
+Ana Duarte
+3:283:28
+AD
+Ana Duarte 3 minutes 28 seconds
+us?
+Lena Fischer
+3:333:33
+LF
+Lena Fischer 3 minutes 33 seconds
+Somebody who is not on holiday.
+Priya Nair
+3:383:38
+PN
+Priya Nair 3 minutes 38 seconds
+Yeah.
+Ana Duarte
+3:393:39
+AD
+Ana Duarte 3 minutes 39 seconds
+Tomas is covering until Kwame is back on Monday. From then I want a named second person on...
+Tomas Lindholm
+3:493:49
+TL
+Tomas Lindholm 3 minutes 49 seconds
+Right.
+Ana Duarte
+3:533:53
+AD
+Ana Duarte 3 minutes 53 seconds
+the runbook and I will
+Ana Duarte 3 minutes 59 seconds
+get that agreed internally and then the...
+Lena Fischer
+4:054:05
+LF
+Lena Fischer 4 minutes 5 seconds
+Yeah.
+Lena Fischer
+4:074:07
+LF
+Lena Fischer 4 minutes 7 seconds
+Thank you.
+Priya Nair
+4:124:12
+PN
+Priya Nair 4 minutes 12 seconds
+Yeah.
+Priya Nair
+4:134:13
+PN
+Priya Nair 4 minutes 13 seconds
+Can I add the technical version, sort of because...
+Priya Nair 4 minutes 21 seconds
+matters. The,
+Priya Nair 4 minutes 27 seconds
+failure on the sixth was the middleware. The failure on the fourteenth was...
+Priya Nair 4 minutes 33 seconds
+not. On the fourteenth and...
+Tomas Lindholm
+4:384:38
+TL
+Tomas Lindholm 4 minutes 38 seconds
+Understood.
+Priya Nair
+4:404:40
+PN
+Priya Nair 4 minutes 40 seconds
+files, and one of the three files was empty because an upstream export
+Tomas Lindholm
+4:494:49
+TL
+Tomas Lindholm 4 minutes 49 seconds
+Right.
+Priya Nair
+4:524:52
+PN
+Priya Nair 4 minutes 52 seconds
+had not finished. So we now have two...
+Lena Fischer
+4:564:56
+LF
+Lena Fischer 4 minutes 56 seconds
+Yeah.
+Priya Nair
+4:594:59
+PN
+Priya Nair 4 minutes 59 seconds
+One second.
+Priya Nair 5 minutes 5 seconds
+different failure modes and only one of them is the thing we have been discussing
+Priya Nair 5 minutes 16 seconds
+since April.
+Tomas Lindholm
+5:205:20
+TL
+Tomas Lindholm 5 minutes 20 seconds
+Sure.
+Tomas Lindholm
+5:235:23
+TL
+Tomas Lindholm 5 minutes 23 seconds
+Is the empty file detectable?
+Lena Fischer
+5:305:30
+LF
+Lena Fischer 5 minutes 30 seconds
+Sure.
+Priya Nair
+5:335:33
+PN
+Priya Nair 5 minutes 33 seconds
+Trivially. Nobody
+Ana Duarte
+5:385:38
+AD
+Ana Duarte 5 minutes 38 seconds
+Mm, okay.
+Priya Nair
+5:425:42
+PN
+Priya Nair 5 minutes 42 seconds
+was checking file size.
+Lena Fischer
+5:465:46
+LF
+Lena Fischer 5 minutes 46 seconds
+Yeah.
+Tomas Lindholm
+5:485:48
+TL
+Tomas Lindholm 5 minutes 48 seconds
+Then we check file I mean...
+Priya Nair
+5:525:52
+PN
+Priya Nair 5 minutes 52 seconds
+Yes.
+Tomas Lindholm
+5:555:55
+TL
+Tomas Lindholm 5 minutes 55 seconds
+Yeah.
+Ana Duarte
+5:595:59
+AD
+Ana Duarte 5 minutes 59 seconds
+Both go in the incident log
+Ana Duarte 6 minutes 5 seconds
+with the distinction kept, please, so because in six months somebody will merge them into one
+Ana Duarte 6 minutes 14 seconds
+problem.
+Tomas Lindholm
+6:176:17
+TL
+Tomas Lindholm 6 minutes 17 seconds
+Yeah.
+Priya Nair
+6:186:18
+PN
+Priya Nair 6 minutes 18 seconds
+I will
+Lena Fischer
+6:256:25
+LF
+Lena Fischer 6 minutes 25 seconds
+Mm.
+Priya Nair
+6:266:26
+PN
+Priya Nair 6 minutes 26 seconds
+write it up.
+Ana Duarte
+6:316:31
+AD
+Ana Duarte 6 minutes 31 seconds
+Okay so.
+Ana Duarte 6 minutes 34 seconds
+On hypercare. Two failures in two and a half,
+Priya Nair
+6:426:42
+PN
+Priya Nair 6 minutes 42 seconds
+Yeah.
+Ana Duarte
+6:456:45
+AD
+Ana Duarte 6 minutes 45 seconds
+weeks, both recovered, no data loss.
+Lena Fischer
+6:496:49
+LF
+Lena Fischer 6 minutes 49 seconds
+Sure.
+Ana Duarte
+6:536:53
+AD
+Ana Duarte 6 minutes 53 seconds
+My recommendation is twice weekly for another three weeks, then weekly.
+Lena Fischer
+6:596:59
+LF
+Lena Fischer 6 minutes 59 seconds
+With the cover problem fixed.
+Tomas Lindholm
+7:067:06
+TL
+Tomas Lindholm 7 minutes 6 seconds
+Right.
+Ana Duarte
+7:087:08
+AD
+Ana Duarte 7 minutes 8 seconds
+With the cover problem
+Ana Duarte 7 minutes 13 seconds
+fixed.
+Lena Fischer
+7:187:18
+LF
+Lena Fischer 7 minutes 18 seconds
+Then agreed.
+Tomas Lindholm
+7:227:22
+TL
+Tomas Lindholm 7 minutes 22 seconds
+Sure.
+Tomas Lindholm
+7:267:26
+TL
+Tomas Lindholm 7 minutes 26 seconds
+One more thing, not urgent. The planners in two of the
+Tomas Lindholm 7 minutes 35 seconds
+pilot pilot stores
+Ana Duarte
+7:407:40
+AD
+Ana Duarte 7 minutes 40 seconds
+Yeah.
+Tomas Lindholm
+7:417:41
+TL
+Tomas Lindholm 7 minutes 41 seconds
+have started keeping their own spreadsheets again.
+Priya Nair
+7:487:48
+PN
+Priya Nair 7 minutes 48 seconds
+Fair enough.
+Lena Fischer
+7:527:52
+LF
+Lena Fischer 7 minutes 52 seconds
+I know. I have seen them.
+Tomas Lindholm
+7:597:59
+TL
+Tomas Lindholm 7 minutes 59 seconds
+That usually happens after a trust event rather than
+Priya Nair
+8:078:07
+PN
+Priya Nair 8 minutes 7 seconds
+Mm.
+Tomas Lindholm
+8:098:09
+TL
+Tomas Lindholm 8 minutes 9 seconds
+than because the
+Priya Nair
+8:158:15
+PN
+Priya Nair 8 minutes 15 seconds
+True.
+Tomas Lindholm
+8:168:16
+TL
+Tomas Lindholm 8 minutes 16 seconds
+numbers are wrong.
+Lena Fischer
+8:238:23
+LF
+Lena Fischer 8 minutes 23 seconds
+Sure.
+Lena Fischer
+8:268:26
+LF
+Lena Fischer 8 minutes 26 seconds
+It started on the fifteenth. The day after.
+Priya Nair
+8:348:34
+PN
+Priya Nair 8 minutes 34 seconds
+Yeah.
+Tomas Lindholm
+8:378:37
+TL
+Tomas Lindholm 8 minutes 37 seconds
+Then it is a
+Tomas Lindholm 8 minutes 43 seconds
+trust event, and it will not fix itself by the numbers getting better.
+Lena Fischer
+8:538:53
+LF
+Lena Fischer 8 minutes 53 seconds
+What fixes it?
+Tomas Lindholm
+8:568:56
+TL
+Tomas Lindholm 8 minutes 56 seconds
+Yes.
+Tomas Lindholm
+9:009:00
+TL
+Tomas Lindholm 9 minutes
+Time, you know and them not being surprised again.
+Lena Fischer
+9:099:09
+LF
+Lena Fischer 9 minutes 9 seconds
+Sorry, what?
+Lena Fischer 9 minutes 13 seconds
+Then let us so the...
+Tomas Lindholm
+9:209:20
+TL
+Tomas Lindholm 9 minutes 20 seconds
+One thing before we stop, and it is mine to correct.
+Tomas Lindholm 9 minutes 26 seconds
+At cutover I said a file size check would catch this class of failure.
+Priya Nair
+9:339:33
+PN
+Priya Nair 9 minutes 33 seconds
+It would not have caught either of these.
+Tomas Lindholm
+9:379:37
+TL
+Tomas Lindholm 9 minutes 37 seconds
+No. It would not. Both files were the size I would have expected.
+Tomas Lindholm 9 minutes 44 seconds
+The premise was wrong. A file can be the right size and still be
+Tomas Lindholm 9 minutes 50 seconds
+the wrong file. I would withdraw that recommendation.
+Ana Duarte
+9:579:57
+AD
+Ana Duarte 9 minutes 57 seconds
+It is in the cutover pack.
+Tomas Lindholm
+10:0110:01
+TL
+Tomas Lindholm 10 minutes 1 second
+It is in the cutover pack, the runbook and the hypercare plan, because I
+Tomas Lindholm 10 minutes 8 seconds
+wrote it once and it got copied. Nobody is going to go back and take it
+Tomas Lindholm 10 minutes 14 seconds
+out of three documents.
+Lena Fischer
+10:1910:19
+LF
+Lena Fischer 10 minutes 19 seconds
+So what replaces it?
+Tomas Lindholm
+10:2210:22
+TL
+Tomas Lindholm 10 minutes 22 seconds
+Something that looks inside the file. I do not have it today.
+Priya Nair
+10:2910:29
+PN
+Priya Nair 10 minutes 29 seconds
+Mm.
+Priya Nair 10 minutes 31 seconds
+We will keep the size one in the meantime, because it is there.

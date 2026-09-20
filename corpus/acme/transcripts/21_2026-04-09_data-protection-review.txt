@@ -1,0 +1,761 @@
+*** SYNTHETIC DATA. This transcript is entirely fictional. Acme Org, Northwind
+*** Retail Group, Meridian Consulting and every person named are invented. Any
+*** resemblance to a real organisation or individual is coincidental. Generated
+*** for the RELEX challenge track, AaltoAI Hackathon 2026.
+
+Meeting: Data protection and security review
+Customer: Acme Org (Grocery Retail, EMEA)
+Date: 2026-04-09
+Phase: Live-Services
+Attendees: Lena Fischer (Acme), Priya Nair (Acme), Katarina Voss (Acme, Data Protection Officer), Marco Rossi (RELEX), Tomas Lindholm (RELEX)
+
+Katarina Voss
+0:060:06
+KV
+Katarina Voss 6 seconds
+I will be direct because I have thirty minutes. I am doing an annual review of processors
+Katarina Voss 16 seconds
+and I have questions I have not had answered before.
+Marco Rossi
+0:220:22
+MR
+Marco Rossi 22 seconds
+Go ahead.
+Katarina Voss
+0:260:26
+KV
+Katarina Voss 26 seconds
+First, where does our data physically sit?
+Tomas Lindholm
+0:300:30
+TL
+Tomas Lindholm 30 seconds
+Okay.
+Tomas Lindholm
+0:330:33
+TL
+Tomas Lindholm 33 seconds
+Your environment is hosted in the EU. West Europe region.
+Katarina Voss
+0:390:39
+KV
+Katarina Voss 39 seconds
+Named in the agreement?
+Lena Fischer
+0:460:46
+LF
+Lena Fischer 46 seconds
+Right.
+Tomas Lindholm
+0:480:48
+TL
+Tomas Lindholm 48 seconds
+The region is named, yes.
+Katarina Voss
+0:550:55
+KV
+Katarina Voss 55 seconds
+Second. Sub-processors. Our DPA has an annex listing four. Is that still...
+Lena Fischer
+1:051:05
+LF
+Lena Fischer 1 minute 5 seconds
+Mm-hm.
+Katarina Voss
+1:081:08
+KV
+Katarina Voss 1 minute 8 seconds
+four?
+Tomas Lindholm
+1:151:15
+TL
+Tomas Lindholm 1 minute 15 seconds
+I believe
+Tomas Lindholm 1 minute 19 seconds
+it is five now. There
+Marco Rossi
+1:241:24
+MR
+Marco Rossi 1 minute 24 seconds
+Yes.
+Tomas Lindholm
+1:271:27
+TL
+Tomas Lindholm 1 minute 27 seconds
+is a monitoring monitoring and observability provider that was on the...
+Marco Rossi
+1:371:37
+MR
+Marco Rossi 1 minute 37 seconds
+Yeah.
+Katarina Voss
+1:411:41
+KV
+Katarina Voss 1 minute 41 seconds
+Added when?
+Marco Rossi
+1:481:48
+MR
+Marco Rossi 1 minute 48 seconds
+Yeah.
+Tomas Lindholm
+1:501:50
+TL
+Tomas Lindholm 1 minute 50 seconds
+I would have to check the date.
+Marco Rossi
+1:551:55
+MR
+Marco Rossi 1 minute 55 seconds
+Mm, okay.
+Katarina Voss
+1:581:58
+KV
+Katarina Voss 1 minute 58 seconds
+Were we notified?
+Tomas Lindholm
+2:042:04
+TL
+Tomas Lindholm 2 minutes 4 seconds
+I do not know.
+Katarina Voss
+2:072:07
+KV
+Katarina Voss 2 minutes 7 seconds
+Then that is my first finding. Where is that provider?
+Tomas Lindholm
+2:142:14
+TL
+Tomas Lindholm 2 minutes 14 seconds
+The company is European. I am not certain where all their processing happens and I
+Tomas Lindholm 2 minutes 25 seconds
+would rather find out than guess in front of you.
+Priya Nair
+2:332:33
+PN
+Priya Nair 2 minutes 33 seconds
+Okay, yeah.
+Guest 1
+2:342:34
+G1
+Guest 1 2 minutes 34 seconds
+so Please find out and put it in writing. If any of it...
+Katarina Voss
+2:442:44
+KV
+Katarina Voss 2 minutes 44 seconds
+is.
+Marco Rossi
+2:492:49
+MR
+Marco Rossi 2 minutes 49 seconds
+We will come back within a
+Tomas Lindholm
+2:542:54
+TL
+Tomas Lindholm 2 minutes 54 seconds
+Yeah, yeah.
+Marco Rossi
+2:582:58
+MR
+Marco Rossi 2 minutes 58 seconds
+week.
+Priya Nair
+3:033:03
+PN
+Priya Nair 3 minutes 3 seconds
+Mm.
+Katarina Voss
+3:043:04
+KV
+Katarina Voss 3 minutes 4 seconds
+Third question, and
+Katarina Voss 3 minutes 11 seconds
+this is the one I actually came for. Meeting recordings.
+Lena Fischer
+3:173:17
+LF
+Lena Fischer 3 minutes 17 seconds
+Yeah.
+Lena Fischer
+3:203:20
+LF
+Lena Fischer 3 minutes 20 seconds
+Ah.
+Guest 1
+3:253:25
+G1
+Guest 1 3 minutes 25 seconds
+Yes.
+Guest 1
+3:293:29
+G1
+Guest 1 3 minutes 29 seconds
+actually Every meeting between our teams appears
+Katarina Voss
+3:373:37
+KV
+Katarina Voss 3 minutes 37 seconds
+to be be recorded and transcribed. Who decided
+Lena Fischer
+3:433:43
+LF
+Lena Fischer 3 minutes 43 seconds
+Okay.
+Katarina Voss
+3:473:47
+KV
+Katarina Voss 3 minutes 47 seconds
+that?
+Lena Fischer
+3:533:53
+LF
+Lena Fischer 3 minutes 53 seconds
+Nobody decided. It is on by default.
+Priya Nair
+4:004:00
+PN
+Priya Nair 4 minutes
+Okay.
+Katarina Voss
+4:034:03
+KV
+Katarina Voss 4 minutes 3 seconds
+On whose tenant?
+Marco Rossi
+4:104:10
+MR
+Marco Rossi 4 minutes 10 seconds
+Right.
+Priya Nair
+4:114:11
+PN
+Priya Nair 4 minutes 11 seconds
+like Both, depending on who organises.
+Lena Fischer
+4:174:17
+LF
+Lena Fischer 4 minutes 17 seconds
+Right.
+Katarina Voss
+4:194:19
+KV
+Katarina Voss 4 minutes 19 seconds
+So, so there are transcripts of our staff on your systems and transcripts of your staff on ours, going back how far?
+Marco Rossi
+4:304:30
+MR
+Marco Rossi 4 minutes 30 seconds
+Two years, in our case. Since the first pre-sales
+Marco Rossi 4 minutes 36 seconds
+call.
+Lena Fischer
+4:414:41
+LF
+Lena Fischer 4 minutes 41 seconds
+Yeah.
+Katarina Voss
+4:454:45
+KV
+Katarina Voss 4 minutes 45 seconds
+What is the retention,
+Katarina Voss 4 minutes 48 seconds
+period?
+Marco Rossi
+4:544:54
+MR
+Marco Rossi 4 minutes 54 seconds
+I do not think there is one.
+Tomas Lindholm
+5:005:00
+TL
+Tomas Lindholm 5 minutes
+Yeah.
+Guest 1
+5:045:04
+G1
+Guest 1 5 minutes 4 seconds
+like There is always one. Either,
+Marco Rossi
+5:075:07
+MR
+Marco Rossi 5 minutes 7 seconds
+Exactly.
+Katarina Voss
+5:085:08
+KV
+Katarina Voss 5 minutes 8 seconds
+you have set it or you are keeping it
+Tomas Lindholm
+5:165:16
+TL
+Tomas Lindholm 5 minutes 16 seconds
+Yes.
+Katarina Voss
+5:195:19
+KV
+Katarina Voss 5 minutes 19 seconds
+indefinitely, which is a decision you have made by not making
+Priya Nair
+5:285:28
+PN
+Priya Nair 5 minutes 28 seconds
+Sure.
+Katarina Voss
+5:325:32
+KV
+Katarina Voss 5 minutes 32 seconds
+it.
+Priya Nair
+5:365:36
+PN
+Priya Nair 5 minutes 36 seconds
+Okay, yeah.
+Marco Rossi
+5:405:40
+MR
+Marco Rossi 5 minutes 40 seconds
+So, then we are keeping it indefinitely.
+Katarina Voss
+5:465:46
+KV
+Katarina Voss 5 minutes 46 seconds
+Yeah.
+Katarina Voss
+5:485:48
+KV
+Katarina Voss 5 minutes 48 seconds
+Yeah so, what that is the...
+Lena Fischer
+5:515:51
+LF
+Lena Fischer 5 minutes 51 seconds
+Everything. Whatever anyone said.
+Katarina Voss
+5:555:55
+KV
+Katarina Voss 5 minutes 55 seconds
+Yep.
+Katarina Voss
+5:595:59
+KV
+Katarina Voss 5 minutes 59 seconds
+Give me an example of something in there that so...
+Priya Nair
+6:056:05
+PN
+Priya Nair 6 minutes 5 seconds
+One of my team explained on if the...
+Priya Nair 6 minutes 14 seconds
+needed to move a so...
+Marco Rossi
+6:216:21
+MR
+Marco Rossi 6 minutes 21 seconds
+Yeah.
+Priya Nair
+6:256:25
+PN
+Priya Nair 6 minutes 25 seconds
+was a family court date. That is in a transcript somewhere.
+Katarina Voss
+6:326:32
+KV
+Katarina Voss 6 minutes 32 seconds
+kind of like Whose?
+Marco Rossi
+6:376:37
+MR
+Marco Rossi 6 minutes 37 seconds
+Yeah.
+Priya Nair
+6:416:41
+PN
+Priya Nair 6 minutes 41 seconds
+Elin Bergqvist. She is
+Tomas Lindholm
+6:476:47
+TL
+Tomas Lindholm 6 minutes 47 seconds
+Yeah.
+Priya Nair
+6:486:48
+PN
+Priya Nair 6 minutes 48 seconds
+my integration team. It was the workshop on the eleventh September, sort of so it is in
+Priya Nair 6 minutes 59 seconds
+that recording.
+Katarina Voss
+7:067:06
+KV
+Katarina Voss 7 minutes 6 seconds
+And she does not know it...
+Guest 1
+7:127:12
+G1
+Guest 1 7 minutes 12 seconds
+is there.
+Priya Nair
+7:177:17
+PN
+Priya Nair 7 minutes 17 seconds
+Yes.
+Priya Nair
+7:217:21
+PN
+Priya Nair 7 minutes 21 seconds
+She does not know it exists.
+Katarina Voss
+7:277:27
+KV
+Katarina Voss 7 minutes 27 seconds
+Hmm.
+Katarina Voss 7 minutes 30 seconds
+Yes. That is the kind of thing.
+Marco Rossi
+7:357:35
+MR
+Marco Rossi 7 minutes 35 seconds
+We also
+Marco Rossi 7 minutes 40 seconds
+had a request in November from one of your colleagues to remove a health reference from our notes.
+Katarina Voss
+7:527:52
+KV
+Katarina Voss 7 minutes 52 seconds
+Yeah.
+Guest 1
+7:537:53
+G1
+Guest 1 7 minutes 53 seconds
+Was it removed?
+Marco Rossi
+8:008:00
+MR
+Marco Rossi 8 minutes
+From the notes we knew about. I committed to finding the others...
+Katarina Voss
+8:068:06
+KV
+Katarina Voss 8 minutes 6 seconds
+True.
+Marco Rossi
+8:088:08
+MR
+Marco Rossi 8 minutes 8 seconds
+and I have not closed
+Katarina Voss
+8:158:15
+KV
+Katarina Voss 8 minutes 15 seconds
+So a data subject made an erasure request in November and...
+Katarina Voss 8 minutes 21 seconds
+Sorry, what?
+Katarina Voss 8 minutes 24 seconds
+it is April.
+Marco Rossi
+8:298:29
+MR
+Marco Rossi 8 minutes 29 seconds
+Okay so, yes.
+Katarina Voss
+8:348:34
+KV
+Katarina Voss 8 minutes 34 seconds
+Okay, yeah.
+Katarina Voss
+8:388:38
+KV
+Katarina Voss 8 minutes 38 seconds
+I appreciate you telling me rather for the...
+Katarina Voss 8 minutes 46 seconds
+I will send you the four actions in writing this afternoon so there
+Lena Fischer
+8:568:56
+LF
+Lena Fischer 8 minutes 56 seconds
+Okay, yeah.
+Katarina Voss
+8:598:59
+KV
+Katarina Voss 8 minutes 59 seconds
+is no ambiguity about what I asked for.
+Marco Rossi
+9:049:04
+MR
+Marco Rossi 9 minutes 4 seconds
+Okay so, basically Please do.
+Tomas Lindholm
+9:079:07
+TL
+Tomas Lindholm 9 minutes 7 seconds
+Yeah.
+Marco Rossi
+9:089:08
+MR
+Marco Rossi 9 minutes 8 seconds
+It would have been worse to have you find it.
+Lena Fischer
+9:139:13
+LF
+Lena Fischer 9 minutes 13 seconds
+Yeah.
+Katarina Voss
+9:169:16
+KV
+Katarina Voss 9 minutes 16 seconds
+It would. Here is what I want. A retention period, stated.
+Tomas Lindholm
+9:249:24
+TL
+Tomas Lindholm 9 minutes 24 seconds
+Yeah.
+Katarina Voss
+9:259:25
+KV
+Katarina Voss 9 minutes 25 seconds
+A written answer on
+Katarina Voss 9 minutes 30 seconds
+the fifth sub-processor. Confirmation that the November request request is fully closed, with a list
+Tomas Lindholm
+9:419:41
+TL
+Tomas Lindholm 9 minutes 41 seconds
+Okay.
+Katarina Voss
+9:439:43
+KV
+Katarina Voss 9 minutes 43 seconds
+of where the data was. And going forward, a position on what happens but the...
+Guest 1
+9:559:55
+G1
+Guest 1 9 minutes 55 seconds
+So...
+Katarina Voss
+9:579:57
+KV
+Katarina Voss 9 minutes 57 seconds
+at the
+Tomas Lindholm
+10:0110:01
+TL
+Tomas Lindholm 10 minutes 1 second
+Mm, okay.
+Katarina Voss
+10:0510:05
+KV
+Katarina Voss 10 minutes 5 seconds
+moment the position is that we...
+Priya Nair
+10:1210:12
+PN
+Priya Nair 10 minutes 12 seconds
+Right.
+Katarina Voss
+10:1610:16
+KV
+Katarina Voss 10 minutes 16 seconds
+accumulate everything and hope.
+Priya Nair
+10:2310:23
+PN
+Priya Nair 10 minutes 23 seconds
+Sure.
+Tomas Lindholm
+10:2510:25
+TL
+Tomas Lindholm 10 minutes 25 seconds
+That is a,
+Priya Nair
+10:2810:28
+PN
+Priya Nair 10 minutes 28 seconds
+Mm, okay.
+Tomas Lindholm
+10:2910:29
+TL
+Tomas Lindholm 10 minutes 29 seconds
+fair summary of the position.
+Priya Nair
+10:3610:36
+PN
+Priya Nair 10 minutes 36 seconds
+Okay.
+Katarina Voss
+10:3710:37
+KV
+Katarina Voss 10 minutes 37 seconds
+One more thing. I have seen a document that describes one...
+Katarina Voss 10 minutes 46 seconds
+of your own people as, I mean and
+Katarina Voss 10 minutes 54 seconds
+I am paraphrasing, the person whose judgement determines whether the project succeeds.
+Marco Rossi
+11:0311:03
+MR
+Marco Rossi 11 minutes 3 seconds
+Well, right...
+Lena Fischer
+11:1011:10
+LF
+Lena Fischer 11 minutes 10 seconds
+Yeah.
+Marco Rossi
+11:1311:13
+MR
+Marco Rossi 11 minutes 13 seconds
+That would,
+Marco Rossi 11 minutes 20 seconds
+be about one of your people, not ours.
+Tomas Lindholm
+11:2611:26
+TL
+Tomas Lindholm 11 minutes 26 seconds
+Okay.
+Guest 1
+11:2711:27
+G1
+Guest 1 11 minutes 27 seconds
+It does not name her.
+Marco Rossi
+11:3411:34
+MR
+Marco Rossi 11 minutes 34 seconds
+No.
+Katarina Voss
+11:3711:37
+KV
+Katarina Voss 11 minutes 37 seconds
+you know It says the fresh category
+Tomas Lindholm
+11:4211:42
+TL
+Tomas Lindholm 11 minutes 42 seconds
+Yeah.
+Guest 1
+11:4611:46
+G1
+Guest 1 11 minutes 46 seconds
+manager with sole knowledge of the categories.
+Katarina Voss
+11:5311:53
+KV
+Katarina Voss 11 minutes 53 seconds
+We have one of
+Katarina Voss 11 minutes 57 seconds
+those. So it names her perfectly well without using her name,
+Tomas Lindholm
+12:0512:05
+TL
+Tomas Lindholm 12 minutes 5 seconds
+Sure.
+Katarina Voss
+12:0912:09
+KV
+Katarina Voss 12 minutes 9 seconds
+and it is an assessment of an individual's competence held by a third party, which she has never seen.
+Marco Rossi
+12:2212:22
+MR
+Marco Rossi 12 minutes 22 seconds
+Yes.
+Marco Rossi
+12:2312:23
+MR
+Marco Rossi 12 minutes 23 seconds
+That is correct and I had not thought about it that way.
+Priya Nair
+12:3012:30
+PN
+Priya Nair 12 minutes 30 seconds
+Right.
+Katarina Voss
+12:3312:33
+KV
+Katarina Voss 12 minutes 33 seconds
+Most people have not. Removing a name is not anonymisation if one person fits the description.
+Lena Fischer
+12:4512:45
+LF
+Lena Fischer 12 minutes 45 seconds
+Katarina, is this going to stop the project.
+Marco Rossi
+12:5312:53
+MR
+Marco Rossi 12 minutes 53 seconds
+Yes.
+Guest 1
+12:5512:55
+G1
+Guest 1 12 minutes 55 seconds
+No. It is going to generate four actions and some discomfort, which is my job.
+Tomas Lindholm
+13:0613:06
+TL
+Tomas Lindholm 13 minutes 6 seconds
+Understood.
+Katarina Voss
+13:1213:12
+KV
+Katarina Voss 13 minutes 12 seconds
+There is a fifth thing and I am not going to make it an action, because I
+Katarina Voss 13 minutes 19 seconds
+cannot work out who it would be for.
+Marco Rossi
+13:2613:26
+MR
+Marco Rossi 13 minutes 26 seconds
+Go on.
+Katarina Voss
+13:2913:29
+KV
+Katarina Voss 13 minutes 29 seconds
+We have agreed a retention period. Twelve months on the recordings.
+Katarina Voss 13 minutes 36 seconds
+I have been trying to find where that actually happens and I cannot find
+Katarina Voss 13 minutes 42 seconds
+anywhere that it does.
+Priya Nair
+13:4913:49
+PN
+Priya Nair 13 minutes 49 seconds
+It is four different teams writing into the same place.
+Guest 1
+13:5513:55
+G1
+Guest 1 13 minutes 55 seconds
+Yes. And they each write a different shape, so there is no one record I
+Guest 1 14 minutes 2 seconds
+can attach the rule to. If they all looked the same I could put a date on
+Guest 1 14 minutes 8 seconds
+it and be finished.
+Tomas Lindholm
+14:1514:15
+TL
+Tomas Lindholm 14 minutes 15 seconds
+Could we change the shape?
+Guest 1
+14:1914:19
+G1
+Guest 1 14 minutes 19 seconds
+The one that went first cannot carry a date at all. It was never designed
+Guest 1 14 minutes 26 seconds
+to. And everything since has copied it.
+Lena Fischer
+14:3414:34
+LF
+Lena Fischer 14 minutes 34 seconds
+So we have a commitment and no way to keep it.
+Guest 1
+14:4014:40
+G1
+Guest 1 14 minutes 40 seconds
+We have a commitment and nobody whose job it is. Those are different
+Guest 1 14 minutes 47 seconds
+problems and I would like the second one solved first.
+Marco Rossi
+14:5514:55
+MR
+Marco Rossi 14 minutes 55 seconds
+Mm.

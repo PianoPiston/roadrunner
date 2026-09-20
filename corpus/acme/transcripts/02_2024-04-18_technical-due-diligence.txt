@@ -1,0 +1,644 @@
+*** SYNTHETIC DATA. This transcript is entirely fictional. Acme Org, Meridian
+*** Consulting and every person named are invented. Any resemblance to a real
+*** organisation or individual is coincidental. Generated for the RELEX challenge
+*** track, AaltoAI Hackathon 2026.
+
+Meeting: Technical due diligence
+Customer: Acme Org (Grocery Retail, EMEA)
+Date: 2024-04-18
+Phase: Pre-Sales
+Attendees: Tomas Lindholm (RELEX), Marco Rossi (RELEX), Priya Nair (Acme), Lena Fischer (Acme)
+
+Tomas Lindholm
+0:410:41
+TL
+Tomas Lindholm 41 seconds
+— so if we can start with the estate and work inwards.
+Priya Nair
+0:510:51
+PN
+Priya Nair 51 seconds
+Sorry, who am I talking talking to? I
+Tomas Lindholm
+0:580:58
+TL
+Tomas Lindholm 58 seconds
+Okay.
+Priya Nair
+1:011:01
+PN
+Priya Nair 1 minute 1 second
+got the invite from Marco but I
+Priya Nair 1 minute 5 seconds
+have not met you.
+Marco Rossi
+1:111:11
+MR
+Marco Rossi 1 minute 11 seconds
+Yeah.
+Tomas Lindholm
+1:151:15
+TL
+Tomas Lindholm 1 minute 15 seconds
+I mean, tomas Lindholm, solution architect. I do the part
+Tomas Lindholm 1 minute 23 seconds
+where we find out whether what Marco has
+Marco Rossi
+1:291:29
+MR
+Marco Rossi 1 minute 29 seconds
+True.
+Tomas Lindholm
+1:311:31
+TL
+Tomas Lindholm 1 minute 31 seconds
+promised is possible.
+Priya Nair
+1:381:38
+PN
+Priya Nair 1 minute 38 seconds
+Good. I have questions for...
+Tomas Lindholm
+1:421:42
+TL
+Tomas Lindholm 1 minute 42 seconds
+Yes.
+Priya Nair
+1:441:44
+PN
+Priya Nair 1 minute 44 seconds
+that person.
+Marco Rossi
+1:511:51
+MR
+Marco Rossi 1 minute 51 seconds
+I did warn you.
+Tomas Lindholm
+1:571:57
+TL
+Tomas Lindholm 1 minute 57 seconds
+Let us
+Lena Fischer
+2:002:00
+LF
+Lena Fischer 2 minutes
+Yeah, yeah.
+Tomas Lindholm
+2:042:04
+TL
+Tomas Lindholm 2 minutes 4 seconds
+start with the ERP.
+Priya Nair
+2:082:08
+PN
+Priya Nair 2 minutes 8 seconds
+SAP. ECC six,
+Lena Fischer
+2:122:12
+LF
+Lena Fischer 2 minutes 12 seconds
+Understood.
+Priya Nair
+2:132:13
+PN
+Priya Nair 2 minutes 13 seconds
+point zero.
+Tomas Lindholm
+2:202:20
+TL
+Tomas Lindholm 2 minutes 20 seconds
+Fair enough.
+Tomas Lindholm
+2:222:22
+TL
+Tomas Lindholm 2 minutes 22 seconds
+Not S/4.
+Priya Nair
+2:292:29
+PN
+Priya Nair 2 minutes 29 seconds
+No, and I want to be clear about that
+Priya Nair 2 minutes 36 seconds
+now rather than in
+Priya Nair 2 minutes 43 seconds
+month three, you,
+Tomas Lindholm
+2:492:49
+TL
+Tomas Lindholm 2 minutes 49 seconds
+True.
+Priya Nair
+2:502:50
+PN
+Priya Nair 2 minutes 50 seconds
+know because every vendor assumes. There is no,
+Priya Nair 2 minutes 57 seconds
+Sorry, go ahead.
+Priya Nair 3 minutes 1 second
+S/4 migration the roadmap. There is a slide somewhere
+Priya Nair 3 minutes 9 seconds
+that says 2029 and but...
+Priya Nair 3 minutes 12 seconds
+not plan around it.
+Tomas Lindholm
+3:153:15
+TL
+Tomas Lindholm 3 minutes 15 seconds
+Okay, yeah.
+Tomas Lindholm
+3:173:17
+TL
+Tomas Lindholm 3 minutes 17 seconds
+ECC is fine.
+Marco Rossi
+3:213:21
+MR
+Marco Rossi 3 minutes 21 seconds
+Right.
+Tomas Lindholm
+3:243:24
+TL
+Tomas Lindholm 3 minutes 24 seconds
+Most of our retail base is on it.
+Priya Nair
+3:313:31
+PN
+Priya Nair 3 minutes 31 seconds
+Then you are the first...
+Marco Rossi
+3:363:36
+MR
+Marco Rossi 3 minutes 36 seconds
+Yeah.
+Priya Nair
+3:393:39
+PN
+Priya Nair 3 minutes 39 seconds
+who has said that without pausing.
+Tomas Lindholm
+3:423:42
+TL
+Tomas Lindholm 3 minutes 42 seconds
+How do we get data out?
+Marco Rossi
+3:453:45
+MR
+Marco Rossi 3 minutes 45 seconds
+Mm, okay.
+Priya Nair
+3:473:47
+PN
+Priya Nair 3 minutes 47 seconds
+Nightly batch. There
+Priya Nair 3 minutes 50 seconds
+is an extract that runs at two in the morning
+Priya Nair 3 minutes 56 seconds
+and produces master so the...
+Lena Fischer
+4:014:01
+LF
+Lena Fischer 4 minutes 1 second
+Yeah.
+Priya Nair
+4:054:05
+PN
+Priya Nair 4 minutes 5 seconds
+That is the mechanism, and it is the only mechanism.
+Lena Fischer
+4:124:12
+LF
+Lena Fischer 4 minutes 12 seconds
+Sure.
+Tomas Lindholm
+4:154:15
+TL
+Tomas Lindholm 4 minutes 15 seconds
+No real-time interface.
+Priya Nair
+4:204:20
+PN
+Priya Nair 4 minutes 20 seconds
+No, and there will not be one for this
+Priya Nair 4 minutes 26 seconds
+project. Building one is a separate business so...
+Priya Nair 4 minutes 32 seconds
+does not
+Tomas Lindholm
+4:364:36
+TL
+Tomas Lindholm 4 minutes 36 seconds
+Mm, okay.
+Priya Nair
+4:374:37
+PN
+Priya Nair 4 minutes 37 seconds
+have the people.
+Marco Rossi
+4:424:42
+MR
+Marco Rossi 4 minutes 42 seconds
+Okay, yeah.
+Tomas Lindholm
+4:444:44
+TL
+Tomas Lindholm 4 minutes 44 seconds
+Understood. For daily replenishmentt a nightly...
+Tomas Lindholm 4 minutes 49 seconds
+batch is workable.
+Marco Rossi
+4:564:56
+MR
+Marco Rossi 4 minutes 56 seconds
+Yeah.
+Priya Nair
+4:584:58
+PN
+Priya Nair 4 minutes 58 seconds
+Then we agree.
+Tomas Lindholm
+5:015:01
+TL
+Tomas Lindholm 5 minutes 1 second
+Distribution centres.
+Marco Rossi
+5:065:06
+MR
+Marco Rossi 5 minutes 6 seconds
+Got it.
+Priya Nair
+5:105:10
+PN
+Priya Nair 5 minutes 10 seconds
+Two. DC-1 and DC-2.
+Tomas Lindholm
+5:175:17
+TL
+Tomas Lindholm 5 minutes 17 seconds
+Same setup?
+Priya Nair
+5:205:20
+PN
+Priya Nair 5 minutes 20 seconds
+No, and this is the thing so...
+Lena Fischer
+5:285:28
+LF
+Lena Fischer 5 minutes 28 seconds
+Okay, yeah.
+Priya Nair
+5:295:29
+PN
+Priya Nair 5 minutes 29 seconds
+migrated onto...
+Tomas Lindholm
+5:335:33
+TL
+Tomas Lindholm 5 minutes 33 seconds
+Sure.
+Priya Nair
+5:375:37
+PN
+Priya Nair 5 minutes 37 seconds
+current middleware two years ago. DC-2 was
+Tomas Lindholm
+5:445:44
+TL
+Tomas Lindholm 5 minutes 44 seconds
+Mm, okay.
+Priya Nair
+5:485:48
+PN
+Priya Nair 5 minutes 48 seconds
+not, because it was
+Priya Nair 5 minutes 54 seconds
+supposed to be closing.
+Lena Fischer
+6:016:01
+LF
+Lena Fischer 6 minutes 1 second
+It did not not close.
+Priya Nair
+6:066:06
+PN
+Priya Nair 6 minutes 6 seconds
+It did did not close. So DC-2 runs on a version that is out of
+Priya Nair 6 minutes 17 seconds
+support, and the integration integration fails. Not constantly. Maybe every couple of weeks. And when it,
+Priya Nair 6 minutes 29 seconds
+fails it fails silently, which is worse than failing loudly.
+Lena Fischer
+6:366:36
+LF
+Lena Fischer 6 minutes 36 seconds
+Yeah.
+Tomas Lindholm
+6:406:40
+TL
+Tomas Lindholm 6 minutes 40 seconds
+Silently meaning no error?
+Priya Nair
+6:476:47
+PN
+Priya Nair 6 minutes 47 seconds
+Meaning the job reports success and moves nothing. We find out when somebody notices the numbers are yesterday's.
+Tomas Lindholm
+6:596:59
+TL
+Tomas Lindholm 6 minutes 59 seconds
+How do you find out today?
+Priya Nair
+7:057:05
+PN
+Priya Nair 7 minutes 5 seconds
+It's somewhere here.
+Priya Nair 7 minutes 16 seconds
+A person looks.
+Tomas Lindholm
+7:217:21
+TL
+Tomas Lindholm 7 minutes 21 seconds
+Yeah, yeah.
+Tomas Lindholm
+7:237:23
+TL
+Tomas Lindholm 7 minutes 23 seconds
+Right.
+Priya Nair
+7:287:28
+PN
+Priya Nair 7 minutes 28 seconds
+I have asked for for budget to upgrade three times. There has with the...
+Marco Rossi
+7:377:37
+MR
+Marco Rossi 7 minutes 37 seconds
+Mm.
+Priya Nair
+7:407:40
+PN
+Priya Nair 7 minutes 40 seconds
+nothing important depended on it.
+Marco Rossi
+7:437:43
+MR
+Marco Rossi 7 minutes 43 seconds
+Mm, okay.
+Lena Fischer
+7:477:47
+LF
+Lena Fischer 7 minutes 47 seconds
+Well, and now something will.
+Tomas Lindholm
+7:507:50
+TL
+Tomas Lindholm 7 minutes 50 seconds
+Yeah.
+Priya Nair
+7:527:52
+PN
+Priya Nair 7 minutes 52 seconds
+Now something will, which is why,
+Tomas Lindholm
+7:597:59
+TL
+Tomas Lindholm 7 minutes 59 seconds
+Yeah.
+Priya Nair
+8:008:00
+PN
+Priya Nair 8 minutes
+I am telling him rather than complaining about it.
+Tomas Lindholm
+8:068:06
+TL
+Tomas Lindholm 8 minutes 6 seconds
+Then it goes in the
+Tomas Lindholm 8 minutes 11 seconds
+assessment as a named risk and we design monitoring around it from day one. I would...
+Tomas Lindholm 8 minutes 23 seconds
+Okay so.
+Tomas Lindholm 8 minutes 25 seconds
+rather build assuming it fails than discover it.
+Priya Nair
+8:338:33
+PN
+Priya Nair 8 minutes 33 seconds
+That is the correct answer.
+Tomas Lindholm
+8:368:36
+TL
+Tomas Lindholm 8 minutes 36 seconds
+Mm-hm.
+Tomas Lindholm
+8:388:38
+TL
+Tomas Lindholm 8 minutes 38 seconds
+Master data. Honestly, how bad?
+Priya Nair
+8:448:44
+PN
+Priya Nair 8 minutes 44 seconds
+True.
+Priya Nair
+8:478:47
+PN
+Priya Nair 8 minutes 47 seconds
+Product master is average. Store on the...
+Priya Nair 8 minutes 55 seconds
+of the range, I would guess a third but I have not measured. Shelf life is worse...
+Lena Fischer
+9:059:05
+LF
+Lena Fischer 9 minutes 5 seconds
+Okay, yeah.
+Priya Nair
+9:099:09
+PN
+Priya Nair 9 minutes 9 seconds
+than that.
+Tomas Lindholm
+9:149:14
+TL
+Tomas Lindholm 9 minutes 14 seconds
+Mm.
+Tomas Lindholm
+9:169:16
+TL
+Tomas Lindholm 9 minutes 16 seconds
+How much worse.
+Priya Nair
+9:219:21
+PN
+Priya Nair 9 minutes 21 seconds
+you know Populated for maybe half, and wrong for
+Priya Nair 9 minutes 27 seconds
+some of what is populated, because nobody has owned that
+Priya Nair 9 minutes 33 seconds
+field since was created.
+Tomas Lindholm
+9:399:39
+TL
+Tomas Lindholm 9 minutes 39 seconds
+Yeah.
+Marco Rossi
+9:409:40
+MR
+Marco Rossi 9 minutes 40 seconds
+Yeah.
+Marco Rossi 9 minutes 42 seconds
+Shelf life
+Marco Rossi 9 minutes 46 seconds
+is central to the fresh case.
+Priya Nair
+9:529:52
+PN
+Priya Nair 9 minutes 52 seconds
+I know. That is why I
+Priya Nair 9 minutes 55 seconds
+am saying,
+Priya Nair 10 minutes
+it in April.
+Tomas Lindholm
+10:0510:05
+TL
+Tomas Lindholm 10 minutes 5 seconds
+Is remaining shelf life stored
+Priya Nair
+10:0810:08
+PN
+Priya Nair 10 minutes 8 seconds
+Yeah.
+Tomas Lindholm
+10:1110:11
+TL
+Tomas Lindholm 10 minutes 11 seconds
+Sorry, go ahead.
+Tomas Lindholm 10 minutes 14 seconds
+anywhere? As opposed to total.
+Priya Nair
+10:2110:21
+PN
+Priya Nair 10 minutes 21 seconds
+What do you mean by...
+Priya Nair 10 minutes 26 seconds
+So...
+Priya Nair 10 minutes 28 seconds
+remaining.
+Tomas Lindholm
+10:3310:33
+TL
+Tomas Lindholm 10 minutes 33 seconds
+Yeah, yeah.
+Tomas Lindholm
+10:3510:35
+TL
+Tomas Lindholm 10 minutes 35 seconds
+Days of life left at the moment you place
+Tomas Lindholm 10 minutes 42 seconds
+an order.
+Lena Fischer
+10:4910:49
+LF
+Lena Fischer 10 minutes 49 seconds
+Mm-hm.
+Priya Nair
+10:5210:52
+PN
+Priya Nair 10 minutes 52 seconds
+Then no. We store total on the article. What is I mean...
+Priya Nair 10 minutes 59 seconds
+warehouse system.
+Lena Fischer
+11:0311:03
+LF
+Lena Fischer 11 minutes 3 seconds
+Of course.
+Tomas Lindholm
+11:0411:04
+TL
+Tomas Lindholm 11 minutes 4 seconds
+Can we get at that?
+Priya Nair
+11:1111:11
+PN
+Priya Nair 11 minutes 11 seconds
+Okay, yeah.
+Priya Nair
+11:1511:15
+PN
+Priya Nair 11 minutes 15 seconds
+I do not know. but...
+Tomas Lindholm
+11:1811:18
+TL
+Tomas Lindholm 11 minutes 18 seconds
+Can you find out?
+Priya Nair
+11:2211:22
+PN
+Priya Nair 11 minutes 22 seconds
+I can ask.
+Tomas Lindholm
+11:2811:28
+TL
+Tomas Lindholm 11 minutes 28 seconds
+Please, right because it changes the design.
+Priya Nair
+11:3311:33
+PN
+Priya Nair 11 minutes 33 seconds
+Noted.
+Lena Fischer
+11:3811:38
+LF
+Lena Fischer 11 minutes 38 seconds
+Okay, yeah.
+Lena Fischer
+11:3911:39
+LF
+Lena Fischer 11 minutes 39 seconds
+Yeah.
+Lena Fischer 11 minutes 41 seconds
+How long does an assessment like this take to write up?
+Tomas Lindholm
+11:4711:47
+TL
+Tomas Lindholm 11 minutes 47 seconds
+You will have it in two weeks. It will say ECC is fine,
+Marco Rossi
+11:5311:53
+MR
+Marco Rossi 11 minutes 53 seconds
+Yes.
+Tomas Lindholm
+11:5711:57
+TL
+Tomas Lindholm 11 minutes 57 seconds
+the batch is workable, DC-2 is a named,
+Tomas Lindholm 12 minutes 4 seconds
+risk, and and master data needs a cleansing workstream that somebody at Acme has to...
+Lena Fischer
+12:1212:12
+LF
+Lena Fischer 12 minutes 12 seconds
+Mm-hm.
+Tomas Lindholm
+12:1512:15
+TL
+Tomas Lindholm 12 minutes 15 seconds
+own.
+Priya Nair
+12:1912:19
+PN
+Priya Nair 12 minutes 19 seconds
+That will be me.
+Lena Fischer
+12:2612:26
+LF
+Lena Fischer 12 minutes 26 seconds
+Yeah so, we will discuss that.
+Priya Nair
+12:2912:29
+PN
+Priya Nair 12 minutes 29 seconds
+It will be me.

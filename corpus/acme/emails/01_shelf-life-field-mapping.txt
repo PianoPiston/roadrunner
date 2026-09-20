@@ -1,0 +1,287 @@
+*** SYNTHETIC DATA. Entirely fictional. Acme Org, Meridian Consulting and every
+*** person named are invented. Generated for the RELEX challenge track,
+*** AaltoAI Hackathon 2026.
+
+Subject: Shelf life field mapping - fresh export
+From: Nadia Haddad <n.haddad@relexsolutions.example>
+Date: Thursday, October 30, 2025 12:02 PM
+To: Ana Duarte <ana.duarte@relexsolutions.example>
+Cc: Priya Nair <priya.nair@acme-org.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>; Lena Fischer <lena.fischer@acme-org.example>
+Messages in thread: 12
+
+We proceeded. Nobody objected.
+
+Nadia Haddad
+Solution Consultant [Image removed by sender]
++46 76 552 30 18 | CET
+n.haddad@relexsolutions.example
+Vasagatan 7, 111 20 Stockholm
+[Image removed by sender]
+Plan better. Sell more. Waste less
+relexsolutions.example
+
+
+From: Ana Duarte <ana.duarte@relexsolutions.example>
+Sent: Thursday, October 30, 2025 11:45 AM
+To: Nadia Haddad <n.haddad@relexsolutions.example>
+Cc: Priya Nair <priya.nair@acme-org.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>; Lena Fischer <lena.fischer@acme-org.example>
+Subject: Re: Shelf life field mapping - fresh export
+
+Hi,
+
+Coming back to this old thread. Was the approximation approach ever confirmed by Acme,
+or did we just proceed? I am writing up the config decisions and I cannot find an
+agreement anywhere.
+
+Nadia?
+
+Best regards,
+Ana Duarte
+Project Manager [Image removed by sender]
++351 913 882 145 | UTC +01:00
+ana.duarte@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+[Image removed by sender]
+[Image removed by sender]
+Plan better. Sell more. Waste less
+relexsolutions.example [Image removed by sender]
+LinkedInYouTube
+
+
+From: Priya Nair <priya.nair@acme-org.example>
+Sent: Thursday, September 11, 2025 17:22
+To: Ana Duarte <ana.duarte@relexsolutions.example>
+Cc: Nadia Haddad <n.haddad@relexsolutions.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>; Lena Fischer <lena.fischer@acme-org.example>; Kwame Boateng <k.boateng@relexsolutions.example>
+Subject: Re: Shelf life field mapping - fresh export
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+It is not impossible, it is unowned, which in practice is the same thing this year.
+
+Proceed with your approximation.
+
+Priya Nair
+IT Integration Lead
++49 151 3307 9126
+Acme Org GmbH | Hansaring 82, 50670 Köln
+acme-org.example
+[Image removed by sender]
+
+
+From: Ana Duarte <ana.duarte@relexsolutions.example>
+Sent: Tuesday, September 9, 2025 8:40 AM
+To: Priya Nair <priya.nair@acme-org.example>
+Cc: Nadia Haddad <n.haddad@relexsolutions.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>; Lena Fischer <lena.fischer@acme-org.example>; Kwame Boateng <k.boateng@relexsolutions.example>
+Subject: Re: Shelf life field mapping - fresh export
+
+This thread is now two months old and has thirteen messages in it, which usually means
+email is the wrong medium.
+
+I am putting shelf life on the agenda for the Phase 2 escalation call on Friday. Priya,
+you do not need to attend, but if the warehouse extract is genuinely impossible please
+say so before Friday so we can plan around it rather than discuss it live.
+
+Best regards,
+Ana Duarte
+Project Manager [Image removed by sender]
++351 913 882 145 | UTC +01:00
+ana.duarte@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+[Image removed by sender]
+[Image removed by sender]
+Plan better. Sell more. Waste less
+relexsolutions.example [Image removed by sender]
+LinkedInYouTube
+
+
+From: Nadia Haddad <n.haddad@relexsolutions.example>
+Sent: Thursday, September 4, 2025 14:20
+To: Priya Nair <priya.nair@acme-org.example>
+Cc: Tomas Lindholm <tomas.lindholm@relexsolutions.example>; Ana Duarte <ana.duarte@relexsolutions.example>; Lena Fischer <lena.fischer@acme-org.example>; Kwame Boateng <k.boateng@relexsolutions.example>
+Subject: Re: Shelf life field mapping - fresh export
+
+Hi all,
+
+Adding Nadia (Öberg, not Haddad) who did something similar on another account.
+
+Since remaining shelf life is not available, I propose we proceed with an approximation:
+total shelf life from MHDHB minus average days-in-warehouse per article group, which we
+can derive from stock turn.
+
+It is not exact. For fast movers it will be close. For slow movers it will be wrong in
+the direction of assuming the stock is fresher than it is.
+
+If nobody objects I will build it that way so we are not blocked.
+
+Nadia Haddad
+Solution Consultant [Image removed by sender]
++46 76 552 30 18 | CET
+n.haddad@relexsolutions.example
+Vasagatan 7, 111 20 Stockholm
+[Image removed by sender]
+Plan better. Sell more. Waste less
+relexsolutions.example
+
+
+From: Kwame Boateng <k.boateng@relexsolutions.example>
+Sent: Tuesday, August 26, 2025 9:12 AM
+To: Priya Nair <priya.nair@acme-org.example>
+Cc: Nadia Haddad <n.haddad@relexsolutions.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>; Ana Duarte <ana.duarte@relexsolutions.example>; Lena Fischer <lena.fischer@acme-org.example>
+Subject: Re: Shelf life field mapping - fresh export
+
+Hi,
+
+I looked at a WMS extract in June but that was for a different thing (the DC-2 inventory
+feed). Different system as far as I can tell. I do not think it helps here.
+
+Sorry.
+
+Kwame Boateng
+Technical Consultant [Image removed by sender]
++44 7700 900 318
+k.boateng@relexsolutions.example
+[Image removed by sender]
+relexsolutions.example
+
+
+From: Priya Nair <priya.nair@acme-org.example>
+Sent: Wednesday, August 20, 2025 16:33
+To: Ana Duarte <ana.duarte@relexsolutions.example>
+Cc: Nadia Haddad <n.haddad@relexsolutions.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>; Lena Fischer <lena.fischer@acme-org.example>; Kwame Boateng <k.boateng@relexsolutions.example>
+Subject: Re: Shelf life field mapping - fresh export
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+Hi,
+
+Warehouse team says goods receipt date is captured but not exposed outside the WMS. To
+get it to you we would need either an extract from the WMS, which nobody owns, or to
+write it back into SAP, which is a change request.
+
+Adding @Kwame Boateng who I think looked at the WMS extract for something else.
+
+Priya Nair
+IT Integration Lead
++49 151 3307 9126
+Acme Org GmbH | Hansaring 82, 50670 Köln
+acme-org.example
+[Image removed by sender]
+
+
+From: Ana Duarte <ana.duarte@relexsolutions.example>
+Sent: Tuesday, August 19, 2025 10:05 AM
+To: Priya Nair <priya.nair@acme-org.example>
+Cc: Nadia Haddad <n.haddad@relexsolutions.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>; Lena Fischer <lena.fischer@acme-org.example>
+Subject: Re: Shelf life field mapping - fresh export
+
+Hello,
+
+What is the status on this?
+
+FYI @Lena Fischer - this is the item I mentioned in the steering call.
+
+Best regards,
+Ana Duarte
+Project Manager [Image removed by sender]
++351 913 882 145 | UTC +01:00
+ana.duarte@relexsolutions.example
+Rua do Ouro 42, 1100-063 Lisboa
+Connect with me
+[Image removed by sender]
+[Image removed by sender]
+Plan better. Sell more. Waste less
+relexsolutions.example [Image removed by sender]
+LinkedInYouTube
+
+
+From: Priya Nair <priya.nair@acme-org.example>
+Sent: Wednesday, July 23, 2025 8:51 AM
+To: Nadia Haddad <n.haddad@relexsolutions.example>
+Cc: Tomas Lindholm <tomas.lindholm@relexsolutions.example>; Ana Duarte <ana.duarte@relexsolutions.example>
+Subject: Re: Shelf life field mapping - fresh export
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+Not yet. Half of them are on holiday. I will chase.
+
+Priya Nair
+IT Integration Lead
++49 151 3307 9126
+Acme Org GmbH | Hansaring 82, 50670 Köln
+acme-org.example
+[Image removed by sender]
+
+
+From: Nadia Haddad <n.haddad@relexsolutions.example>
+Sent: Tuesday, July 22, 2025 15:40
+To: Priya Nair <priya.nair@acme-org.example>
+Cc: Tomas Lindholm <tomas.lindholm@relexsolutions.example>; Ana Duarte <ana.duarte@relexsolutions.example>
+Subject: Re: Shelf life field mapping - fresh export
+
+Hi Priya,
+
+Following up on the below. Did the warehouse team come back on remaining shelf life?
+
+This is on our critical path for fresh UAT.
+
+Nadia Haddad
+Solution Consultant [Image removed by sender]
++46 76 552 30 18 | CET
+n.haddad@relexsolutions.example
+Vasagatan 7, 111 20 Stockholm
+[Image removed by sender]
+Plan better. Sell more. Waste less
+relexsolutions.example
+
+
+From: Priya Nair <priya.nair@acme-org.example>
+Sent: Wednesday, July 9, 2025 11:02 AM
+To: Nadia Haddad <n.haddad@relexsolutions.example>
+Cc: Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Subject: Re: Shelf life field mapping - fresh export
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+Hi,
+
+MHDHB is the total shelf life, not remaining. It is populated for part of the range.
+
+Remaining life at order time is not stored anywhere I know of. It would have to be
+derived from goods receipt date, and that is in the warehouse system rather than in SAP.
+
+I will ask the warehouse team.
+
+Priya Nair
+IT Integration Lead
++49 151 3307 9126
+Acme Org GmbH | Hansaring 82, 50670 Köln
+acme-org.example
+[Image removed by sender]
+
+
+From: Nadia Haddad <n.haddad@relexsolutions.example>
+Sent: Tuesday, July 8, 2025 9:14 AM
+To: Priya Nair <priya.nair@acme-org.example>
+Cc: Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Subject: Shelf life field mapping - fresh export
+
+Hi Priya,
+
+For the fresh ordering configuration we need the remaining shelf life at the point of
+order, per article per site. Sofia has described where it comes from operationally but
+I need the actual field.
+
+Is it MARA-MHDHB, or is there something Acme-specific?
+
+Thanks
+
+Nadia Haddad
+Solution Consultant [Image removed by sender]
++46 76 552 30 18 | CET
+n.haddad@relexsolutions.example
+Vasagatan 7, 111 20 Stockholm
+[Image removed by sender]
+Plan better. Sell more. Waste less
+relexsolutions.example

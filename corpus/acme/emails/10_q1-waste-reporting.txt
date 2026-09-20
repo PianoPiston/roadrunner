@@ -1,0 +1,109 @@
+*** SYNTHETIC DATA. Entirely fictional. Acme Org, Meridian Consulting and every
+*** person named are invented. Generated for the RELEX challenge track,
+*** AaltoAI Hackathon 2026.
+
+Subject: Q1 2026 waste reporting - fresh
+From: Sofia Almeida <sofia.almeida@acme-org.example>
+Date: Wednesday, April 8, 2026 8:15 AM
+To: Nadia Haddad <n.haddad@relexsolutions.example>
+Cc: Lena Fischer <lena.fischer@acme-org.example>
+Messages in thread: 4
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+Nadia - the produce number looks right to me. Dairy looks too good. Can you check whether
+the dairy baseline includes the yoghurt range, because we moved that between categories
+in November and I think it may be counted in one period and not the other.
+
+Separately. You say the tonnage comes off the extract totals. Has anyone put those next to
+the till numbers for the same three months? I am not saying they are wrong. I am saying I
+do not think anyone has looked, and we are about to put this in front of the board.
+
+Sofia Almeida
+Category Manager, Fresh
++49 151 8890 4471
+Acme Org GmbH | Hansaring 82, 50670 Köln
+acme-org.example
+[Image removed by sender]
+
+
+Von: Robert Kahn <robert.kahn@acme-org.example>
+Gesendet: Dienstag, 7. April 2026 18:40
+An: Lena Fischer <lena.fischer@acme-org.example>
+Cc: Nadia Haddad <n.haddad@relexsolutions.example>; Marco Rossi <marco.rossi@relexsolutions.example>
+Betreff: Re: Q1 2026 waste reporting - fresh
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+Good. What does 118 tonnes cost us at current prices?
+
+Robert Kahn
+Chief Financial Officer
+Acme Org GmbH
++49 151 6620 1174
+[cid:image001.png]
+
+
+Von: Lena Fischer <lena.fischer@acme-org.example>
+Gesendet: Dienstag, 7. April 2026 13:05
+An: Nadia Haddad <n.haddad@relexsolutions.example>
+Cc: Marco Rossi <marco.rossi@relexsolutions.example>; Ana Duarte <ana.duarte@relexsolutions.example>; Sofia Almeida <sofia.almeida@acme-org.example>; Robert Kahn <robert.kahn@acme-org.example>
+Betreff: Re: Q1 2026 waste reporting - fresh
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+This is the first number in two years that I can take to the board without
+qualifying it to death.
+
+Robert - 3.4 percent. Target is 2.8. We are two thirds of the way there on the pilot
+cohort.
+
+Mit freundlichen Grüßen
+Lena Fischer
+Head of Supply Chain
++49 151 2244 8830
+Acme Org GmbH | Hansaring 82, 50670 Köln
+acme-org.example
+[cid:image001.png]
+
+
+From: Nadia Haddad <n.haddad@relexsolutions.example>
+Sent: Tuesday, April 7, 2026 11:20 AM
+To: Lena Fischer <lena.fischer@acme-org.example>; Sofia Almeida <sofia.almeida@acme-org.example>
+Cc: Marco Rossi <marco.rossi@relexsolutions.example>; Ana Duarte <ana.duarte@relexsolutions.example>
+Subject: Q1 2026 waste reporting - fresh
+
+Hello,
+
+First full quarter of fresh live. Numbers against the baseline we agreed in December.
+
+Produce and dairy, 25 pilot stores, January to March:
+
+  Fresh waste            4.1% -> 3.4% of fresh net sales
+  Absolute reduction     approximately 118 tonnes over the quarter
+  Estimated CO2e avoided approximately 296 tonnes
+  Availability           +1.9 points
+  Order automation       88% on the categories in scope
+
+The CO2e figure uses the conversion factors in your own sustainability report rather
+than ours, so it should reconcile with what you publish.
+
+Chilled ready meals is not in these numbers, it went live too late in the quarter.
+
+Two caveats. The baseline quarter had an unusually warm February which flatters produce.
+And the 118 tonnes is scaled from 25 stores, so please do not multiply it up to the full
+estate in any external communication without talking to us first.
+
+One note on how it is arrived at. The tonnage is derived from the article movement totals
+in the nightly extract, not counted from till data. That is the normal basis and it has
+been stable all quarter, but it is a derivation rather than a count and I would rather say
+so than have it come up later.
+
+Nadia Haddad
+Solution Consultant [Image removed by sender]
++46 76 552 30 18 | CET
+n.haddad@relexsolutions.example
+Vasagatan 7, 111 20 Stockholm
+[Image removed by sender]
+Plan better. Sell more. Waste less
+relexsolutions.example

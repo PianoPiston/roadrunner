@@ -1,0 +1,448 @@
+*** SYNTHETIC DATA. This transcript is entirely fictional. Acme Org, Meridian
+*** Consulting and every person named are invented. Any resemblance to a real
+*** organisation or individual is coincidental. Generated for the RELEX challenge
+*** track, AaltoAI Hackathon 2026.
+
+Meeting: Transition to continuous service
+Customer: Acme Org (Grocery Retail, EMEA)
+Date: 2025-06-10
+Phase: Live-Services
+Attendees: Ana Duarte (RELEX), Charlotte Meyer (RELEX Service Delivery), Tomas Lindholm (RELEX), Lena Fischer (Acme), Priya Nair (Acme)
+
+Ana Duarte
+0:160:16
+AD
+Ana Duarte 16 seconds
+Core replenishment has been live three months. This is the yeah...
+Tomas Lindholm
+0:220:22
+TL
+Tomas Lindholm 22 seconds
+Yes.
+Ana Duarte
+0:250:25
+AD
+Ana Duarte 25 seconds
+service. Charlotte...
+Lena Fischer
+0:300:30
+LF
+Lena Fischer 30 seconds
+Yeah.
+Ana Duarte
+0:330:33
+AD
+Ana Duarte 33 seconds
+is taking the service side.
+Priya Nair
+0:400:40
+PN
+Priya Nair 40 seconds
+Okay.
+Charlotte Meyer
+0:440:44
+CM
+Charlotte Meyer 44 seconds
+Hello. I will be your point of contact
+Tomas Lindholm
+0:480:48
+TL
+Tomas Lindholm 48 seconds
+Okay, yeah.
+Charlotte Meyer
+0:500:50
+CM
+Charlotte Meyer 50 seconds
+for anything operational from
+Charlotte Meyer 57 seconds
+the first of July.
+Lena Fischer
+1:021:02
+LF
+Lena Fischer 1 minute 2 seconds
+And Ana?
+Priya Nair
+1:051:05
+PN
+Priya Nair 1 minute 5 seconds
+Yeah.
+Ana Duarte
+1:091:09
+AD
+Ana Duarte 1 minute 9 seconds
+I stay on phase two. So
+Lena Fischer
+1:121:12
+LF
+Lena Fischer 1 minute 12 seconds
+Yeah.
+Ana Duarte
+1:141:14
+AD
+Ana Duarte 1 minute 14 seconds
+for fresh you have me, for anything live you have Charlotte.
+Priya Nair
+1:231:23
+PN
+Priya Nair 1 minute 23 seconds
+Mm.
+Lena Fischer
+1:271:27
+LF
+Lena Fischer 1 minute 27 seconds
+Two people.
+Ana Duarte
+1:301:30
+AD
+Ana Duarte 1 minute 30 seconds
+Two people.
+Lena Fischer
+1:361:36
+LF
+Lena Fischer 1 minute 36 seconds
+Can I say the obvious thing. Every time this project has
+Lena Fischer 1 minute 45 seconds
+split responsibility between two people, right something has fallen between them.
+Charlotte Meyer
+1:511:51
+CM
+Charlotte Meyer 1 minute 51 seconds
+Yeah.
+Ana Duarte
+1:531:53
+AD
+Ana Duarte 1 minute 53 seconds
+Okay Okay so, that is a reasonable thing to say...
+Lena Fischer
+1:591:59
+LF
+Lena Fischer 1 minute 59 seconds
+Mm-hm.
+Ana Duarte
+2:012:01
+AD
+Ana Duarte 2 minutes 1 second
+and. What I can do is make the
+Charlotte Meyer
+2:082:08
+CM
+Charlotte Meyer 2 minutes 8 seconds
+Okay, yeah.
+Ana Duarte
+2:122:12
+AD
+Ana Duarte 2 minutes 12 seconds
+boundary explicit rather than leaving it if you...
+Lena Fischer
+2:202:20
+LF
+Lena Fischer 2 minutes 20 seconds
+Then do that.
+Tomas Lindholm
+2:232:23
+TL
+Tomas Lindholm 2 minutes 23 seconds
+Yes.
+Charlotte Meyer
+2:262:26
+CM
+Charlotte Meyer 2 minutes 26 seconds
+Let me try. Anything
+Tomas Lindholm
+2:292:29
+TL
+Tomas Lindholm 2 minutes 29 seconds
+Sure.
+Charlotte Meyer
+2:302:30
+CM
+Charlotte Meyer 2 minutes 30 seconds
+about the system as it currently runs is mine. Incidents, the DC-2 feed, monitoring, access requests, parameter changes on existing categories, the quarterly
+Charlotte Meyer 2 minutes 43 seconds
+report. Anything about categories that are not live yet is Ana's.
+Lena Fischer
+2:512:51
+LF
+Lena Fischer 2 minutes 51 seconds
+Yes.
+Priya Nair
+2:532:53
+PN
+Priya Nair 2 minutes 53 seconds
+Where does DC-2 sit? Because the permanent fix is a project, not an incident.
+Charlotte Meyer
+3:033:03
+CM
+Charlotte Meyer 3 minutes 3 seconds
+Yeah.
+Charlotte Meyer
+3:053:05
+CM
+Charlotte Meyer 3 minutes 5 seconds
+Sorry, go ahead.
+Charlotte Meyer 3 minutes 11 seconds
+Then that is a good example. The failures are mine, the permanent fix is...
+Charlotte Meyer 3 minutes 18 seconds
+a change.
+Lena Fischer
+3:253:25
+LF
+Lena Fischer 3 minutes 25 seconds
+Okay.
+Tomas Lindholm
+3:293:29
+TL
+Tomas Lindholm 3 minutes 29 seconds
+It has a date. Fifteenth of September, gated on Acme's quarterly change window.
+Charlotte Meyer
+3:373:37
+CM
+Charlotte Meyer 3 minutes 37 seconds
+Then I will hold it on the service risk register as well as it being in Ana's plan, I mean...
+Priya Nair
+3:493:49
+PN
+Priya Nair 3 minutes 49 seconds
+Yes.
+Charlotte Meyer
+3:513:51
+CM
+Charlotte Meyer 3 minutes 51 seconds
+rather than none.
+Priya Nair
+3:543:54
+PN
+Priya Nair 3 minutes 54 seconds
+That is the first sensible answer anyone has given about DC-2 in a year.
+Lena Fischer
+4:044:04
+LF
+Lena Fischer 4 minutes 4 seconds
+Okay, yeah.
+Ana Duarte
+4:064:06
+AD
+Ana Duarte 4 minutes 6 seconds
+Charlotte, what do you need...
+Tomas Lindholm
+4:094:09
+TL
+Tomas Lindholm 4 minutes 9 seconds
+Yeah.
+Ana Duarte
+4:124:12
+AD
+Ana Duarte 4 minutes 12 seconds
+from me?
+Charlotte Meyer
+4:174:17
+CM
+Charlotte Meyer 4 minutes 17 seconds
+The incident history, the runbook, and half an hour on the things that are not written down.
+Ana Duarte
+4:264:26
+AD
+Ana Duarte 4 minutes 26 seconds
+The things are not written down.
+Charlotte Meyer
+4:294:29
+CM
+Charlotte Meyer 4 minutes 29 seconds
+Every project has them.
+Ana Duarte
+4:334:33
+AD
+Ana Duarte 4 minutes 33 seconds
+All right. Three, off the top of my head.
+Lena Fischer
+4:394:39
+LF
+Lena Fischer 4 minutes 39 seconds
+I have told him.
+Priya Nair
+4:464:46
+PN
+Priya Nair 4 minutes 46 seconds
+Yeah.
+Ana Duarte
+4:484:48
+AD
+Ana Duarte 4 minutes 48 seconds
+You have?
+Charlotte Meyer
+4:534:53
+CM
+Charlotte Meyer 4 minutes 53 seconds
+Sure.
+Lena Fischer
+4:564:56
+LF
+Lena Fischer 4 minutes 56 seconds
+In April. He was not pleased and he did not escalate
+Lena Fischer 5 minutes 4 seconds
+it, which
+Priya Nair
+5:095:09
+PN
+Priya Nair 5 minutes 9 seconds
+Mm.
+Lena Fischer
+5:135:13
+LF
+Lena Fischer 5 minutes 13 seconds
+is his way of saying he is keeping it.
+Ana Duarte
+5:205:20
+AD
+Ana Duarte 5 minutes 20 seconds
+That is useful on the...
+Ana Duarte 5 minutes 26 seconds
+anything I have.
+Charlotte Meyer
+5:305:30
+CM
+Charlotte Meyer 5 minutes 30 seconds
+Yeah.
+Lena Fischer
+5:315:31
+LF
+Lena Fischer 5 minutes 31 seconds
+Sorry, what?
+Lena Fischer 5 minutes 36 seconds
+It was in a corridor.
+Charlotte Meyer
+5:405:40
+CM
+Charlotte Meyer 5 minutes 40 seconds
+But, most of this is in a corridor.
+Ana Duarte
+5:485:48
+AD
+Ana Duarte 5 minutes 48 seconds
+Charlotte, one
+Ana Duarte 5 minutes 51 seconds
+more. Sofia Almeida is the only person at Acme who understands
+Ana Duarte 6 minutes
+fresh. She is not in
+Ana Duarte 6 minutes 6 seconds
+in scope for you because fresh that is the...
+Charlotte Meyer
+6:116:11
+CM
+Charlotte Meyer 6 minutes 11 seconds
+Mm-hm.
+Charlotte Meyer
+6:126:12
+CM
+Charlotte Meyer 6 minutes 12 seconds
+Noted. Is that in a risk register?
+Ana Duarte
+6:186:18
+AD
+Ana Duarte 6 minutes 18 seconds
+yeah It is in three, in slightly different words.
+Charlotte Meyer
+6:276:27
+CM
+Charlotte Meyer 6 minutes 27 seconds
+Then is in none.
+Lena Fischer
+6:316:31
+LF
+Lena Fischer 6 minutes 31 seconds
+Yeah, yeah.
+Lena Fischer
+6:356:35
+LF
+Lena Fischer 6 minutes 35 seconds
+Can I ask what happens to everything you two know
+Lena Fischer 6 minutes 41 seconds
+when you both move on?
+Charlotte Meyer
+6:486:48
+CM
+Charlotte Meyer 6 minutes 48 seconds
+Right.
+Ana Duarte
+6:526:52
+AD
+Ana Duarte 6 minutes 52 seconds
+Somebody has this meeting again.
+Tomas Lindholm
+6:576:57
+TL
+Tomas Lindholm 6 minutes 57 seconds
+Sure.
+Lena Fischer
+6:586:58
+LF
+Lena Fischer 6 minutes 58 seconds
+That is not not an answer.
+Priya Nair
+7:037:03
+PN
+Priya Nair 7 minutes 3 seconds
+True.
+Ana Duarte
+7:047:04
+AD
+Ana Duarte 7 minutes 4 seconds
+No, actually it is not.
+Priya Nair
+7:117:11
+PN
+Priya Nair 7 minutes 11 seconds
+Yeah.
+Ana Duarte
+7:187:18
+AD
+Ana Duarte 7 minutes 18 seconds
+One more for the list, and it is a gap rather than a thing.
+Ana Duarte 7 minutes 24 seconds
+Three of the sessions have no transcript at all.
+Charlotte Meyer
+7:307:30
+CM
+Charlotte Meyer 7 minutes 30 seconds
+Which three?
+Ana Duarte
+7:337:33
+AD
+Ana Duarte 7 minutes 33 seconds
+The two interface workshops in February, and the planner training.
+Ana Duarte 7 minutes 40 seconds
+I can tell you which three because I have the invitations. I cannot tell
+Ana Duarte 7 minutes 46 seconds
+you what was said in them.
+Charlotte Meyer
+7:547:54
+CM
+Charlotte Meyer 7 minutes 54 seconds
+Why those?
+Ana Duarte
+7:577:57
+AD
+Ana Duarte 7 minutes 57 seconds
+Whoever is in the room saves the recording. If nobody saves it there is
+Ana Duarte 8 minutes 3 seconds
+nothing. It is not a system, it is a habit, and it is not a reliable one.
+Priya Nair
+8:128:12
+PN
+Priya Nair 8 minutes 12 seconds
+The interface ones are the ones that matter.
+Ana Duarte
+8:168:16
+AD
+Ana Duarte 8 minutes 16 seconds
+I know.
+Lena Fischer
+8:208:20
+LF
+Lena Fischer 8 minutes 20 seconds
+Then say that in the handover. Not that it is complete.
+Ana Duarte
+8:258:25
+AD
+Ana Duarte 8 minutes 25 seconds
+It will say what is missing.

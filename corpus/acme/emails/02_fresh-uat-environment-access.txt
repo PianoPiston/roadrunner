@@ -1,0 +1,136 @@
+*** SYNTHETIC DATA. Entirely fictional. Acme Org, Meridian Consulting and every
+*** person named are invented. Generated for the RELEX challenge track,
+*** AaltoAI Hackathon 2026.
+
+Subject: Fresh UAT environment - access
+From: Kwame Boateng <k.boateng@relexsolutions.example>
+Date: Tuesday, February 17, 2026 9:25 AM
+To: Sofia Almeida <sofia.almeida@acme-org.example>
+Cc: Nadia Haddad <n.haddad@relexsolutions.example>; Ana Duarte <ana.duarte@relexsolutions.example>; Priya Nair <priya.nair@acme-org.example>
+Messages in thread: 6
+
+Hi Sofia,
+
+Reviving this thread because I need to set up the same access for the bakery workstream
+and I want to reuse whatever was done for you.
+
+Nadia, was SofAlme created as a normal user or with elevated rights? I cannot tell from
+the admin panel.
+
+Kwame Boateng
+Technical Consultant [Image removed by sender]
++44 7700 900 318
+k.boateng@relexsolutions.example
+[Image removed by sender]
+relexsolutions.example
+
+
+From: Sofia Almeida <sofia.almeida@acme-org.example>
+Sent: Tuesday, October 7, 2025 14:30
+To: Nadia Haddad <n.haddad@relexsolutions.example>
+Cc: Ana Duarte <ana.duarte@relexsolutions.example>
+Subject: Re: Fresh UAT environment - access
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+Works, thank you 👍
+
+Sofia Almeida
+Category Manager, Fresh
++49 151 8890 4471
+Acme Org GmbH | Hansaring 82, 50670 Köln
+acme-org.example
+[Image removed by sender]
+
+
+From: Nadia Haddad <n.haddad@relexsolutions.example>
+Sent: Tuesday, October 7, 2025 10:18 AM
+To: Sofia Almeida <sofia.almeida@acme-org.example>
+Cc: Ana Duarte <ana.duarte@relexsolutions.example>
+Subject: Re: Fresh UAT environment - access
+
+Hi again,
+
+I created a new user for you and I can log in with it.
+
+UserName: SofAlme
+Password: SofAlme2025!
+
+Please change it after first login.
+
+best regards
+
+Nadia Haddad
+Solution Consultant [Image removed by sender]
++46 76 552 30 18 | CET
+n.haddad@relexsolutions.example
+Vasagatan 7, 111 20 Stockholm
+[Image removed by sender]
+Plan better. Sell more. Waste less
+relexsolutions.example
+
+
+From: Sofia Almeida <sofia.almeida@acme-org.example>
+Sent: Monday, October 6, 2025 13:12
+To: Nadia Haddad <n.haddad@relexsolutions.example>
+Cc: Ana Duarte <ana.duarte@relexsolutions.example>
+Subject: Re: Fresh UAT environment - access
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+It does not work. I reset my password and still get this:
+
+[Image removed by sender]
+
+Sofia Almeida
+Category Manager, Fresh
++49 151 8890 4471
+Acme Org GmbH | Hansaring 82, 50670 Köln
+acme-org.example
+[Image removed by sender]
+
+
+From: Nadia Haddad <n.haddad@relexsolutions.example>
+Sent: Monday, October 6, 2025 9:40 AM
+To: Sofia Almeida <sofia.almeida@acme-org.example>
+Cc: Ana Duarte <ana.duarte@relexsolutions.example>
+Subject: Re: Fresh UAT environment - access
+
+Hi Sofia,
+
+Your credentials should be the same as production. The URL for test is:
+
+https://acme-test.relexsolutions-hosted.example/
+
+Let me know if it does not work, the UI is slightly different after the upgrade but it
+is basically the same.
+
+Nadia Haddad
+Solution Consultant [Image removed by sender]
++46 76 552 30 18 | CET
+n.haddad@relexsolutions.example
+Vasagatan 7, 111 20 Stockholm
+[Image removed by sender]
+Plan better. Sell more. Waste less
+relexsolutions.example
+
+
+From: Sofia Almeida <sofia.almeida@acme-org.example>
+Sent: Monday, October 6, 2025 8:55 AM
+To: Nadia Haddad <n.haddad@relexsolutions.example>
+Cc: Ana Duarte <ana.duarte@relexsolutions.example>
+Subject: Fresh UAT environment - access
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+Hi Nadia,
+
+I am supposed to review the fresh UAT output this week but I have never logged into the
+test environment. Can you send me details?
+
+Sofia Almeida
+Category Manager, Fresh
++49 151 8890 4471
+Acme Org GmbH | Hansaring 82, 50670 Köln
+acme-org.example
+[Image removed by sender]

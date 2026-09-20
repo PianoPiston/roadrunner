@@ -1,0 +1,107 @@
+*** SYNTHETIC DATA. Entirely fictional. Acme Org, Meridian Consulting and every
+*** person named are invented. Generated for the RELEX challenge track,
+*** AaltoAI Hackathon 2026.
+
+Subject: OP_ID field - exclusion from fresh feed
+From: Priya Nair <priya.nair@acme-org.example>
+Date: Monday, November 24, 2025 17:55
+To: Kwame Boateng <k.boateng@relexsolutions.example>
+Cc: Nadia Haddad <n.haddad@relexsolutions.example>; Lena Fischer <lena.fischer@acme-org.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Messages in thread: 4
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+Three at Meridian.
+
+Priya Nair
+IT Integration Lead
++49 151 3307 9126
+Acme Org GmbH | Hansaring 82, 50670 Köln
+acme-org.example
+[Image removed by sender]
+
+
+From: Kwame Boateng <k.boateng@relexsolutions.example>
+Sent: Monday, November 24, 2025 17:10
+To: Nadia Haddad <n.haddad@relexsolutions.example>
+Cc: Priya Nair <priya.nair@acme-org.example>; Lena Fischer <lena.fischer@acme-org.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Subject: Re: OP_ID field - exclusion from fresh feed
+
+Answer on the historic files.
+
+OP_ID is present in the raw landing zone for every daily file since 14 February. It is
+not carried into the aggregated waste tables, which group by store and article.
+
+However it is present in the reconciliation extracts we produced in June and September
+for the data quality review, because those were row level. Two of those were emailed as
+attachments, once to Priya and once to a distribution list of nine people including
+three at Meridian.
+
+I can purge the landing zone. I cannot purge the attachments.
+
+Kwame Boateng
+Technical Consultant [Image removed by sender]
++44 7700 900 318
+k.boateng@relexsolutions.example
+[Image removed by sender]
+relexsolutions.example
+
+
+From: Nadia Haddad <n.haddad@relexsolutions.example>
+Sent: Wednesday, November 19, 2025 11:44 AM
+To: Priya Nair <priya.nair@acme-org.example>
+Cc: Lena Fischer <lena.fischer@acme-org.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>; Kwame Boateng <k.boateng@relexsolutions.example>
+Subject: Re: OP_ID field - exclusion from fresh feed
+
+Hi Priya,
+
+Confirmed. OP_ID is dropped at the extract from the next run, which is Friday night.
+
+On files already delivered: they are in the raw landing zone and in the processed store.
+Kwame is checking whether the field made it into anything downstream. I will come back
+with a definitive answer rather than a reassuring one.
+
+Nadia Haddad
+Solution Consultant [Image removed by sender]
++46 76 552 30 18 | CET
+n.haddad@relexsolutions.example
+Vasagatan 7, 111 20 Stockholm
+[Image removed by sender]
+Plan better. Sell more. Waste less
+relexsolutions.example
+
+
+From: Priya Nair <priya.nair@acme-org.example>
+Sent: Tuesday, November 18, 2025 8:20 AM
+To: Nadia Haddad <n.haddad@relexsolutions.example>
+Cc: Lena Fischer <lena.fischer@acme-org.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Subject: OP_ID field - exclusion from fresh feed
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+Nadia,
+
+Following Monday's call, confirming this as a condition rather than a request.
+
+The waste write-off extract currently includes OP_ID, a six digit operator identifier
+identifying the individual who scanned the item out. Examples from the November file:
+
+447102  Marika Lindqvist, store 118 Vantaa, nights
+448933  Osman Yildirim, store 118 Vantaa
+451207  Heidi Salminen, store 094 Espoo
+
+This has been in every file since February. It must be excluded at source before the
+next extract runs. Please confirm the field is dropped and tell me what you have done
+with the files already delivered.
+
+Our works council will ask. I would rather answer them than be asked.
+
+If the answer to the second question is complicated, put it on the agenda for the
+January session rather than replying to this.
+
+Priya Nair
+IT Integration Lead
++49 151 3307 9126
+Acme Org GmbH | Hansaring 82, 50670 Köln
+acme-org.example
+[Image removed by sender]

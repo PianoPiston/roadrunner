@@ -1,0 +1,383 @@
+*** SYNTHETIC DATA. This transcript is entirely fictional. Acme Org, Meridian
+*** Consulting and every person named are invented. Any resemblance to a real
+*** organisation or individual is coincidental. Generated for the RELEX challenge
+*** track, AaltoAI Hackathon 2026.
+
+Meeting: UAT readiness review
+Customer: Acme Org (Grocery Retail, EMEA)
+Date: 2025-01-21
+Phase: Implementation
+Attendees: Ana Duarte (RELEX), Kwame Boateng (RELEX), Priya Nair (Acme), Lena Fischer (Acme)
+
+Ana Duarte
+0:080:08
+AD
+Ana Duarte 8 seconds
+Two questions today. Is the data ready, and is UAT ready. Priya first.
+Lena Fischer
+0:150:15
+LF
+Lena Fischer 15 seconds
+Yeah.
+Priya Nair
+0:160:16
+PN
+Priya Nair 16 seconds
+Case pack for the cohort is done. Thirteen hundred articles, finished on the nineteenth of December.
+Ana Duarte
+0:280:28
+AD
+Ana Duarte 28 seconds
+I mean That is genuinely good.
+Lena Fischer
+0:330:33
+LF
+Lena Fischer 33 seconds
+Yeah.
+Priya Nair
+0:350:35
+PN
+Priya Nair 35 seconds
+It was a horrible three weeks and I would like it noted.
+Ana Duarte
+0:450:45
+AD
+Ana Duarte 45 seconds
+Right.
+Ana Duarte
+0:460:46
+AD
+Ana Duarte 46 seconds
+It is noted.
+Priya Nair
+0:500:50
+PN
+Priya Nair 50 seconds
+Lead times...
+Ana Duarte
+0:570:57
+AD
+Ana Duarte 57 seconds
+Of course.
+Priya Nair
+0:580:58
+PN
+Priya Nair 58 seconds
+I have not touched. They are
+Priya Nair 1 minute 4 seconds
+still mostly sevens.
+Lena Fischer
+1:091:09
+LF
+Lena Fischer 1 minute 9 seconds
+Sure.
+Kwame Boateng
+1:121:12
+KB
+Kwame Boateng 1 minute 12 seconds
+Yeah.
+Kwame Boateng 1 minute 17 seconds
+We can work around that by deriving actuals from receipt history, which is less,
+Kwame Boateng 1 minute 26 seconds
+accurate for new articles and fine for everything else.
+Priya Nair
+1:321:32
+PN
+Priya Nair 1 minute 32 seconds
+Agreed.
+Priya Nair
+1:341:34
+PN
+Priya Nair 1 minute 34 seconds
+Do that.
+Ana Duarte
+1:411:41
+AD
+Ana Duarte 1 minute 41 seconds
+And shelf...
+Ana Duarte 1 minute 47 seconds
+One second.
+Ana Duarte 1 minute 49 seconds
+life?
+Priya Nair
+1:541:54
+PN
+Priya Nair 1 minute 54 seconds
+Untouched. Not in scope. And before anyone asks, the warehouse question is still unanswered,
+Lena Fischer
+2:022:02
+LF
+Lena Fischer 2 minutes 2 seconds
+Mm-hm.
+Priya Nair
+2:052:05
+PN
+Priya Nair 2 minutes 5 seconds
+and I have stopped chasing it because nothing,
+Lena Fischer
+2:132:13
+LF
+Lena Fischer 2 minutes 13 seconds
+Yeah.
+Priya Nair
+2:162:16
+PN
+Priya Nair 2 minutes 16 seconds
+in this phase depends on it.
+Ana Duarte
+2:222:22
+AD
+Ana Duarte 2 minutes 22 seconds
+Understood. It becomes phase two's problem.
+Lena Fischer
+2:282:28
+LF
+Lena Fischer 2 minutes 28 seconds
+Okay, yeah.
+Priya Nair
+2:292:29
+PN
+Priya Nair 2 minutes 29 seconds
+It becomes phase two's problem.
+Ana Duarte
+2:362:36
+AD
+Ana Duarte 2 minutes 36 seconds
+Sorry, go ahead.
+Ana Duarte 2 minutes 39 seconds
+UAT. Kwame.
+Kwame Boateng
+2:462:46
+KB
+Kwame Boateng 2 minutes 46 seconds
+actually Eleven business scenarios, all run
+Ana Duarte
+2:532:53
+AD
+Ana Duarte 2 minutes 53 seconds
+True.
+Kwame Boateng
+2:562:56
+KB
+Kwame Boateng 2 minutes 56 seconds
+at least once. Nine pass. Two fail,
+Kwame Boateng 3 minutes
+and both are the same root cause, which is rounding,
+Kwame Boateng 3 minutes 7 seconds
+on articles where case pack and minimum order quantity disagree.
+Lena Fischer
+3:163:16
+LF
+Lena Fischer 3 minutes 16 seconds
+Sure.
+Ana Duarte
+3:173:17
+AD
+Ana Duarte 3 minutes 17 seconds
+Fixable before golive?
+Kwame Boateng
+3:233:23
+KB
+Kwame Boateng 3 minutes 23 seconds
+Yeah.
+Kwame Boateng
+3:263:26
+KB
+Kwame Boateng 3 minutes 26 seconds
+Fixable this week.
+Ana Duarte
+3:303:30
+AD
+Ana Duarte 3 minutes 30 seconds
+Then who signs UAT off?
+Lena Fischer
+3:333:33
+LF
+Lena Fischer 3 minutes 33 seconds
+I do.
+Ana Duarte
+3:373:37
+AD
+Ana Duarte 3 minutes 37 seconds
+I would like it in writing if you...
+Kwame Boateng
+3:423:42
+KB
+Kwame Boateng 3 minutes 42 seconds
+Okay.
+Lena Fischer
+3:453:45
+LF
+Lena Fischer 3 minutes 45 seconds
+Send me something to sign and I will sign it.
+Ana Duarte
+3:533:53
+AD
+Ana Duarte 3 minutes 53 seconds
+I will send it today.
+Kwame Boateng
+3:593:59
+KB
+Kwame Boateng 3 minutes 59 seconds
+Okay, yeah.
+Lena Fischer
+4:004:00
+LF
+Lena Fischer 4 minutes
+Hmm.
+Lena Fischer 4 minutes 2 seconds
+And, what am I signing exactly? Because I
+Lena Fischer 4 minutes 8 seconds
+want to be careful. I am signing that ambiant core
+Kwame Boateng
+4:134:13
+KB
+Kwame Boateng 4 minutes 13 seconds
+Yeah.
+Lena Fischer
+4:174:17
+LF
+Lena Fischer 4 minutes 17 seconds
+replenishment works for twenty-five stores, not that the project is finished.
+Kwame Boateng
+4:254:25
+KB
+Kwame Boateng 4 minutes 25 seconds
+Yes.
+Ana Duarte
+4:274:27
+AD
+Ana Duarte 4 minutes 27 seconds
+That is exactly what you are signing, and from the...
+Lena Fischer
+4:324:32
+LF
+Lena Fischer 4 minutes 32 seconds
+so Good.
+Ana Duarte
+4:364:36
+AD
+Ana Duarte 4 minutes 36 seconds
+Mm, okay.
+Ana Duarte
+4:404:40
+AD
+Ana Duarte 4 minutes 40 seconds
+Cutover date. I would propose last weekend of February, so the twenty-seventh, with the first generated orders on the Monday.
+Priya Nair
+4:514:51
+PN
+Priya Nair 4 minutes 51 seconds
+That works.
+Priya Nair 4 minutes 55 seconds
+Not the weekend,
+Priya Nair 4 minutes 59 seconds
+after, we have a change freeze.
+Ana Duarte
+5:065:06
+AD
+Ana Duarte 5 minutes 6 seconds
+Right.
+Ana Duarte
+5:105:10
+AD
+Ana Duarte 5 minutes 10 seconds
+The twenty-seventh then.
+Kwame Boateng
+5:135:13
+KB
+Kwame Boateng 5 minutes 13 seconds
+Hmm.
+Kwame Boateng 5 minutes 18 seconds
+I should flag something now rather than in March. I am on
+Lena Fischer
+5:265:26
+LF
+Lena Fischer 5 minutes 26 seconds
+Yeah.
+Kwame Boateng
+5:305:30
+KB
+Kwame Boateng 5 minutes 30 seconds
+holiday from the tenth of,
+Lena Fischer
+5:335:33
+LF
+Lena Fischer 5 minutes 33 seconds
+Mm, okay.
+Kwame Boateng
+5:355:35
+KB
+Kwame Boateng 5 minutes 35 seconds
+March for two weeks. It was booked last November.
+Ana Duarte
+5:425:42
+AD
+Ana Duarte 5 minutes 42 seconds
+Ten days after go-live.
+Lena Fischer
+5:485:48
+LF
+Lena Fischer 5 minutes 48 seconds
+Okay, yeah.
+Kwame Boateng
+5:515:51
+KB
+Kwame Boateng 5 minutes 51 seconds
+Ten days after go live.
+Priya Nair
+5:585:58
+PN
+Priya Nair 5 minutes 58 seconds
+Who covers DC-2?
+Kwame Boateng
+6:016:01
+KB
+Kwame Boateng 6 minutes 1 second
+I will write the runbook.
+Priya Nair
+6:076:07
+PN
+Priya Nair 6 minutes 7 seconds
+I asked who, not what.
+Kwame Boateng
+6:136:13
+KB
+Kwame Boateng 6 minutes 13 seconds
+I know.
+Priya Nair
+6:206:20
+PN
+Priya Nair 6 minutes 20 seconds
+Right.
+Ana Duarte
+6:246:24
+AD
+Ana Duarte 6 minutes 24 seconds
+Sorry, go ahead.
+Ana Duarte 6 minutes 27 seconds
+I will raise it. I am not going
+Ana Duarte 6 minutes 35 seconds
+to pretend I have solved it in this call.
+Lena Fischer
+6:426:42
+LF
+Lena Fischer 6 minutes 42 seconds
+Please do raise it. My if you...
+Ana Duarte
+6:466:46
+AD
+Ana Duarte 6 minutes 46 seconds
+Mm-hm.
+Lena Fischer
+6:486:48
+LF
+Lena Fischer 6 minutes 48 seconds
+care whose
+Lena Fischer 6 minutes 54 seconds
+holiday it is.
+Kwame Boateng
+6:586:58
+KB
+Kwame Boateng 6 minutes 58 seconds
+True.

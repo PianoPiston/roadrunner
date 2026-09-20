@@ -1,0 +1,82 @@
+*** SYNTHETIC DATA. This transcript is entirely fictional. Acme Org, Meridian
+*** Consulting and every person named are invented. Any resemblance to a real
+*** organisation or individual is coincidental. Generated for the RELEX challenge
+*** track, AaltoAI Hackathon 2026.
+
+Meeting: Internal handover, pre-sales to delivery
+Customer: Acme Org (Grocery Retail, EMEA)
+Date: 2024-07-09
+Phase: Implementation
+Attendees: Marco Rossi (RELEX), Tomas Lindholm (RELEX), Ana Duarte (RELEX), Kwame Boateng (RELEX)
+
+Me: like So this is handover. I have read the SOW and the technical assessment. What is not in either those?
+Them: What is not in.
+Them: A lot, honestly.
+Me: Then let us start there rather than with what I have already read.
+Them: Then let us start there. I have already read.
+Them: Kahn. The CFO. He signed on the basis that this reduces fresh food waste, and he has said twelve months to me at least four times. That is in the SOW as an expectation, legal watered the wording, but he does not know that and he would not care. He thinks he has twelve months.
+Me: sort of Twelve months from signature.
+Them: From signature, so July next year.
+Me: And fresh is phase two.
+Them: I mean Fresh is phase two.
+Me: That does not work.
+Them: No.
+Me: you know Has anyone said that to him?
+Them: I have said the phasing to him twice and he has answered by repeating the twelve months. I do not think he has connected the two.
+Them: I mean, he has connected them. He said it in the June meeting. He said phase two needs to be inside the twelve months.
+Me: I mean. two needs to.
+Them: Well, did he? Then he has connected them and I have not solved it.
+Me: them and. solved it.
+Me: I need that written down somewhere.
+Them: I will put it in the account plan.
+Me: Put it in the risk log, not the account plan. I read the risk log.
+Them: Fine.
+Me: you know Tomas, the technical side.
+Them: Three things and only one of them is in the assessment properly.
+Me: Three things and. the assessment properly.
+Me: And the third?
+Them: Remaining shelf-life does not exist. Not as a field, sort of not not anywhere we can reach. It is in the warehouse system as an arrival date and it is not exposed.
+Me: not not anywhere. as an.
+Me: Is that in the assessment?
+Them: It is in the assessment as an open question. It not in the assessment as a phase two blocker, which is what it actually is.
+Me: Why not?
+Them: so Because when I wrote it in May the answer was still pending. answer came back in August and by then assessment.
+Me: so Because. answer was still. and by then assessment.
+Me: actually So the most important dependency on the project is a.
+Them: Okay so, yes.
+Me: Right. Kwame, note that as the first item on the phase two dependency list, and it needs a date and an owner.
+Them: Owner on which side?
+Me: right Priya nominally. But she has told Tomas twice twice that she will not raise a change request for something outside the current phase, and she is right, so the real owner is whoever runs phase two.
+Them: right Priya nominally. But. and she is right, so.
+Them: like Which is not appointed.
+Me: Which is not appointed.
+Them: Yeah so, i will put it down with no.
+Me: People. Who am I dealing with?
+Them: Lena Fischer is your day to day. She is good, she is direct, she will tell you when something is wrong rather than let fester. Do not surprise her.
+Me: And Priya?
+Them: Priya will tell you exactly why your plan will not work, and she will be right, and she will not enjoy being right. Treat her as an asset rather than an obstacle and she will do the same for you.
+Me: Priya will tell you. will be. being right.
+Me: Noted.
+Them: basically There is one more person and she is not on the project.
+Me: basically There.
+Me: Well, who?
+Them: Sofia Almeida. Category manager for fresh. She was in the demo in March she is the reason we understood the problem at all. She explained the shell life thing better than anyone, you know including us.
+Them: Sofia Almeida. Category manager. know including us.
+Me: Is she in phase one?
+Them: No, phase one is ambient.
+Me: Then I will not meet her for a year.
+Them: Probably not.
+Me: Is that a problem?
+Them: I do not know. She is the only person at Acme who knows fresh, and she said so herself in the demo, unprompted. She also mentioned she has surgery coming up.
+Me: I do not need to know that.
+Them: yeah No, you probably do not.
+Me: What I need to know is that fresh has one knowledge holder. That is a risk. The rest is hers.
+Them: What I need. is hers.
+Them: actually Agreed.
+Me: I mean Last question. Is there anything in the sales conversation that Acme thinks is agreed and is not in SOW?
+Them: Not that I can think of.
+Them: The The shelf life aware ordering. Sofia described a requirement in March and Marco said we would commit fresh as phase two with a target window. Sofia thinks the requirement is agreed. The SOW says fresh is phase two. Those are not the same thing.
+Them: The The shelf. would commit fresh.
+Them: That is fair.
+Me: so Then Then that is the second thing on the dependency list.
+Them: so Then Then that is.

@@ -1,0 +1,521 @@
+*** SYNTHETIC DATA. This transcript is entirely fictional. Acme Org, Meridian
+*** Consulting and every person named are invented. Any resemblance to a real
+*** organisation or individual is coincidental. Generated for the RELEX challenge
+*** track, AaltoAI Hackathon 2026.
+
+Meeting: Bakery design workshop
+Customer: Acme Org (Grocery Retail, EMEA)
+Date: 2026-03-17
+Phase: Implementation
+Attendees: Nadia Haddad (RELEX), Tomas Lindholm (RELEX), Sofia Almeida (Acme), Priya Nair (Acme), Ivan Petrov (Meridian), Ruth Oyelaran (Meridian)
+
+Nadia Haddad
+0:330:33
+NH
+Nadia Haddad 33 seconds
+First proper design session on
+Ruth Oyelaran
+0:390:39
+RO
+Ruth Oyelaran 39 seconds
+Mm, okay.
+Nadia Haddad
+0:400:40
+NH
+Nadia Haddad 40 seconds
+bakery. Meridian owns the production plan, we own the demand signal, and today we agree where,
+Nadia Haddad 52 seconds
+the line sits.
+Ruth Oyelaran
+0:550:55
+RO
+Ruth Oyelaran 55 seconds
+Yes.
+Ivan Petrov
+0:590:59
+IP
+Ivan Petrov 59 seconds
+Agreed.
+Sofia Almeida
+1:031:03
+SA
+Sofia Almeida 1 minute 3 seconds
+actually Can I set out the problem first,
+Nadia Haddad
+1:101:10
+NH
+Nadia Haddad 1 minute 10 seconds
+Mm, okay.
+Sofia Almeida
+1:121:12
+SA
+Sofia Almeida 1 minute 12 seconds
+because I do not think it has been stated properly to Meridian.
+Ruth Oyelaran
+1:201:20
+RO
+Ruth Oyelaran 1 minute 20 seconds
+Please.
+Sofia Almeida
+1:241:24
+SA
+Sofia Almeida 1 minute 24 seconds
+About sixty percent bakery is baked in store. That is not an ordering decision,
+Ruth Oyelaran
+1:351:35
+RO
+Ruth Oyelaran 1 minute 35 seconds
+Yeah, yeah.
+Sofia Almeida
+1:391:39
+SA
+Sofia Almeida 1 minute 39 seconds
+it is a
+Priya Nair
+1:431:43
+PN
+Priya Nair 1 minute 43 seconds
+True.
+Sofia Almeida
+1:451:45
+SA
+Sofia Almeida 1 minute 45 seconds
+production decision,
+Tomas Lindholm
+1:501:50
+TL
+Tomas Lindholm 1 minute 50 seconds
+Okay.
+Sofia Almeida
+1:511:51
+SA
+Sofia Almeida 1 minute 51 seconds
+and it happens twice a
+Sofia Almeida 1 minute 55 seconds
+day. The other forty percent...
+Tomas Lindholm
+1:581:58
+TL
+Tomas Lindholm 1 minute 58 seconds
+Yeah, yeah.
+Sofia Almeida
+2:022:02
+SA
+Sofia Almeida 2 minutes 2 seconds
+is delivered, which behaves like the rest of fresh.
+Ruth Oyelaran
+2:092:09
+RO
+Ruth Oyelaran 2 minutes 9 seconds
+Sure.
+Ruth Oyelaran
+2:132:13
+RO
+Ruth Oyelaran 2 minutes 13 seconds
+And the split,
+Priya Nair
+2:162:16
+PN
+Priya Nair 2 minutes 16 seconds
+Mm-hm.
+Ruth Oyelaran
+2:202:20
+RO
+Ruth Oyelaran 2 minutes 20 seconds
+varies by
+Sofia Almeida
+2:272:27
+SA
+Sofia Almeida 2 minutes 27 seconds
+Yeah.
+Ruth Oyelaran
+2:292:29
+RO
+Ruth Oyelaran 2 minutes 29 seconds
+format?
+Priya Nair
+2:322:32
+PN
+Priya Nair 2 minutes 32 seconds
+Mm, okay.
+Sofia Almeida
+2:332:33
+SA
+Sofia Almeida 2 minutes 33 seconds
+Heavily. The big stores bake most of it. Convenience bakes almost
+Ruth Oyelaran
+2:412:41
+RO
+Ruth Oyelaran 2 minutes 41 seconds
+Yes.
+Sofia Almeida
+2:432:43
+SA
+Sofia Almeida 2 minutes 43 seconds
+none.
+Priya Nair
+2:462:46
+PN
+Priya Nair 2 minutes 46 seconds
+Yeah.
+Ruth Oyelaran
+2:492:49
+RO
+Ruth Oyelaran 2 minutes 49 seconds
+Do you have,
+Nadia Haddad
+2:562:56
+NH
+Nadia Haddad 2 minutes 56 seconds
+Right.
+Ruth Oyelaran
+2:592:59
+RO
+Ruth Oyelaran 2 minutes 59 seconds
+that by store?
+Sofia Almeida
+3:033:03
+SA
+Sofia Almeida 3 minutes 3 seconds
+I have it a spreadsheet.
+Ruth Oyelaran
+3:073:07
+RO
+Ruth Oyelaran 3 minutes 7 seconds
+Can you send it?
+Sofia Almeida
+3:133:13
+SA
+Sofia Almeida 3 minutes 13 seconds
+I can. It is and...
+Ivan Petrov
+3:163:16
+IP
+Ivan Petrov 3 minutes 16 seconds
+Mm, okay.
+Tomas Lindholm
+3:173:17
+TL
+Tomas Lindholm 3 minutes 17 seconds
+Everything on this project is in
+Ivan Petrov
+3:243:24
+IP
+Ivan Petrov 3 minutes 24 seconds
+True.
+Tomas Lindholm
+3:283:28
+TL
+Tomas Lindholm 3 minutes 28 seconds
+Sofia's spreadsheet.
+Sofia Almeida
+3:323:32
+SA
+Sofia Almeida 3 minutes 32 seconds
+Mm.
+Sofia Almeida
+3:343:34
+SA
+Sofia Almeida 3 minutes 34 seconds
+That is not a joke,
+Sofia Almeida 3 minutes 40 seconds
+sort of it is a
+Sofia Almeida 3 minutes 44 seconds
+documented risk.
+Ruth Oyelaran
+3:493:49
+RO
+Ruth Oyelaran 3 minutes 49 seconds
+Okay, yeah.
+Tomas Lindholm
+3:503:50
+TL
+Tomas Lindholm 3 minutes 50 seconds
+You are,
+Tomas Lindholm 3 minutes 54 seconds
+right. I withdraw it.
+Nadia Haddad
+3:573:57
+NH
+Nadia Haddad 3 minutes 57 seconds
+On the boundary. Our proposal is that we produce a
+Nadia Haddad 4 minutes 3 seconds
+forecast at store, article and day for all of bakery, delivered and
+Sofia Almeida
+4:104:10
+SA
+Sofia Almeida 4 minutes 10 seconds
+Yes.
+Nadia Haddad
+4:114:11
+NH
+Nadia Haddad 4 minutes 11 seconds
+baked, and Meridian consumes it and decides how it becomes a
+Ruth Oyelaran
+4:184:18
+RO
+Ruth Oyelaran 4 minutes 18 seconds
+Mm-hm.
+Nadia Haddad
+4:194:19
+NH
+Nadia Haddad 4 minutes 19 seconds
+You're on mute.
+Nadia Haddad 4 minutes 25 seconds
+production plan.
+Ivan Petrov
+4:324:32
+IP
+Ivan Petrov 4 minutes 32 seconds
+Okay, yeah.
+Ivan Petrov
+4:354:35
+IP
+Ivan Petrov 4 minutes 35 seconds
+We would
+Ivan Petrov 4 minutes 42 seconds
+want finer than day for the baked lines. Bread sold
+Ivan Petrov 4 minutes 50 seconds
+at eight in the morning and bread sold
+Ivan Petrov 4 minutes 58 seconds
+at four,
+Nadia Haddad
+5:025:02
+NH
+Nadia Haddad 5 minutes 2 seconds
+Okay.
+Ivan Petrov
+5:035:03
+IP
+Ivan Petrov 5 minutes 3 seconds
+in the afternoon are different products operationally.
+Nadia Haddad
+5:115:11
+NH
+Nadia Haddad 5 minutes 11 seconds
+Yeah, yeah.
+Nadia Haddad
+5:155:15
+NH
+Nadia Haddad 5 minutes 15 seconds
+Intraday.
+Ivan Petrov
+5:195:19
+IP
+Ivan Petrov 5 minutes 19 seconds
+Two windows would be enough. Morning and afternoon.
+Nadia Haddad
+5:235:23
+NH
+Nadia Haddad 5 minutes 23 seconds
+That is not something this configuration does out of the box.
+Tomas Lindholm
+5:295:29
+TL
+Tomas Lindholm 5 minutes 29 seconds
+Yeah, yeah.
+Tomas Lindholm
+5:335:33
+TL
+Tomas Lindholm 5 minutes 33 seconds
+We can split the day forecast on a fixed profile
+Tomas Lindholm 5 minutes 39 seconds
+per store and category, derived from historical sales by hour. That is not a true intraday forecast.
+Sofia Almeida
+5:475:47
+SA
+Sofia Almeida 5 minutes 47 seconds
+Right.
+Tomas Lindholm
+5:515:51
+TL
+Tomas Lindholm 5 minutes 51 seconds
+Yeah.
+Tomas Lindholm 5 minutes 57 seconds
+It is a day forecast with a shape applied.
+Sofia Almeida
+6:066:06
+SA
+Sofia Almeida 6 minutes 6 seconds
+Mm, okay.
+Ivan Petrov
+6:096:09
+IP
+Ivan Petrov 6 minutes 9 seconds
+Would the shape be stable?
+Priya Nair
+6:156:15
+PN
+Priya Nair 6 minutes 15 seconds
+Yeah.
+Sofia Almeida
+6:196:19
+SA
+Sofia Almeida 6 minutes 19 seconds
+The shape is stable. Saturday,
+Sofia Almeida 6 minutes 26 seconds
+differs from weekdays, and the first Saturday after payday differs again.
+Nadia Haddad
+6:346:34
+NH
+Nadia Haddad 6 minutes 34 seconds
+Yeah.
+Tomas Lindholm
+6:356:35
+TL
+Tomas Lindholm 6 minutes 35 seconds
+Then a profile by store, category
+Tomas Lindholm 6 minutes 39 seconds
+and day type works.
+Ivan Petrov
+6:456:45
+IP
+Ivan Petrov 6 minutes 45 seconds
+That is enough for us.
+Ruth Oyelaran
+6:496:49
+RO
+Ruth Oyelaran 6 minutes 49 seconds
+Mm.
+Nadia Haddad
+6:506:50
+NH
+Nadia Haddad 6 minutes 50 seconds
+I want to be
+Nadia Haddad 6 minutes 56 seconds
+precise about what we are agreeing, yeah because this will be quoted back. We produce a day level forecast plus a fixed
+Tomas Lindholm
+7:087:08
+TL
+Tomas Lindholm 7 minutes 8 seconds
+Yeah.
+Nadia Haddad
+7:097:09
+NH
+Nadia Haddad 7 minutes 9 seconds
+intraday profile. We do not produce an intraday forecast. If the shape moves, the profile is wrong until somebody
+Nadia Haddad 7 minutes 20 seconds
+re-derives it.
+Ruth Oyelaran
+7:277:27
+RO
+Ruth Oyelaran 7 minutes 27 seconds
+Understood, and noted our side.
+Nadia Haddad
+7:337:33
+NH
+Nadia Haddad 7 minutes 33 seconds
+Who re-derives it, and how often?
+Tomas Lindholm
+7:407:40
+TL
+Tomas Lindholm 7 minutes 40 seconds
+That is the question nobody wants to own.
+Sofia Almeida
+7:447:44
+SA
+Sofia Almeida 7 minutes 44 seconds
+It will be me.
+Priya Nair
+7:507:50
+PN
+Priya Nair 7 minutes 50 seconds
+Okay, yeah.
+Nadia Haddad
+7:517:51
+NH
+Nadia Haddad 7 minutes 51 seconds
+Let us not decide that today. I will put it
+Ruth Oyelaran
+7:577:57
+RO
+Ruth Oyelaran 7 minutes 57 seconds
+Yeah, yeah.
+Nadia Haddad
+8:008:00
+NH
+Nadia Haddad 8 minutes
+on the open items list with no owner, so it
+Nadia Haddad 8 minutes 7 seconds
+is visible rather than assumed.
+Sofia Almeida
+8:148:14
+SA
+Sofia Almeida 8 minutes 14 seconds
+Mm.
+Priya Nair
+8:168:16
+PN
+Priya Nair 8 minutes 16 seconds
+On data. The intraday sales history is in the till system, not in SAP.
+Tomas Lindholm
+8:258:25
+TL
+Tomas Lindholm 8 minutes 25 seconds
+Okay.
+Tomas Lindholm
+8:288:28
+TL
+Tomas Lindholm 8 minutes 28 seconds
+Can we
+Tomas Lindholm 8 minutes 35 seconds
+get it?
+Priya Nair
+8:428:42
+PN
+Priya Nair 8 minutes 42 seconds
+Probably. It is a different team, and before you ask, no, I have not spoken to them
+Priya Nair 8 minutes 51 seconds
+yet.
+Ivan Petrov
+8:568:56
+IP
+Ivan Petrov 8 minutes 56 seconds
+Yeah.
+Tomas Lindholm
+9:009:00
+TL
+Tomas Lindholm 9 minutes
+How different?
+Priya Nair
+9:079:07
+PN
+Priya Nair 9 minutes 7 seconds
+Different building.
+Nadia Haddad
+9:119:11
+NH
+Nadia Haddad 9 minutes 11 seconds
+Mm, okay.
+Nadia Haddad
+9:159:15
+NH
+Nadia Haddad 9 minutes 15 seconds
+Then that is a...
+Nadia Haddad 9 minutes 19 seconds
+dependency with a name on it. Priya, can you open that,
+Ivan Petrov
+9:289:28
+IP
+Ivan Petrov 9 minutes 28 seconds
+Mm, okay.
+Nadia Haddad
+9:329:32
+NH
+Nadia Haddad 9 minutes 32 seconds
+conversation this month rather than in May?
+Ivan Petrov
+9:399:39
+IP
+Ivan Petrov 9 minutes 39 seconds
+Mm, okay.
+Priya Nair
+9:439:43
+PN
+Priya Nair 9 minutes 43 seconds
+I will open it this month.
+Nadia Haddad
+9:469:46
+NH
+Nadia Haddad 9 minutes 46 seconds
+Thank you. That is the one that will bite us otherwise.

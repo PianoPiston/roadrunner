@@ -1,0 +1,529 @@
+*** SYNTHETIC DATA. This transcript is entirely fictional. Acme Org, Meridian
+*** Consulting and every person named are invented. Any resemblance to a real
+*** organisation or individual is coincidental. Generated for the RELEX challenge
+*** track, AaltoAI Hackathon 2026.
+
+Meeting: Fresh UAT cover briefing
+Customer: Acme Org (Grocery Retail, EMEA)
+Date: 2025-10-09
+Phase: Implementation
+Attendees: Sofia Almeida (Acme), Jonas Weiss (Acme), Nadia Haddad (RELEX), Ana Duarte (RELEX)
+
+Ana Duarte
+0:240:24
+AD
+Ana Duarte 24 seconds
+Sofia is out from Monday for about six weeks. Jonas is covering. This
+Ana Duarte 31 seconds
+So...
+Ana Duarte 34 seconds
+is the briefing.
+Nadia Haddad
+0:400:40
+NH
+Nadia Haddad 40 seconds
+Yeah.
+Sofia Almeida
+0:410:41
+SA
+Sofia Almeida 41 seconds
+I want to say at the start that yeah...
+Sofia Almeida 47 seconds
+to work and I am doing it
+Sofia Almeida 51 seconds
+anyway.
+Ana Duarte
+0:550:55
+AD
+Ana Duarte 55 seconds
+Mm.
+Jonas Weiss
+0:580:58
+JW
+Jonas Weiss 58 seconds
+Thanks.
+Sofia Almeida
+1:031:03
+SA
+Sofia Almeida 1 minute 3 seconds
+Not you. The situation.
+Jonas Weiss
+1:101:10
+JW
+Jonas Weiss 1 minute 10 seconds
+I know. I do embient.
+Nadia Haddad
+1:131:13
+NH
+Nadia Haddad 1 minute 13 seconds
+How much fresh do you know, honestly?
+Jonas Weiss
+1:201:20
+JW
+Jonas Weiss 1 minute 20 seconds
+I know the products. I do not know the ordering...
+Nadia Haddad
+1:261:26
+NH
+Nadia Haddad 1 minute 26 seconds
+Yeah, yeah.
+Jonas Weiss
+1:281:28
+JW
+Jonas Weiss 1 minute 28 seconds
+behaviour, and...
+Jonas Weiss 1 minute 35 seconds
+One second.
+Jonas Weiss 1 minute 40 seconds
+I have never done a UAT.
+Ana Duarte
+1:461:46
+AD
+Ana Duarte 1 minute 46 seconds
+Yes.
+Nadia Haddad
+1:471:47
+NH
+Nadia Haddad 1 minute 47 seconds
+Then Then let us be realistic about what
+Sofia Almeida
+1:531:53
+SA
+Sofia Almeida 1 minute 53 seconds
+Yes.
+Nadia Haddad
+1:561:56
+NH
+Nadia Haddad 1 minute 56 seconds
+you can decide and what has to wait.
+Sofia Almeida
+2:042:04
+SA
+Sofia Almeida 2 minutes 4 seconds
+like That is the right approach. Can I,
+Sofia Almeida 2 minutes 11 seconds
+go through it as three lists?
+Nadia Haddad
+2:142:14
+NH
+Nadia Haddad 2 minutes 14 seconds
+Sure.
+Ana Duarte
+2:152:15
+AD
+Ana Duarte 2 minutes 15 seconds
+Yeah so, please.
+Nadia Haddad
+2:202:20
+NH
+Nadia Haddad 2 minutes 20 seconds
+Yeah.
+Sofia Almeida
+2:232:23
+SA
+Sofia Almeida 2 minutes 23 seconds
+Things Jonas can where the...
+Sofia Almeida 2 minutes 29 seconds
+hierarchy, because that documented. Anything about supplier lead times. Anything about the ambiant side of a shared category.
+Jonas Weiss
+2:422:42
+JW
+Jonas Weiss 2 minutes 42 seconds
+Let me just...
+Jonas Weiss 2 minutes 44 seconds
+Fine.
+Sofia Almeida
+2:512:51
+SA
+Sofia Almeida 2 minutes 51 seconds
+Things Jonas should not decide, so and I mean should
+Sofia Almeida 2 minutes 59 seconds
+not rather than cannot. Anything about shell life. Anything about
+Sofia Almeida 3 minutes 7 seconds
+the slow moving lines in produce,
+Sofia Almeida 3 minutes 10 seconds
+which behave differently from everything else and...
+Ana Duarte
+3:143:14
+AD
+Ana Duarte 3 minutes 14 seconds
+Yeah, yeah.
+Sofia Almeida
+3:173:17
+SA
+Sofia Almeida 3 minutes 17 seconds
+I cannot explain why in one meeting. And anything where the system's proposal looks wrong but you cannot say
+Sofia Almeida 3 minutes 30 seconds
+what is wrong with it.
+Nadia Haddad
+3:373:37
+NH
+Nadia Haddad 3 minutes 37 seconds
+That last one is most of UAT.
+Sofia Almeida
+3:413:41
+SA
+Sofia Almeida 3 minutes 41 seconds
+Yes.
+Ana Duarte
+3:443:44
+AD
+Ana Duarte 3 minutes 44 seconds
+So what happens with those?
+Sofia Almeida
+3:473:47
+SA
+Sofia Almeida 3 minutes 47 seconds
+They wait.
+Nadia Haddad
+3:523:52
+NH
+Nadia Haddad 3 minutes 52 seconds
+Right.
+Nadia Haddad
+3:543:54
+NH
+Nadia Haddad 3 minutes 54 seconds
+so For six weeks.
+Sofia Almeida
+3:583:58
+SA
+Sofia Almeida 3 minutes 58 seconds
+For six
+Sofia Almeida 4 minutes 4 seconds
+weeks. Or you send them to me and I will look,
+Sofia Almeida 4 minutes 10 seconds
+at them,
+Sofia Almeida 4 minutes 17 seconds
+which is what will actually
+Sofia Almeida 4 minutes 21 seconds
+happen and which everyone in this call knows.
+Nadia Haddad
+4:274:27
+NH
+Nadia Haddad 4 minutes 27 seconds
+Yeah, yeah.
+Ana Duarte
+4:284:28
+AD
+Ana Duarte 4 minutes 28 seconds
+I am not going to ask you to work while you are off.
+Nadia Haddad
+4:374:37
+NH
+Nadia Haddad 4 minutes 37 seconds
+Mm.
+Sofia Almeida
+4:414:41
+SA
+Sofia Almeida 4 minutes 41 seconds
+You will not have to ask.
+Nadia Haddad
+4:454:45
+NH
+Nadia Haddad 4 minutes 45 seconds
+Right.
+Ana Duarte
+4:484:48
+AD
+Ana Duarte 4 minutes 48 seconds
+Can you hear me?
+Ana Duarte 4 minutes 50 seconds
+Sofia.
+Sofia Almeida
+4:564:56
+SA
+Sofia Almeida 4 minutes 56 seconds
+I mean, i am not being...
+Sofia Almeida 5 minutes
+difficult. I am telling you. If UAT stalls for six weeks the go/no-go moves, and if the go/no-go moves
+Ana Duarte
+5:135:13
+AD
+Ana Duarte 5 minutes 13 seconds
+Yes.
+Sofia Almeida
+5:145:14
+SA
+Sofia Almeida 5 minutes 14 seconds
+then Robert has a,
+Jonas Weiss
+5:185:18
+JW
+Jonas Weiss 5 minutes 18 seconds
+Right.
+Sofia Almeida
+5:225:22
+SA
+Sofia Almeida 5 minutes 22 seconds
+conversation with Lena, and I would rather look
+Jonas Weiss
+5:305:30
+JW
+Jonas Weiss 5 minutes 30 seconds
+Yes.
+Sofia Almeida
+5:335:33
+SA
+Sofia Almeida 5 minutes 33 seconds
+at.
+Nadia Haddad
+5:395:39
+NH
+Nadia Haddad 5 minutes 39 seconds
+Mm, okay.
+Nadia Haddad
+5:435:43
+NH
+Nadia Haddad 5 minutes 43 seconds
+Can we reduce how many reach that yeah...
+Ana Duarte
+5:515:51
+AD
+Ana Duarte 5 minutes 51 seconds
+Right.
+Nadia Haddad
+5:545:54
+NH
+Nadia Haddad 5 minutes 54 seconds
+I take everything
+Jonas Weiss
+6:006:00
+JW
+Jonas Weiss 6 minutes
+Okay, yeah.
+Nadia Haddad
+6:046:04
+NH
+Nadia Haddad 6 minutes 4 seconds
+Hmm.
+Nadia Haddad 6 minutes 9 seconds
+that is obviously a configuration...
+Nadia Haddad 6 minutes 15 seconds
+question and handle it myself, and Jonas takes anything documented, what is left?
+Sofia Almeida
+6:216:21
+SA
+Sofia Almeida 6 minutes 21 seconds
+Fewer. Maybe a third of what it would be.
+Nadia Haddad
+6:266:26
+NH
+Nadia Haddad 6 minutes 26 seconds
+right Then let us do that.
+Sofia Almeida
+6:326:32
+SA
+Sofia Almeida 6 minutes 32 seconds
+And third list. Things I have not
+Jonas Weiss
+6:406:40
+JW
+Jonas Weiss 6 minutes 40 seconds
+Yeah.
+Sofia Almeida
+6:416:41
+SA
+Sofia Almeida 6 minutes 41 seconds
+written down
+Sofia Almeida 6 minutes 45 seconds
+anywhere.
+Ana Duarte
+6:486:48
+AD
+Ana Duarte 6 minutes 48 seconds
+Go on.
+Nadia Haddad
+6:516:51
+NH
+Nadia Haddad 6 minutes 51 seconds
+Okay.
+Sofia Almeida
+6:556:55
+SA
+Sofia Almeida 6 minutes 55 seconds
+The chilled ready meals promotion cycle is not in any document. It
+Sofia Almeida 7 minutes 5 seconds
+Hmm.
+Sofia Almeida 7 minutes 11 seconds
+runs on a four week rhythm that the commercial team...
+Sofia Almeida 7 minutes 16 seconds
+set in 2019 and never wrote down.
+Sofia Almeida 7 minutes 23 seconds
+If the,
+Ana Duarte
+7:287:28
+AD
+Ana Duarte 7 minutes 28 seconds
+True.
+Sofia Almeida
+7:307:30
+SA
+Sofia Almeida 7 minutes 30 seconds
+system forecasts a promotion on the wrong week, the number will look,
+Sofia Almeida 7 minutes 40 seconds
+plausible and be wrong.
+Jonas Weiss
+7:467:46
+JW
+Jonas Weiss 7 minutes 46 seconds
+Yeah.
+Nadia Haddad
+7:507:50
+NH
+Nadia Haddad 7 minutes 50 seconds
+How would we know?
+Sofia Almeida
+7:547:54
+SA
+Sofia Almeida 7 minutes 54 seconds
+Okay so, you would
+Nadia Haddad
+7:577:57
+NH
+Nadia Haddad 7 minutes 57 seconds
+Yeah, yeah.
+Sofia Almeida
+7:597:59
+SA
+Sofia Almeida 7 minutes 59 seconds
+not. I,
+Jonas Weiss
+8:048:04
+JW
+Jonas Weiss 8 minutes 4 seconds
+Yes.
+Sofia Almeida
+8:058:05
+SA
+Sofia Almeida 8 minutes 5 seconds
+would.
+Ana Duarte
+8:088:08
+AD
+Ana Duarte 8 minutes 8 seconds
+Sorry, go ahead.
+Ana Duarte 8 minutes 14 seconds
+Can you write it down before,
+Ana Duarte 8 minutes 19 seconds
+Monday?
+Sofia Almeida
+8:258:25
+SA
+Sofia Almeida 8 minutes 25 seconds
+I can write down the
+Ana Duarte
+8:308:30
+AD
+Ana Duarte 8 minutes 30 seconds
+Sure.
+Sofia Almeida
+8:318:31
+SA
+Sofia Almeida 8 minutes 31 seconds
+rhythm. I cannot write down which weeks the commercial team will break it, which they do about...
+Sofia Almeida 8 minutes 41 seconds
+twice a year.
+Ana Duarte
+8:478:47
+AD
+Ana Duarte 8 minutes 47 seconds
+Write down what can. Even the rhythm so...
+Sofia Almeida
+8:518:51
+SA
+Sofia Almeida 8 minutes 51 seconds
+I will send it tonight.
+Ana Duarte
+8:588:58
+AD
+Ana Duarte 8 minutes 58 seconds
+Sure.
+Jonas Weiss
+8:598:59
+JW
+Jonas Weiss 8 minutes 59 seconds
+Send it to
+Jonas Weiss 9 minutes 2 seconds
+me as well.
+Ana Duarte
+9:059:05
+AD
+Ana Duarte 9 minutes 5 seconds
+Mm.
+Sofia Almeida
+9:089:08
+SA
+Sofia Almeida 9 minutes 8 seconds
+I will send it to all three of you, because if I send it to one...
+Nadia Haddad
+9:209:20
+NH
+Nadia Haddad 9 minutes 20 seconds
+Mm-hm.
+Sofia Almeida
+9:219:21
+SA
+Sofia Almeida 9 minutes 21 seconds
+person it will be gone by December.
+Nadia Haddad
+9:299:29
+NH
+Nadia Haddad 9 minutes 29 seconds
+Yeah, yeah.
+Nadia Haddad
+9:309:30
+NH
+Nadia Haddad 9 minutes 30 seconds
+Fair.
+Jonas Weiss
+9:349:34
+JW
+Jonas Weiss 9 minutes 34 seconds
+Yeah, yeah.
+Ana Duarte
+9:359:35
+AD
+Ana Duarte 9 minutes 35 seconds
+Anything else?
+Sofia Almeida
+9:399:39
+SA
+Sofia Almeida 9 minutes 39 seconds
+One thing and it it is not about the the,
+Sofia Almeida 9 minutes 45 seconds
+project. I
+Jonas Weiss
+9:499:49
+JW
+Jonas Weiss 9 minutes 49 seconds
+Yeah.
+Sofia Almeida
+9:519:51
+SA
+Sofia Almeida 9 minutes 51 seconds
+would rather people did not know why I am off.
+Sofia Almeida 9 minutes 56 seconds
+Yeah.
+Sofia Almeida 10 minutes 1 second
+Jonas knows because he had to. Nobody else needs
+Nadia Haddad
+10:0710:07
+NH
+Nadia Haddad 10 minutes 7 seconds
+Right.
+Ana Duarte
+10:0910:09
+AD
+Ana Duarte 10 minutes 9 seconds
+Understood.
+Nadia Haddad
+10:1410:14
+NH
+Nadia Haddad 10 minutes 14 seconds
+Mm-hm.
+Sofia Almeida
+10:1510:15
+SA
+Sofia Almeida 10 minutes 15 seconds
+I say that because it turns out these things get written down.

@@ -1,0 +1,156 @@
+*** SYNTHETIC DATA. Entirely fictional. Acme Org, Meridian Consulting and every
+*** person named are invented. Generated for the RELEX challenge track,
+*** AaltoAI Hackathon 2026.
+
+Subject: Meridian - environment access
+From: Ivan Petrov <i.petrov@meridian-consulting.example>
+Date: Monday, March 2, 2026 9:30 AM
+To: Priya Nair <priya.nair@acme-org.example>
+Cc: Tomas Lindholm <tomas.lindholm@relexsolutions.example>; Nadia Haddad <n.haddad@relexsolutions.example>; Ana Duarte <ana.duarte@relexsolutions.example>
+Messages in thread: 7
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+None taken, and it is the right call. We work from extracts on most engagements for
+exactly that reason.
+
+Kind regards,
+
+Ivan Petrov
+Principal Consultant, Meridian Consulting
+Image
++44 7700 900 942
+meridian-consulting.example
+Ivan Petrov | LinkedIn
+Image
+
+
+From: Priya Nair <priya.nair@acme-org.example>
+Sent: Monday, March 2, 2026 8:45 AM
+To: Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Cc: Nadia Haddad <n.haddad@relexsolutions.example>; Ana Duarte <ana.duarte@relexsolutions.example>; Ivan Petrov <i.petrov@meridian-consulting.example>
+Subject: Re: Meridian - environment access
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+Extracts. Slower is acceptable, the other thing is not.
+
+Ivan, no offence intended. It is not about Meridian, it is that I cannot explain to my
+data protection officer why a third party had read access to everything.
+
+Priya Nair
+IT Integration Lead
++49 151 3307 9126
+Acme Org GmbH | Hansaring 82, 50670 Köln
+acme-org.example
+Image
+
+
+Från: Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Skickat: den 26 februari 2026 16:20
+Till: Nadia Haddad <n.haddad@relexsolutions.example>
+Kopia: Priya Nair <priya.nair@acme-org.example>; Ana Duarte <ana.duarte@relexsolutions.example>; Ivan Petrov <i.petrov@meridian-consulting.example>
+Ämne: Re: Meridian - environment access
+
+Realistic but not free. Roughly two weeks of setup and it needs somewhere to run.
+
+The cheaper option is extracts. Slower for Meridian and no risk on the fresh side.
+
+Med vänliga hälsningar,
+Tomas Lindholm
+Solution Architect Bild borttagen av avsändaren.
++46 70 118 44 92
+tomas.lindholm@relexsolutions.example
+Vasagatan 7, 111 20 Stockholm
+Bild borttagen av avsändaren.
+relexsolutions.example
+
+
+From: Nadia Haddad <n.haddad@relexsolutions.example>
+Sent: Thursday, February 26, 2026 11:40 AM
+To: Priya Nair <priya.nair@acme-org.example>
+Cc: Ana Duarte <ana.duarte@relexsolutions.example>; Ivan Petrov <i.petrov@meridian-consulting.example>; Tomas Lindholm <tomas.lindholm@relexsolutions.example>
+Subject: Re: Meridian - environment access
+
+Honest answer: read access is read access. There is no category level restriction in the
+current configuration.
+
+So either they see the fresh configuration, or we create a separate environment, or they
+work from extracts we prepare.
+
+Tomas, is a separate environment realistic?
+
+Nadia Haddad
+Solution Consultant Image
++46 76 552 30 18 | CET
+n.haddad@relexsolutions.example
+Vasagatan 7, 111 20 Stockholm
+Image
+Plan better. Sell more. Waste less
+relexsolutions.example
+
+
+From: Priya Nair <priya.nair@acme-org.example>
+Sent: Wednesday, February 25, 2026 9:05 AM
+To: Nadia Haddad <n.haddad@relexsolutions.example>
+Cc: Ana Duarte <ana.duarte@relexsolutions.example>; Ivan Petrov <i.petrov@meridian-consulting.example>
+Subject: Re: Meridian - environment access
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+Read access to test, yes. Not production, and not the fresh configuration, which is not
+theirs to look at.
+
+Is the environment able to restrict by category? Because if read access to test means
+read access to everything in test, that is a different conversation.
+
+Priya Nair
+IT Integration Lead
++49 151 3307 9126
+Acme Org GmbH | Hansaring 82, 50670 Köln
+acme-org.example
+Image
+
+
+From: Nadia Haddad <n.haddad@relexsolutions.example>
+Sent: Tuesday, February 24, 2026 14:15
+To: Ivan Petrov <i.petrov@meridian-consulting.example>
+Cc: Ana Duarte <ana.duarte@relexsolutions.example>; Priya Nair <priya.nair@acme-org.example>
+Subject: Re: Meridian - environment access
+
+It goes through Priya, since it is Acme's environment.
+
+Priya, can Meridian have read access to test? Two users.
+
+Nadia Haddad
+Solution Consultant Image
++46 76 552 30 18 | CET
+n.haddad@relexsolutions.example
+Vasagatan 7, 111 20 Stockholm
+Image
+Plan better. Sell more. Waste less
+relexsolutions.example
+
+
+From: Ivan Petrov <i.petrov@meridian-consulting.example>
+Sent: Tuesday, February 24, 2026 10:30 AM
+To: Nadia Haddad <n.haddad@relexsolutions.example>
+Cc: Ana Duarte <ana.duarte@relexsolutions.example>; Priya Nair <priya.nair@acme-org.example>
+Subject: Meridian - environment access
+
+This email originated from outside of RELEX. Be careful of attachments and links from unknown senders. Report suspicious emails using the report button.
+
+Nadia,
+
+For the bakery build we need read access to the test environment for two people, myself
+and Ruth. Can you set that up, or does it go through Acme?
+
+Kind regards,
+
+Ivan Petrov
+Principal Consultant, Meridian Consulting
+Image
++44 7700 900 942
+meridian-consulting.example
+Ivan Petrov | LinkedIn
+Image

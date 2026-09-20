@@ -1,0 +1,60 @@
+*** SYNTHETIC DATA. This transcript is entirely fictional. Acme Org, Northwind
+*** Retail Group, Meridian Consulting and every person named are invented. Any
+*** resemblance to a real organisation or individual is coincidental. Generated
+*** for the RELEX challenge track, AaltoAI Hackathon 2026.
+
+Meeting: Acme renewal and resourcing
+Customer: Acme Org (Grocery Retail, EMEA)
+Date: 2026-07-02
+Phase: Internal (RELEX only)
+Attendees: Henrik Sørensen (RELEX), Marco Rossi (RELEX), Ana Duarte (RELEX), Priyanka Rao (RELEX People Partner)
+
+Me: Acme. Renewal is mid twenty-seven so this is early, but the DPO review changed my view of the risk.
+Them: my view of the.
+Them: The four actions are closed except the retention policy, so which is with legal.
+Me: is with.
+Me: Good. Commercially?
+Them: I mean Nine eighty at signature, and there an expansion conversation about bakery which Meridian is fronting, so we would be subcontracting or partnering. Call it two hundred additional if it lands.
+Me: I mean Nine. we would be subcontracting or. if it lands.
+Me: Well, and Kahn?
+Them: Well, kahn got his twelve months, roughly. Fresh went live in December, so a bit late, but waste numbers from the first quarter are good enough that he stopped counting.
+Me: Then we are fine.
+Them: We are fine on Acme. I am not fine on people.
+Me: Go on.
+Them: Well, nadia has been on this account for eight months and she is the only person who. If she moves, we have an Acme-shaped Sofia problem of our own making.
+Me: we have an Acme-shaped Sofia.
+Them: Well, nadia has. she moves, we. making.
+Them: Nadia has raised workload twice in her check-ins.
+Me: Okay so, which Nadia, have two.
+Them: like Nadia Haddad, employee four. Not Nadia Öberg.
+Me: Formally?
+Them: actually In her one-to-ones. And she has asked about the internal move process, which is usually a signal.
+Me: actually In her one-to-ones. process, which is.
+Me: basically What is she on?
+Them: I would rather not put a number on a recording, honestly.
+Me: I would rather not put.
+Me: Fine, send to me separately.
+Them: I will. She is below band midpoint, which is part of conversation.
+Them: There is also the union point.
+Me: Which union point?
+Them: Two of the delivery team here are in the union and they have raised raised the on-call rota through their representative rather than through us. That is going through the works council, not through me, so I have limited visibility and I should not be chasing it.
+Me: are in the union. the on-call rota. not through me, so. it.
+Them: Two of the. in the union and. me, so I have.
+Me: Two of. and. me, so.
+Them: Correct, do not chase it. That is my side and it goes through the proper channel.
+Me: Understood. Keep it out of the account plan entirely.
+Them: It should not be in an account plan at all. It employment relations, it has nothing to do with Acme.
+Me: It should not be. at all. It.
+Me: Agreed.
+Them: I mean The thing I want to flag is what Katarina Voss said in April, because it applies to us and not just to them.
+Me: I mean The.
+Me: The anonymisation thing.
+Them: She pointed out that describing someone as the fresh category manager with sole knowledge identifies exactly one person even with the name name removed. Every risk register we write is full of that. Our own account plan says the programme owner picked it up recently and is thinly resourced, which is one person at Acme and one person at Northwind, and in both cases you could work out who and roughly why.
+Them: She pointed out. someone as. register we.
+Them: And in both cases the why is medical or personal.
+Them: Yes.
+Me: So what do you want to do?
+Them: I do not know. I want somebody to think about it who is not me. But I do not want us to stop writing down that a project has a single point of failure, so because that is most useful thing in a risk register.
+Me: Then that is the tension. Note it and take it to whoever owns this internally.
+Them: There is no obvious owner.
+Me: There never is.
